@@ -1,0 +1,2553 @@
+- pre_example: ''
+  verb: backen
+  post_example: einen Kuchen
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: bäckt (backt)
+  praeteritum: backte (buk)
+  perfekt: gebacken
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/backen_herstellen
+  duden_word_frequency: 3
+  vowel_change_from: a
+  vowel_change_to: ä
+  examples:
+    - de: Sie hat den Kuchen in einer runden Form gebacken.
+      en: She baked the cake in a round mould.
+      author: linguee
+- pre_example: ''
+  verb: befehlen
+  post_example: dem Soldaten Gehorsam
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: befiehlt
+  praeteritum: befahl
+  perfekt: befohlen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/befehlen
+  duden_word_frequency: 2
+  vowel_change_from: e
+  vowel_change_to: ie
+  examples:
+    - de: Der Feldwebel befahl der Truppe, zu marschieren. 
+      en: The sergeant commanded the troop to march.
+      author: linguee
+- pre_example: ''
+  verb: beginnen
+  post_example: mit der Vorbereitung
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: beginnt
+  praeteritum: begann
+  perfekt: begonnen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/beginnen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  examples:
+  - de: Wir beginnen morgen mit dem neuen Projekt.
+    en: We will begin with the new project tomorrow.
+    author: chatgpt
+  - de: Die Wehen haben begonnen, bald kommt das Baby.
+    en: The contractions have set in, the baby will arrive soon.
+    author: chatgpt
+- pre_example: der Hund
+  verb: beißen
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: beisst
+  praeteritum: biss
+  perfekt: gebissen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/beiszen
+  duden_word_frequency: 3
+  examples:
+  - de: Du kannst den Hund streicheln; er wird dich nicht beißen.
+    en: You can pet the dog; it will not bite you.
+    author: linguee
+- pre_example: ''
+  verb: bergen
+  post_example: ein gesunkenes Schiff
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: birgt
+  praeteritum: barg
+  perfekt: geborgen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/bergen
+  duden_word_frequency: 3
+  vowel_change_from: e
+  vowel_change_to: i
+  examples:
+    - de: Die Küstenwache hat die Mannschaft von dem havarierten Schiff geborgen.
+      en: The coastguard rescued the crew from the wrecked ship.
+      author: linguee
+    - de: Dunkle Höhlen können viele Geheimnisse bergen.
+      en: Dark caves can hide many secrets.
+      author: linguee
+    - de: Es gelang der Crew, das auf Grund gelaufene Schiff zu bergen.
+      en: The crew managed to salvage the ship that had run aground.
+      author: linguee
+- pre_example: das Eis
+  verb: bersten
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: birst
+  praeteritum: barst
+  perfekt: geborsten
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/bersten
+  duden_word_frequency: 2
+  examples:
+    - de: Wenn Wasser in Leitungen gefriert, können die Leitungen bersten.
+      en: When the water in pipes freezes, the pipes can burst.
+      author: linguee
+- pre_example: ''
+  verb: betrügen
+  post_example: jemanden
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: betrügt
+  praeteritum: betrog
+  perfekt: betrogen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/betruegen
+  duden_word_frequency: 2
+  examples:
+    - de: Mein Bruder betrügt nie, wenn wir Karten spielen.
+      en: My brother never cheats when we play cards
+      author: linguee
+    - de: Er betrog seine Klienten und stahl ihr Geld.
+      en: He defrauded his clients and stole their money.
+      author: linguee
+    - de: Mein Freund hat mich nie betrogen; er ist mir treu.
+      en: My boyfriend never cheated on me; he is faithful to me.
+      author: linguee
+- pre_example: die Krise
+  verb: bewegen
+  post_example: die Politiker zum Handeln
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: bewegt
+  praeteritum: bewog
+  perfekt: bewogen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/bewegen_bewegt
+  duden_word_frequency: 4
+  examples:
+    - de: Die Tänzerin bewegte anmutig die Arme.
+      en: The dancer moved her arms gracefully.
+      author: linguee
+    - de: Gemeinsam können wir im Umweltschutz etwas bewegen.
+      en: Together we can make a difference in environmental protection.
+      author: linguee
+    - de: Beide Zwillinge sprechen und bewegen sich auf ähnliche Art.
+      en: Both twins talk and move in a similar fashion.
+      author: linguee
+- pre_example: ''
+  verb: biegen
+  post_example: einen Stab
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: biegt
+  praeteritum: bog
+  perfekt: gebogen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/biegen
+  duden_word_frequency: 2
+  examples:
+    - de: Wenn ich einen Stock zu stark biege, bricht er. 
+      en: If I bend a stick too much, it will break.
+      author: linguee
+    - de: An der Kreuzung ist das Fahrzeug in die Schillerstraße abgebogen.
+      en: At the intersection, the vehicle turned into Schillerstrasse.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: bieten
+  post_example: guten Service
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: bietet
+  praeteritum: bot
+  perfekt: geboten
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/bieten
+  duden_word_frequency: 4
+  examples:
+    - de: Das neue Museum hat für jeden etwas zu bieten.
+      en: The new museum has something to offer for everybody.
+      author: linguee
+- pre_example: ''
+  verb: binden
+  post_example: ein Buch/eine Schleife
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: bindet
+  praeteritum: band
+  perfekt: gebunden
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/binden
+  duden_word_frequency: 3
+  examples:
+    - de: Ich muss meine Abschlußarbeit vor dem Einreichen binden.
+      en: I need to bind my thesis before submitting it.
+      author: linguee
+    - de: Wir haben ein rotes Band um die Schachtel gebunden.
+      en: We tied a red ribbon around the box.
+      author: linguee
+- pre_example: ''
+  verb: bitten
+  post_example: gemanden um Hilfe
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: bittet
+  praeteritum: bat
+  perfekt: gebeten
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/bitten
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  examples:
+    - de: Der Arzt bat um eine Probe.
+      en: The doctor asked for a specimen.
+      author: linguee
+    - de: Der Kunde bat um weitere Produktinformationen.
+      en: The customer requested further product information.
+      author: linguee
+- pre_example: der Wind
+  verb: blasen
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: bläst
+  praeteritum: blies
+  perfekt: geblasen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/blasen
+  duden_word_frequency: 3
+  vowel_change_from: a
+  vowel_change_to: ä
+  examples:
+    - de: Heute bläst der Wind sehr stark. 
+      en: Today, the wind is blowing very strongly.
+      author: linguee
+    - de: Der Sturm blies alle Blätter vom Baum. 
+      en: The storm blew all the leaves off the tree. 
+      author: linguee
+- pre_example: ''
+  verb: blieben
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: bleibt
+  praeteritum: blieb
+  perfekt: geblieben
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/bleiben
+  duden_word_frequency: 4
+  examples:
+    - de: Martin Weber ist den ganzen Winter durch im Haus geblieben.
+      en: Martin Weber stayed in the house throughout the winter.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: braten
+  post_example: das Fleisch
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: brät
+  praeteritum: briet
+  perfekt: gebraten
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/haben_Hilfsverb
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  vowel_change_from: a
+  vowel_change_to: ä
+- pre_example: das Glas
+  verb: brechen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: bricht
+  praeteritum: brach
+  perfekt: gebrochen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/brechen
+  duden_word_frequency: 3
+  vowel_change_from: e
+  vowel_change_to: i
+  examples:
+    - de: Wo bist du eigentlich die ganze Nacht gewesen?
+      en: Where have you been all night?
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: das Holz
+  verb: brennen
+  post_example: / etwas auf eine CD
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: brennt
+  praeteritum: brannte
+  perfekt: gebrannt
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/brennen
+  duden_word_frequency: 3
+- pre_example: die Scheune
+  verb: abbrennen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: brennt ab
+  praeteritum: brannte ab
+  perfekt: abgebrannt
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/abbrennen
+  duden_word_frequency: 2
+  examples:
+    - de: Das Haus ist vollständig abgebrannt.
+      en: The house completely burned down.
+      author: chatgpt
+- pre_example: ''
+  verb: bringen
+  post_example: jemandem ein Glas Wasser
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: bringt
+  praeteritum: brachte
+  perfekt: gebracht
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/bringen
+  duden_word_frequency: 4
+- pre_example: ''
+  verb: denken
+  post_example: an die Arbeit
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: denkt
+  praeteritum: dachte
+  perfekt: gedacht
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/denken
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: ''
+  verb: dingen
+  post_example: einen Mörder
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: dingt
+  praeteritum: dingte (dang)
+  perfekt: gedingt (gedungen)
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/dingen
+  duden_word_frequency: 1
+- pre_example: ''
+  verb: dreschen
+  post_example: das Getreide
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: drischt
+  praeteritum: drosch
+  perfekt: gedroschen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/dreschen
+  duden_word_frequency: 2
+  vowel_change_from: e
+  vowel_change_to: i
+- pre_example: die Sonne
+  verb: dringen
+  post_example: durch die Wolken
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: dringt
+  praeteritum: drang
+  perfekt: gedrungen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/dringen
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: dringen
+  post_example: auf die Einhaltun der Gesetze
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: dringt
+  praeteritum: drang
+  perfekt: gedrungen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/dringen
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: dürfen
+  post_example: 
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: darf
+  praeteritum: durfte
+  perfekt: gedurft/dürfen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/duerfen
+  duden_word_frequency: 4
+  vowel_change_from: ü
+  vowel_change_to: a
+  vowel_change_note: alle Singularformen
+- pre_example: ''
+  verb: empfehlen
+  post_example: jemandem ein Restaurant
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: empfiehlt
+  praeteritum: empfahl
+  perfekt: empfohlen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/empfehlen
+  duden_word_frequency: 3
+  vowel_change_from: e
+  vowel_change_to: is
+  vowel_change_note: 
+- pre_example: das Feuer
+  verb: erlöschen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: erlischt
+  praeteritum: erlosch
+  perfekt: erloschen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/erloeschen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: ''
+  verb: erschrecken
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: erschrickt
+  praeteritum: erschrak
+  perfekt: erschrocken
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/erschrecken_einschuechtern_bedrohen
+  duden_word_frequency: 3
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note: 
+  examples:
+    - de: Warum hast du mich so erschroken?
+      en: Why did you scare me so much?
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Nicht alle Schüler sind vor dem neuen Lehrer eschrocken.
+      en: Not all pupils are scared of the new teacher.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: erwägen
+  post_example: Massnahmen
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: erwägt
+  praeteritum: erwog
+  perfekt: erwogen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/erwaegen
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: essen
+  post_example: einen Apfel
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: isst
+  praeteritum: ass
+  perfekt: gegessen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/essen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note: 
+- pre_example: ''
+  verb: fahren
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: fährt
+  praeteritum: fuhr
+  perfekt: gefahren
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/fahren
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  vowel_change_from: a
+  vowel_change_to: ä
+  vowel_change_note: 
+  examples:
+    - de: Am Sonntag sind wir mit unseren Freunden in den Schwarzwald gefahren.
+      en: On Sunday, we went to the Black Forest with our friends.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Kinder unter 6 Jahren sind umsonst mitgefahren.
+      en: Children under the age of 6 travel free of charge.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: fahren
+  post_example: das Fluchtauto
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: fährt
+  praeteritum: fuhr
+  perfekt: gefahren
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/fahren
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  vowel_change_from: a
+  vowel_change_to: ä
+  vowel_change_note: 
+    examples:
+    - de: Auf dem Nürburgring habe ich das neueste Mercedesmodell gefahren.
+      en: I drove the latest Mercedes model at the Nürburgring.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Ich habe das Schild umgefahren.
+      en: I knocked over the sign.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Ich habe das Schild umfahren.
+      en: I drove around the sign.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Den Stau auf der Autobahn haben wir weiträumig umgefahren.
+      en: We avoided the traffic jam on the highway.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Der Autofahrer hat den armen Hund einfach überfahren.
+      en: The driver simply ran over the poor dog.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Frau Lambert hat sich jedes Mal in München verfahren.
+      en: Mrs. Lambert got lost in Munich every time.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: der Dollar
+  verb: fallen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: fällt
+  praeteritum: fiel
+  perfekt: gefallen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/fallen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  examples:
+    - de: Das Kind ist auf den Mund gefallen und hat dabei einen Zahn verloren.
+      en: The child has fallen on its mouth and lost a tooth.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: fangen
+  post_example: einen Fisch
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: fängt
+  praeteritum: fing
+  perfekt: gefangen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/fangen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  vowel_change_from: a
+  vowel_change_to: ä
+  vowel_change_note: 
+- pre_example: ''
+  verb: fechten
+  post_example: mit einem Degen
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: ficht
+  praeteritum: focht
+  perfekt: gefochten
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/fechten
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: finden
+  post_example: den Schlüssel
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: findet
+  praeteritum: fand
+  perfekt: gefunden
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/finden
+  duden_word_frequency: 4
+- pre_example: ''
+  verb: fliegen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: fliegt
+  praeteritum: flog
+  perfekt: geflogen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/fliegen
+  duden_word_frequency: 3
+  examples:
+    - de: Der junge Pilot ist das erste Mal einen Airbus geflogen.
+      en: The young pilot flew an Airbus for the first time.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: fliegen
+  post_example: den Hubschrauber
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: fliegt
+  praeteritum: flog
+  perfekt: geflogen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/fliegen
+  duden_word_frequency: 3
+  examples:
+    - de: Im letzten Sommer bin ich das erste Mal in meinem Leben geflogen.
+      en: Last summer I flew for the first time in my life.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: der Dieb
+  verb: fliehen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: flieht
+  praeteritum: floh
+  perfekt: geflohen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/fliehen
+  duden_word_frequency: 3
+- pre_example: das Wasser
+  verb: fliessen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: fliesst
+  praeteritum: floss
+  perfekt: geflossen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/flieszen
+  duden_word_frequency: 3
+- pre_example: der Hund
+  verb: fressen
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: frisst
+  praeteritum: frass
+  perfekt: gefressen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/fressen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note: 
+- pre_example: ''
+  verb: frieren
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: friert
+  praeteritum: fror
+  perfekt: gefroren
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/frieren
+  duden_word_frequency: 2
+  examples:
+    - de: Im Winter war es  sehr kalt. Wir haben wochenlang gefroren.
+      en: It was very cold in winter. We were freezing for weeks.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Draußen ist es sehr kalt. Das Wasser ist auch schon gefroren.
+      en: It's very cold outside. The water is already frozen.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: der Obstsaft
+  verb: gären
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: gärt
+  praeteritum: gor (gärte)
+  perfekt: gegoren (gegärt)
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/gaeren
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: gebären
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: gebärt (gebiert)
+  praeteritum: gebar
+  perfekt: geboren
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/gebaeren
+  duden_word_frequency: 3
+  vowel_change_from: ä
+  vowel_change_to: ie
+  vowel_change_note: 
+- pre_example: ''
+  verb: geben
+  post_example: jemandem einen Brief
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: gibt
+  praeteritum: gab
+  perfekt: gegeben
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/geben
+  duden_word_frequency: 5
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note: 
+- pre_example: die Pflanze
+  verb: gedeihen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: gedeiht
+  praeteritum: gedieh
+  perfekt: gediehen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/gedeihen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: ''
+  verb: gehen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: geht
+  praeteritum: ging
+  perfekt: gegangen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/gehen
+  duden_word_frequency: 5
+  examples:
+    - de: Am Wochenende sind wir zu Fuß von Bonn nach Köln gegangen.
+      en: At the weekend we walked from Bonn to Cologne.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: das Experiment
+  verb: gelingen
+  post_example: jemandem
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: gelingt
+  praeteritum: gelang
+  perfekt: gelungen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/gelingen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  examples:
+    - de: Es ist mir leider nicht gelungen, meine Freundin umzustimmen.
+      en: Unfortunately, I wasn't able to change my girlfriend's mind.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: der Pass
+  verb: gelten
+  post_example: noch bis Dezember
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: gilt
+  praeteritum: galt
+  perfekt: gegolten
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/gelten
+  duden_word_frequency: 4
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note: 
+- pre_example: der Kranke
+  verb: genesen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: genest
+  praeteritum: genas
+  perfekt: genesen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/genesen
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: geniessen
+  post_example: das Wochenende
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: geniesst
+  praeteritum: genoss
+  perfekt: genossen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/genieszen
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: geraten
+  post_example: in eine schwierige Situation
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: gerät
+  praeteritum: geriet
+  perfekt: geraten
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/geraten_gelingen_hingelangen
+  duden_word_frequency: 3
+- pre_example: etwas Schreckliches
+  verb: geschehen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: geschieht
+  praeteritum: geschah
+  perfekt: geschehen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/geschehen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  vowel_change_from: e
+  vowel_change_to: ie
+  vowel_change_note: 
+  examples:
+    - de: Am Mittwoch sind in der Fabrik gleich mehrere Unfälle geschehen.
+      en: Several accidents occurred in the factory on Wednesday.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: gewinnen
+  post_example: eine Medaille
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: gewinnt
+  praeteritum: gewann
+  perfekt: gewonnen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/gewinnen
+  duden_word_frequency: 4
+- pre_example: ''
+  verb: giessen
+  post_example: die Blumen
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: giesst
+  praeteritum: goss
+  perfekt: gegossen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/gieszen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: ''
+  verb: gleichen
+  post_example: jemandem/einem anderen Produkt
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: gleicht
+  praeteritum: glich
+  perfekt: geglichen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/gleichen
+  duden_word_frequency: 3
+- pre_example: der Vogel
+  verb: gleiten
+  post_example: am Himmel
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: gleitet
+  praeteritum: glitt
+  perfekt: geglitten
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/gleiten
+  duden_word_frequency: 2
+- pre_example: die Asche
+  verb: glimmen
+  post_example: noch
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: glimmt
+  praeteritum: glomm (glimmte)
+  perfekt: geglommen (geglimmt)
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/glimmen
+  duden_word_frequency: 1
+- pre_example: ''
+  verb: graben
+  post_example: ein Loch
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: gräbt
+  praeteritum: grub
+  perfekt: gegraben
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/graben
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  vowel_change_from: a
+  vowel_change_to: ä
+  vowel_change_note: 
+- pre_example: ''
+  verb: greifen
+  post_example: das Glas/nach dem Glas
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: greift
+  praeteritum: griff
+  perfekt: gegriffen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/greifen
+  duden_word_frequency: 4
+- pre_example: ''
+  verb: halten
+  post_example: ein Glas/jemanden für einen Experten
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: hält
+  praeteritum: hielt
+  perfekt: gehalten
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/halten
+  duden_word_frequency: 4
+  vowel_change_from: a
+  vowel_change_to: ä
+  vowel_change_note: 
+- pre_example: das Handtuch
+  verb: hängen
+  post_example: im Bad
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: hängt
+  praeteritum: hing
+  perfekt: gehangen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/haengen_gehangen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: ein Junge
+  verb: hauen
+  post_example: seinen Bruder
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: haut
+  praeteritum: ' haute (hieb)'
+  perfekt: gehauen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/hauen
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: heben
+  post_example: eine Last
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: hebt
+  praeteritum: hob
+  perfekt: gehoben
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/heben
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: heißen
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: heisst
+  praeteritum: hiess
+  perfekt: geheissen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/heiszen_mit_Namen
+  duden_word_frequency: 4
+- pre_example: ''
+  verb: helfen
+  post_example: einem Freund
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: hilft
+  praeteritum: half
+  perfekt: geholfen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/helfen
+  duden_word_frequency: 4
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note: 
+- pre_example: ''
+  verb: kennen
+  post_example: den neuen Direktor
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: kennt
+  praeteritum: kannte
+  perfekt: gekannt
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/kennen
+  duden_word_frequency: 4
+- pre_example: ''
+  verb: klimmen
+  post_example: immer weiter in die Höhe
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: klimmt
+  praeteritum: klomm (klimmte)
+  perfekt: geklommen (geklimmt)
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/klimmen
+  duden_word_frequency: 2
+- pre_example: das Angebot
+  verb: klingen
+  post_example: gut
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: klingt
+  praeteritum: klang
+  perfekt: geklungen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/klingen
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: kneifen
+  post_example: jemanden in den Arm
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: kneift
+  praeteritum: kniff
+  perfekt: gekniffen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/kneifen
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: kommen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: kommt
+  praeteritum: kam
+  perfekt: gekommen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/kommen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  examples:
+    - de: Endlich wird es wärmer. Ich glaube, der Sommer ist endlich gekommen.
+      en: It's finally getting warmer. I think summer has finally arrived.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Um wie viel Urh ist der Bus gestern eigentlich angekommen?
+      en: What time did the bus actually arrive yesterday?
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Wir sind vom Weg abgekommen und haben uns im Wald verlaufen.
+      en: We lost our way and got lost in the forest.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: können
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: kann
+  praeteritum: konnte
+  perfekt: gekonnt/können
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/koennen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  vowel_change_from: ö
+  vowel_change_to: a
+  vowel_change_note: alle Singularformen
+- pre_example: die Schlange
+  verb: kriechen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: kriecht
+  praeteritum: kroch
+  perfekt: gekrochen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/kriechen
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: laden
+  post_example: das Gewehr
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: lädt
+  praeteritum: lud
+  perfekt: geladen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/laden_vorladen
+  # In Duden frequency is 1. I modified value to 5 because verb is frequently used.
+  duden_word_frequency: 5
+  vowel_change_from: a
+  vowel_change_to: ä
+  vowel_change_note: 
+- pre_example: ''
+  verb: lassen
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: lässt
+  praeteritum: liess
+  perfekt: gelassen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/lassen
+  duden_word_frequency: 5
+  vowel_change_from: a
+  vowel_change_to: ä
+  vowel_change_note: 
+- pre_example: ''
+  verb: laufen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: läuft
+  praeteritum: lief
+  perfekt: gelaufen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/laufen
+  duden_word_frequency: 4
+  vowel_change_from: a
+  vowel_change_to: ä
+  vowel_change_note: 
+  examples:
+    - de: Schon wieder ist das Mädchen auf die Straße gelaufen.
+      en: The girl has run into the street again.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Als Kind bin ich die 100 Meter in 11 Sekunden gelaufen.
+      en: As a child, I ran the 100 meters in 11 seconds.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Die Mädchen aus der 7c sind von allen am schnellsten gelaufen.
+      en: The girls from 7c ran the fastest of all.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Dieser Angsthase ist von uns weggelaufen.
+      en: This coward ran away from us.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Die Wanderer haben sich verlaufen. Nun suchen sie den Weg zuruck.
+      en: The hikers have lost their way. Now they are looking for the way back.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: leiden
+  post_example: an einer Krankheit/unter dem Lärm
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: leidet
+  praeteritum: litt
+  perfekt: gelitten
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/leiden
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: ''
+  verb: leihen
+  post_example: jemandem einen Stift
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: leiht
+  praeteritum: lieh
+  perfekt: geliehen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/leihen
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: lesen
+  post_example: einen Roman
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: liest
+  praeteritum: las
+  perfekt: gelesen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/lesen_dozieren
+  duden_word_frequency: 4
+  vowel_change_from: e
+  vowel_change_to: ie
+  vowel_change_note: 
+- pre_example: ''
+  verb: liegen
+  post_example: im Bett
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: liegt
+  praeteritum: lag
+  perfekt: gelegen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/liegen_lehnen_ruhen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: ''
+  verb: lügen
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: lügt
+  praeteritum: log
+  perfekt: gelogen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/luegen
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: mahlen
+  post_example: Getreide/Kaffee
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: mahlt
+  praeteritum: mahlte
+  perfekt: gemahlen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/mahlen_zerkleinern
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: ''
+  verb: meiden
+  post_example: 'Menschenmengen, jemanden'
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: meidet
+  praeteritum: mied
+  perfekt: gemieden
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/meiden
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: melken
+  post_example: die Kühe
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: melkt
+  praeteritum: molk (melkte)
+  perfekt: hat gemolken (gemelkt)
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/melken
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: messen
+  post_example: die Temperatur
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: misst
+  praeteritum: mass
+  perfekt: gemessen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/messen
+  duden_word_frequency: 3
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note: 
+- pre_example: ''
+  verb: misslingen
+  post_example: 
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: misslingt
+  praeteritum: misslang
+  perfekt: misslungen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/misslingen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  examples:
+    - de: Ist der Kuchen dem Bäckerlehrling schon wieder misslungen?
+      en: Has the apprentice baker's cake failed again?
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: mögen
+  post_example: 
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: mag
+  praeteritum: mochte
+  perfekt: gemocht/mögen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/moegen
+  duden_word_frequency: 4
+  vowel_change_from: ö
+  vowel_change_to: a
+  vowel_change_note: alle Singularformen
+- pre_example: ''
+  verb: müssen
+  post_example: 
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: muss
+  praeteritum: musste
+  perfekt: gemusst/müssen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/muessen
+  duden_word_frequency: 5
+  vowel_change_from: ü
+  vowel_change_to: u
+  vowel_change_note: alle Singularformen
+- pre_example: ''
+  verb: nehmen
+  post_example: ein Bier
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: nimmt
+  praeteritum: nahm
+  perfekt: genommen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/nehmen
+  duden_word_frequency: 4
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note:
+- pre_example: ''
+  verb: nennen
+  post_example: jemanden einen Idioten
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: nennt
+  praeteritum: nannte
+  perfekt: genannt
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/nennen
+  duden_word_frequency: 4
+- pre_example: ''
+  verb: pfeifen
+  post_example: ein Lied
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: pfeift
+  praeteritum: pfiff
+  perfekt: gepfiffen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/pfeifen
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: preisen
+  post_example: die Vorzüge der Energiesparlampen
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: preist
+  praeteritum: pries
+  perfekt: gepriesen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/preisen
+  duden_word_frequency: 2
+- pre_example: der Reis
+  verb: quellen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: quillt
+  praeteritum: quoll
+  perfekt: gequollen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/quellen_quillt
+  duden_word_frequency: 2
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note:
+- pre_example: ''
+  verb: raten
+  post_example: 'jemandem, gesund zu leben'
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: rät
+  praeteritum: riet
+  perfekt: geraten
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/raten_Rat_geben
+  duden_word_frequency: 3
+  vowel_change_from: a
+  vowel_change_to: ä
+  vowel_change_note:
+- pre_example: ''
+  verb: reiben
+  post_example: Möhren
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: reibt
+  praeteritum: rieb
+  perfekt: gerieben
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/reiben
+  duden_word_frequency: 2
+- pre_example: der Strick
+  verb: rei­ßen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: reisst
+  praeteritum: riss
+  perfekt: gerissen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/reiszen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: ''
+  verb: rei­ßen
+  post_example: etwas in Stücke
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: reisst
+  praeteritum: riss
+  perfekt: gerissen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/reiszen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: ''
+  verb: reiten
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: reitet
+  praeteritum: ritt
+  perfekt: geritten
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/reiten
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: rennen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: rennt
+  praeteritum: rannte
+  perfekt: gerannt
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/rennen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  examples:
+    - de: Unsere Kinder sind gestern studenlang durch den Wald gerannt.
+      en: Our children ran through the forest for hours yesterday.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: riechen
+  post_example: das Meer/nach dem Meer
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: riecht
+  praeteritum: roch
+  perfekt: gerochen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/riechen
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: ringen
+  post_example: um eine Lösung
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: ringt
+  praeteritum: rang
+  perfekt: gerungen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/ringen_kaempfen
+  duden_word_frequency: 3
+- pre_example: der Regen
+  verb: rinnen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: rinnt
+  praeteritum: rann
+  perfekt: geronnen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/rinnen
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: rufen
+  post_example: jemanden
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: ruft
+  praeteritum: rief
+  perfekt: gerufen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/rufen
+  duden_word_frequency: 4
+- pre_example: ''
+  verb: salzen
+  post_example: das Essen
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: salzt
+  praeteritum: salzte
+  perfekt: gesalzen (gesalzt)
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/salzen
+  duden_word_frequency: 2
+- pre_example: das Pferd
+  verb: saufen
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: säuft
+  praeteritum: soff
+  perfekt: gesoffen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/saufen
+  duden_word_frequency: 2
+  vowel_change_from: a
+  vowel_change_to: ä
+  vowel_change_note:
+- pre_example: der Elefant
+  verb: saugen
+  post_example: den Rüssel voll Wasser
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: saugt
+  praeteritum: sog
+  perfekt: gesogen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/saugen
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: schaffen
+  post_example: ein Kunstwerk
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schafft
+  praeteritum: schuf
+  perfekt: geschaffen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/schaffen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: ''
+  verb: scheiden
+  post_example: Berufund Privatleben voneinander
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: scheidet
+  praeteritum: schied
+  perfekt: geschieden
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/scheiden
+  duden_word_frequency: 3
+- pre_example: die Sonne
+  verb: scheinen
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: scheint
+  praeteritum: schien
+  perfekt: geschienen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/scheinen
+  duden_word_frequency: 4
+- pre_example: 
+  verb: schelten
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schilt
+  praeteritum: schalt
+  perfekt: gescholten
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/schelten
+  duden_word_frequency: 2
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note: 
+- pre_example: ''
+  verb: scheren
+  post_example: Schafe
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schert
+  praeteritum: schor
+  perfekt: geschoren
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/scheren_schneiden
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: ''
+  verb: schieben
+  post_example: ein kaputtes Fahrrad
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schiebt
+  praeteritum: schob
+  perfekt: geschoben
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/schieben
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: schießen
+  post_example: ein Tor
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schiesst
+  praeteritum: schoss
+  perfekt: geschossen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/schieszen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: ''
+  verb: schlafen
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schläft
+  praeteritum: schlief
+  perfekt: geschlafen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/schlafen
+  duden_word_frequency: 3
+  vowel_change_from: a
+  vowel_change_to: ä
+  vowel_change_note: 
+  examples:
+    - de: Am Freitag ist mein jüngester Sohn erst um Mitternacht eingeschlafen.
+      en: On Friday, my youngest son didn't fall asleep until midnight.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Letzte Nacht habe ich wie ein toter geschlafen.
+      en: Last night I slept like a dead man.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Das Baby ist bereits nach kurzer Zeit eingeschlafen.
+      en: The baby fell asleep after a short time.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Endlich hat sich mein Mann nach der anstrengenden Arbei ausgeschlafen.
+      en: My husband has finally had a good night's sleep after a hard day's work.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Unser neuer Mitarbeiter hat sich schon wieder verschlafen.
+      en: Our new employee has overslept again.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: schlagen
+  post_example: jemanden
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schlägt
+  praeteritum: schlug
+  perfekt: geschlagen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/schlagen
+  duden_word_frequency: 4
+  vowel_change_from: a
+  vowel_change_to: ä
+  vowel_change_note: 
+- pre_example: ein Dieb
+  verb: schleichen
+  post_example: um das Haus
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: schleicht
+  praeteritum: schlich
+  perfekt: geschlichen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/schleichen
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: schleifen
+  post_example: einen Diamanten
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schleift
+  praeteritum: schliff
+  perfekt: geschliffen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/schleifen_wetzen
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: schliessen
+  post_example: eine Tür/Freundschaft
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schliesst
+  praeteritum: schloss
+  perfekt: geschlossen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/schlieszen
+  duden_word_frequency: 4
+- pre_example: ''
+  verb: schlingen
+  post_example: die Arme um jemanden
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schlingt
+  praeteritum: schlang
+  perfekt: geschlungen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/schlingen_umwickeln
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: schmeißen
+  post_example: Steine
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schmeisst
+  praeteritum: schmiss
+  perfekt: geschmissen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/schmeiszen_werfen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: das Eis
+  verb: schmelzen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: schmilzt
+  praeteritum: schmolz
+  perfekt: geschmolzen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/schmelzen
+  duden_word_frequency: 2
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note: 
+  examples:
+    - de: In diesem Jahr ist der letzte Schnee erst im späten Mai geschmolzen.
+      en: This year, the last snow only melted in late May.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: schmelzen
+  post_example: das Erz
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schmilzt
+  praeteritum: schmolz
+  perfekt: geschmolzen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/schmelzen
+  duden_word_frequency: 2
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note: 
+- pre_example: ''
+  verb: schneiden
+  post_example: das Gemüse
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schneidet
+  praeteritum: schnitt
+  perfekt: geschnitten
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/schneiden
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: schreiben
+  post_example: einen Brief
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schreibt
+  praeteritum: schrieb
+  perfekt: geschrieben
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/schreiben
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: das Baby
+  verb: schreien
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schreit
+  praeteritum: schrie
+  perfekt: geschrien
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/schreien
+  duden_word_frequency: 3
+- pre_example: der König
+  verb: schreiten
+  post_example: durch die Tür
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: schreitet
+  praeteritum: schritt
+  perfekt: geschritten
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/schreiten
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: schweigen
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schweigt
+  praeteritum: schwieg
+  perfekt: geschwiegen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/Schweigen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: der Fuss
+  verb: schwellen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: schwillt
+  praeteritum: schwoll
+  perfekt: geschwollen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/schwellen_wachsen
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: schwimmen
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schwimmt
+  praeteritum: schwamm
+  perfekt: geschwommen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/schwimmen
+  duden_word_frequency: 3
+  examples:
+    - de: Martin ist die 500 Meter in der schnellsten Zeit geschwommen.
+      en: Martin swam the 500 meters in the fastest time.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: In Italien sind wir oft im Mittelmeer geschwommen.
+      en: In Italy, we often swam in the Mediterranean.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: schwingen
+  post_example: die Fahne
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schwingt
+  praeteritum: schwang
+  perfekt: geschwungen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/schwingen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: ''
+  verb: schwören
+  post_example: ewige Treue
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: schwört
+  praeteritum: schwor
+  perfekt: geschworen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/schwoeren
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: sehen
+  post_example: einen Film
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: sieht
+  praeteritum: sah
+  perfekt: gesehen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/sehen
+  duden_word_frequency: 5
+  vowel_change_from: e
+  vowel_change_to: ie
+  vowel_change_note: 
+- pre_example: ''
+  verb: sein
+  post_example:
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: ist
+  praeteritum: war
+  perfekt: gewesen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/sein_Hilfsverb
+  duden_word_frequency: 5
+- pre_example: ''
+  verb: senden
+  post_example: eine E-Mail
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: sendet
+  praeteritum: sandte
+  perfekt: gesandt
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/senden
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: singen
+  post_example: ein Lied
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: singt
+  praeteritum: sang
+  perfekt: gesungen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/singen
+  duden_word_frequency: 3
+- pre_example: das Interesse
+  verb: sinken
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: sinkt
+  praeteritum: sank
+  perfekt: gesunken
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/sinken
+  duden_word_frequency: 4
+  examples:
+    - de: Die Temperaturen ist stark gesunken. Der Winter zieht ein.
+      en: The temperature has dropped sharply. Winter is setting in.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: sinnen
+  post_example: auf Rache
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: sinnt
+  praeteritum: sann
+  perfekt: gesonnen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/sinnen
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: sitzen
+  post_example: aufdem Sofa
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: sitzt
+  praeteritum: sass
+  perfekt: gesessen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/sitzen
+  duden_word_frequency: 4
+- pre_example: ''
+  verb: spalten
+  post_example: das Holz mit einem Hieb
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: spaltet
+  praeteritum: spaltete
+  perfekt: gespalten (gespaltet)
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/spalten
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: speien
+  post_example: Blut
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: speit
+  praeteritum: spie
+  perfekt: gespien
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/speien
+  duden_word_frequency: 2
+- pre_example: die Spinne
+  verb: spinnen
+  post_example: ein Netz
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: spinnt
+  praeteritum: spann
+  perfekt: gesponnen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/spinnen
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: sprechen
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: spricht
+  praeteritum: sprach
+  perfekt: gesprochen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/sprechen
+  duden_word_frequency: 4
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note: 
+- pre_example: das Gras
+  verb: spriessen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: spriesst
+  praeteritum: spross
+  perfekt: gesprossen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/sprieszen_wachsen
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: springen
+  post_example: überein Hindernis
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: springt
+  praeteritum: sprang
+  perfekt: gesprungen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/springen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  examples:
+    - de: Das Pferd ist schon u4ber einen 2 Meter hohen Zaun gesprungen.
+      en: The horse has already jumped over a 2 meter high fence.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: die Mücke
+  verb: stechen
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: sticht
+  praeteritum: stach
+  perfekt: gestochen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/stechen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note: 
+- pre_example: ''
+  verb: stehen
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: steht
+  praeteritum: stand
+  perfekt: gestanden
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/stehen
+  duden_word_frequency: 5
+  examples:
+    - de: Um wie viel Uhr ist Sascha am Sonntag aufgestanden?
+      en: What time did Sascha get up on Sunday?
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Um Urlaub sind wir selten vor dem Mittag aufgestanden.
+      en: We rarely got up before midday on vacation.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: stehlen
+  post_example: ein Gemälde
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: stiehlt
+  praeteritum: stahl
+  perfekt: gestohlen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/stehlen
+  duden_word_frequency: 3
+  vowel_change_from: e
+  vowel_change_to: ie
+  vowel_change_note: 
+- pre_example: ''
+  verb: steigen
+  post_example: auf einen Berg
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: steigt
+  praeteritum: stieg
+  perfekt: gestiegen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/steigen
+  duden_word_frequency: 4
+  examples:
+    - de: Tagsüber sind die Temperaturen nur um 2 Grad gestiegen.
+      en: During the day, temperatures have only risen by 2 degrees.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Warum ist Herr Schöller nicht in das Taxi eingestiegen?
+      en: Why didn't Mr. Schöller get into the cab?
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: An der Bushaltestelle sind alle Fahrgäste aus dem Bus ausgestiegen.
+      en: All passengers have got off the bus at the bus stop.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: sterben
+  post_example: an einer Krankheit
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: stirbt
+  praeteritum: starb
+  perfekt: gestorben
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/sterben
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note: 
+  examples:
+    - de: Frau Haller ist verwitwet. Ihr Mann ist voriges Jhr gestorben.
+      en: Mrs. Haller is a widow. Her husband died last year.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: der Schnee
+  verb: stieben
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: stiebt
+  praeteritum: stob (stiebte)
+  perfekt: gestoben (gestiebt)
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/stieben
+  duden_word_frequency: 1
+- pre_example: der Müll
+  verb: stinken
+  post_example: ''
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: stinkt
+  praeteritum: stank
+  perfekt: gestunken
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/stinken
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: stoßen
+  post_example: jemanden
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: stösst
+  praeteritum: stiess
+  perfekt: gestossen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/stoszen
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: stoßen
+  post_example: auf Widerstand
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: stösst
+  praeteritum: stiess
+  perfekt: gestossen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/stoszen
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: streichen
+  post_example: eine Wand/Urlaubstage
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: streicht
+  praeteritum: strich
+  perfekt: gestrichen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/streichen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: ''
+  verb: streiten
+  post_example: sich mit dem Chef
+  hilfsverb: haben
+  is_reflexive: true
+  praesens: streitet sich
+  praeteritum: stritt sich
+  perfekt: gestritten
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/streiten
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: tragen
+  post_example: moderne Kleidung
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: trägt
+  praeteritum: trug
+  perfekt: getragen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/tragen
+  duden_word_frequency: 4
+  vowel_change_from: a
+  vowel_change_to: ä
+  vowel_change_note: 
+- pre_example: ''
+  verb: treffen
+  post_example: 'eine Entscheidung/sich, mit Freunden'
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: trifft
+  praeteritum: traf
+  perfekt: getroffen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/treffen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note: 
+  examples:
+    - de: Gestern habe ich in der Stadt eine alte Schulfreundin getroffen.
+      en: Yesterday I met an old school friend in town.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: In Kolumbien ist der Professor auf einen Piratenschatz getroffen.
+      en: In Colombia, the professor came across a pirate treasure.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: treiben
+  post_example: Sport
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: treibt
+  praeteritum: trieb
+  perfekt: getrieben
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/treiben
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: der Kahn
+  verb: treiben
+  post_example: führerlos im Meer
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: treibt
+  praeteritum: trieb
+  perfekt: getrieben
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/treiben
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: ''
+  verb: treten
+  post_example: auf Bananenschale
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: tritt
+  praeteritum: trat
+  perfekt: getreten
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/treten
+  duden_word_frequency: 4
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note: (+tt)
+  examples:
+    - de: Die Frau ist auf eine Bananenschale getreten und hingefallen.
+      en: The woman stepped on a banana peel and fell down.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Viele Mitglieder sind in den letzten Monaten aus der Partei ausgetreten.
+      en: Many members have left the party in recent months.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: treten
+  post_example: gegen meine Schienbein
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: tritt
+  praeteritum: trat
+  perfekt: getreten
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/treten
+  duden_word_frequency: 4
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note: (+tt)
+  examples:
+    - de: Der Junge hat mich gegen mein Schienbein getreten.
+      en: The boy kicked me in the shin.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: trinken
+  post_example: '(einen Tee)'
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: trinkt
+  praeteritum: trank
+  perfekt: getrunken
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/trinken
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+- pre_example: ''
+  verb: tun
+  post_example: nichts
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: tut
+  praeteritum: tat
+  perfekt: getan
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/tun_landschaftlich
+  duden_word_frequency: 4
+- pre_example: das Obst
+  verb: verderben
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: verdirbt
+  praeteritum: verdarb
+  perfekt: verdorben
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/verderben
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note:
+- pre_example: ''
+  verb: verderben
+  post_example: jemandem den Spass
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: verdirbt
+  praeteritum: verdarb
+  perfekt: verdorben
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/verderben
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note:
+- pre_example: sein Verhalten
+  verb: verdriessen
+  post_example: mich
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: verdriesst
+  praeteritum: verdross
+  perfekt: verdrossen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/verdrieszen
+  duden_word_frequency: 1
+- pre_example: ''
+  verb: vergessen
+  post_example: einen Termin/jemanden
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: vergisst
+  praeteritum: vergass
+  perfekt: vergessen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/vergessen_Verb_nicht_erinnern
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5 
+- pre_example: ''
+  verb: verlieren
+  post_example: den Autoschlüssel
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: verliert
+  praeteritum: verlor
+  perfekt: verloren
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/verlieren
+  duden_word_frequency: 4
+- pre_example: ''
+  verb: verschwinden
+  post_example: im Dunkeln
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: verschwindet
+  praeteritum: verschwand
+  perfekt: verschwunden
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/verschwinden
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5 
+  examples:
+    - de: Hast du meinen Hund Bello gesehn? Seit gestern ist er verschwunden.
+      en: Have you seen my dog Bello? He disappeared yesterday.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: verzeihen
+  post_example: jemandem einen Fehler
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: verzeiht
+  praeteritum: verzieh
+  perfekt: verziehen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/verzeihen
+  duden_word_frequency: 2
+- pre_example: der Baum
+  verb: wachsen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: wächst
+  praeteritum: wuchs
+  perfekt: gewachsen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/wachsen_gewachsen
+  duden_word_frequency: 4
+  vowel_change_from: a
+  vowel_change_to: ä
+  vowel_change_note:
+  examples:
+    - de: Heinrich ist für sein Alter sehr groß. - Ja, er ist sehr schnell gewachsen.
+      en: Heinrich is very tall for his age. - Yes, he has grown very quickly.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: waschen
+  post_example: sich/die Sachen
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: wäscht
+  praeteritum: wusch
+  perfekt: gewaschen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/waschen
+  duden_word_frequency: 3
+  vowel_change_from: a
+  vowel_change_to: ä
+  vowel_change_note:
+- pre_example: der Gegner
+  verb: weichen
+  post_example: ''
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: weicht
+  praeteritum: wich
+  perfekt: gewichen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/weichen_gewichen
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: weisen
+  post_example: jemandem den Weg
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: weist
+  praeteritum: wies
+  perfekt: gewiesen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/weisen
+  duden_word_frequency: 4
+- pre_example: ''
+  verb: wenden
+  post_example: sich an jemanden
+  hilfsverb: haben
+  is_reflexive: true
+  praesens: wendet
+  praeteritum: wandte
+  perfekt: gewandt
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/wenden
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: werben
+  post_example: für ein Produkt
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: wirbt
+  praeteritum: warb
+  perfekt: geworben
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/werben
+  duden_word_frequency: 3
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note:
+- pre_example: ''
+  verb: werden
+  post_example: 
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: wird
+  praeteritum: ward/wurde
+  perfekt: worden
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/werden_Hilfsverb
+  duden_word_frequency: 5
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note:
+  examples:
+    - de: Am Samstag ist Ilona volljährig geworden. Jetzt ist sie endlich 18 Jahre alt.
+      en: Ilona came of age on Saturday. Now she is finally 18 years old.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: werfen
+  post_example: einen Gegenstand
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: wirft
+  praeteritum: warf
+  perfekt: geworfen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/werfen
+  duden_word_frequency: 4
+  vowel_change_from: e
+  vowel_change_to: i
+  vowel_change_note:
+- pre_example: ''
+  verb: wiegen
+  post_example: 80 kg
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: wiegt
+  praeteritum: wog
+  perfekt: gewogen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/wiegen_gewiegt
+  duden_word_frequency: 3
+- pre_example: ''
+  verb: winden
+  post_example: 'sich, wie ein Aal'
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: windet
+  praeteritum: wand
+  perfekt: gewunden
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/winden_gewunden
+  duden_word_frequency: 2
+- pre_example: ''
+  verb: wissen
+  post_example: alles
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: weiss
+  praeteritum: wusste
+  perfekt: gewusst
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/wissen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5 
+  vowel_change_from: i
+  vowel_change_to: ei
+  vowel_change_note: alle Singularformen
+- pre_example: ''
+  verb: wollen
+  post_example:
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: will
+  praeteritum: wollte
+  perfekt: gewollt/wollen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/wollen_moechten_wuenschen
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5 
+  vowel_change_from: o
+  vowel_change_to: i
+  vowel_change_note: alle Singularformen
+- pre_example: ''
+  verb: wringen
+  post_example: das Wasser aus dem Tuch
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: wringt
+  praeteritum: wrang
+  perfekt: gewrungen
+  is_burried: true
+  duden_url: https://www.duden.de/rechtschreibung/wringen
+  duden_word_frequency: 1
+- pre_example: ''
+  verb: ziehen
+  post_example: an einem Strick
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: zieht
+  praeteritum: zog
+  perfekt: gezogen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/ziehen
+  duden_word_frequency: 4
+  examples:
+    - de: Nach dem Sport habe ich mich in aller Eile umgezogen.
+      en: After sport, I changed my clothes in a hurry.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: ziehen
+  post_example: zujemandem
+  hilfsverb: sein
+  is_reflexive: false
+  praesens: zieht
+  praeteritum: zog
+  perfekt: gezogen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/ziehen
+  duden_word_frequency: 4
+  examples:
+    - de: Jonas wohnt schon lange nicht mehr hier. Er ist nach Köln gezogen.
+      en: Jonas hasn't lived here for a long time. He has moved to Cologne.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Ich glaube, Herr Döring ist nach Melsungen gezogen.
+      en: I think Mr. Döring has moved to Melsungen.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Im Sommer sind wir von München nach Stuttgart umgezogen.
+      en: We moved from Munich to Stuttgart in the summer.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+- pre_example: ''
+  verb: zwingen
+  post_example: jemanden zum Lernen
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: zwingt
+  praeteritum: zwang
+  perfekt: gezwungen
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/zwingen
+  duden_word_frequency: 3

@@ -1,0 +1,68 @@
+
+.navbar {
+  .navbar-brand {
+    text-align: center;
+    width: 100%;
+  }
+}
+.navbar-desktop {
+  display: none;
+}
+.navbar-mobile{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  .navbar-nav {
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    gap:2rem
+  }
+  .nav-item.is-clickable {
+    align-items: center;
+    display: flex;
+  }
+}
+@media (min-device-width: 576px) {
+  .navbar {
+    .navbar-brand {
+      width: unset;
+    }
+  }
+  .navbar-desktop {
+    display: unset;
+  }
+  .navbar-mobile {
+    display: none;
+  }
+}
+@media (min-device-width: 750px) {
+  .navbar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    .navbar-nav {
+      display: flex;
+      flex-direction: row;
+      gap: 1rem
+    }
+  }
+}
+
+.icon-sun {
+  width: 1.6rem;
+  height: 1.6rem;
+  transition: all 500ms ease-in-out;
+  &:hover{
+    fill: rgb(207, 187, 11);
+  }
+}
+.icon-moon {
+  width: 1.2rem;
+  height: 1.2rem;
+  transition: all 500ms ease-in-out;
+  &:hover{
+    fill: rgb(28, 52, 172);
+    
+  }
+}
