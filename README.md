@@ -2,13 +2,19 @@
   Unregelmäßige Verben
 </h1>
 
-I created this project as an aid to my German studies. All I could find online and in books are tables of verbs. While I was using these tables I got the following feelings:
-- I was missing an ability to see which verbs are more frequently used in practice. -> Solution: I used frequencies from Duden with some smaller adjustments.
-- I was missing an ability to overview verbs that relied on _haben_ or _sein_. -> Solution: Web offers filter by _haben_ or _sein_.
-- I was missing an ability to quickly search for a particular verb. -> Solution: Search functionality.
-- I was missing example sentences. Without them I find it more difficult to remember verbs. Having proper context is helpful. -> Solution: Add example sentences. 
-- I was missing an ability to question my recollection of verbs. -> Solution: There's a simple quiz test if you remember 3rd person form for Praesent, Präteritum, Perfekt for a given Infinitv form.
-- I was missing "integration" with external tools. I use a lot Linguee, My Daily German, Duden. Searchies for entries again and again is tedious. -> Solution: There are links for each word that will open entries in Linguee, My Daily German, Duden.
+I created this project as an aid to my German studies. All I could find online and in books are tables of verbs. While I was using these tables I got the feeling the following was missing:
+- An ability to see which verbs are more frequently used in practice.
+  - → Solution: I used frequencies from Duden with some smaller adjustments.
+- An ability to overview verbs that relied on _haben_ or _sein_.
+  - → Solution: Web offers filter by _haben_ or _sein_.
+- An ability to quickly search for a particular verb.
+  -  → Solution: Search functionality.
+- Example sentences. Without them I find it more difficult to remember verbs. Having proper context is helpful.
+  -  → Solution: Add example sentences. 
+- An ability to question my recollection of verbs.
+  -  → Solution: There's a simple quiz with Praesent, Präteritum, Perfekt for a given Infinitv form.
+- "Integration" with external tools. I use a lot Linguee, My Daily German, Duden. Searchies for entries again and again is tedious.
+  -  → Solution: There are links for each word that will open entries in Linguee, My Daily German, Duden.
 
 The project is open-source and free for anyone to use. I would appreciate you give this repo ⭐️ if you find it useful. 😊
 
