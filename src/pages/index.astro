@@ -1,0 +1,13 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import "../styles/index.scss"
+import IndexMain from '../components/IndexMain.tsx';
+---
+
+<Layout title="Alle Verben">
+  <Header/>
+  <IndexMain client:load/>
+  <Footer />
+</Layout>

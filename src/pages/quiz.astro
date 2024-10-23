@@ -1,0 +1,13 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import "../styles/index.scss"
+import QuizMain from '../components/QuizMain.tsx';
+---
+
+<Layout title="Alle Verben">
+  <Header/>
+  <QuizMain client:load/>
+  <Footer />
+</Layout>

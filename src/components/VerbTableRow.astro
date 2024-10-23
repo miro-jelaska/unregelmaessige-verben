@@ -1,0 +1,122 @@
+---
+const {definition} = Astro.props;
+---
+<div class="row">
+  <div class="row-top" >
+    <div class="cell cell__freq">
+      {definition.duden_word_frequency === 1 &&
+      <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="25px" width="25px" xmlns="http://www.w3.org/2000/svg"><path d="M3 16h2v5H3z"></path></svg>}
+      {definition.duden_word_frequency === 2 &&
+      <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="25px" width="25px" xmlns="http://www.w3.org/2000/svg"><path d="M3 16h2v5H3zm4-3h2v8H7z"></path></svg>}
+      {definition.duden_word_frequency === 3 &&
+      <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="25px" width="25px" xmlns="http://www.w3.org/2000/svg"><path d="M3 16h2v5H3zm4-3h2v8H7zm4-3h2v11h-2z"></path></svg>}
+      {definition.duden_word_frequency === 4 &&
+      <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="25px" width="25px" xmlns="http://www.w3.org/2000/svg"><path d="M3 16h2v5H3zm4-3h2v8H7zm4-3h2v11h-2zm4-3h2v14h-2z"></path></svg>}
+      {definition.duden_word_frequency === 5 &&
+      <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="25px" width="25px" xmlns="http://www.w3.org/2000/svg"><path d="M3 16h2v5H3zm4-3h2v8H7zm4-3h2v11h-2zm4-3h2v14h-2zm4-3h2v17h-2z"></path></svg>}
+    </div>
+    <div class="cell"
+
+      >
+      <span style={{fontWeight:600}}>
+        {definition.verb}
+        {
+          definition.is_reflexive &&
+          <>&nbsp;<span class="badge rounded-pill is-sich">sich</span> </> 
+        }
+      </span>
+    </div>
+    <div class="cell is-table-cell-hidden-on-mobile">
+      {definition.praesens}
+      {
+        definition.is_reflexive &&
+        <>&nbsp;<span class="badge rounded-pill is-sich">sich</span> </> 
+      }
+    </div>
+    <div class="cell is-table-cell-hidden-on-mobile">
+      {definition.praeteritum}
+      {
+        definition.is_reflexive &&
+        <>&nbsp;<span class="badge rounded-pill is-sich">sich</span> </>
+      }
+    </div>
+    <div class="cell is-table-cell-hidden-on-mobile">
+      {
+        definition.hilfsverb === "haben" 
+        ? <span class="badge rounded-pill is-haben">hat</span> 
+        : <span class="badge rounded-pill is-sein">ist</span> 
+      }
+      {
+        definition.is_reflexive &&
+        <>&nbsp;<span class="badge rounded-pill is-sich">sich</span></>
+      }
+      &nbsp; {definition.perfekt}
+    </div>
+    <div class="cell cell__vowel is-table-cell-hidden-on-mobile">
+      {
+        definition.vowel_change_from && `${definition.vowel_change_from} → ${definition.vowel_change_to}` 
+      }
+    </div>
+    <div class="cell cell__external">
+      <div>
+        <!--dropdown -->
+      </div>
+    </div>
+  </div>
+  <div class='row-bottom'>
+    <div class="row-bottom__explanation card is-table-cell-hidden-on-desktop">
+      <div class="cell is-table-cell-hidden-on-desktop">
+        {definition.praesens}
+        {
+          definition.is_reflexive &&
+          <>&nbsp;<span class="badge rounded-pill is-sich">sich</span> </> 
+        }
+      </div>
+      <div class="cell is-table-cell-hidden-on-desktop">
+        {definition.praeteritum}
+        {
+          definition.is_reflexive &&
+          <>&nbsp;<span class="badge rounded-pill is-sich">sich</span> </>
+        }
+      </div>
+      <div class="cell is-table-cell-hidden-on-desktop">
+        {
+          definition.hilfsverb === "haben" 
+          ? <span class="badge rounded-pill is-haben">hat</span> 
+          : <span class="badge rounded-pill is-sein">ist</span> 
+        }
+        {
+          definition.is_reflexive &&
+          <>&nbsp;<span class="badge rounded-pill is-sich">sich</span></>
+        }
+        &nbsp; {definition.perfekt}
+      </div>
+      <div class="cell cell__vowel is-table-cell-hidden-on-desktop">
+        {
+          definition.vowel_change_from && `${definition.vowel_change_from} → ${definition.vowel_change_to}` 
+        }
+      </div>
+    </div>
+    <div class="row-bottom__inner card">
+      <div  class="card-body p-0">
+        {!definition.examples && <p class="is-notice-text">Noch keine Beispiele. (<i>No examples yet.</i>)</p>}
+        {definition.examples && definition.examples.map(
+          example => 
+          <ul class="example list-unstyled">
+            <li class="de">{example.de}</li>
+            <li class="en">{example.en}</li>
+          </ul>
+        )} 
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+.row-bottom {
+  display: none;
+  &.visible {
+    display: flex;
+  }
+}
+</style>
