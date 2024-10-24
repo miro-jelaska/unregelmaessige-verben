@@ -889,6 +889,26 @@
   duden_url: https://www.duden.de/rechtschreibung/greifen
   duden_word_frequency: 4
 - pre_example: ''
+  verb: haben
+  post_example:
+  hilfsverb: haben
+  is_reflexive: false
+  praesens: hat
+  praeteritum: hatte
+  perfekt: gehabt
+  is_burried: false
+  duden_url: https://www.duden.de/rechtschreibung/haben_Hilfsverb
+  # Duden is missing frequency info. We're assuming it is 5/5.
+  duden_word_frequency: 5
+  vowel_change_from:
+  vowel_change_to:
+  vowel_change_note:
+  examples:
+    - de: Sie hat schöne Augen.
+      en: She has beautiful eyes.
+    - de: Ich hatte keine Zeit dafür.
+      en: I didn't find the time for it.
+- pre_example: ''
   verb: halten
   post_example: ein Glas/jemanden für einen Experten
   hilfsverb: haben
