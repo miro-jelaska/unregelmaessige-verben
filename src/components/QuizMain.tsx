@@ -88,7 +88,7 @@ const QuizMain = () => {
   useEffect(() => {
     if (rightPress) {
       if(quizStep === QuizState.ask){
-        iKnow()
+        iThinkIKnow()
       }
       if(quizStep === QuizState.confirm){
         iWasRight()
@@ -123,17 +123,19 @@ const QuizMain = () => {
         }
       )
       setQuizStep(QuizState.ask)
+      setToggledExplanationVerbs([allEntries[currentIndex].verb])
       setCurrentIndex(currentIndex + 1)
       scrollToBottom()
     }, 
     [allEntries, answers, currentIndex]
   )
-  const iKnow = useCallback(
+  const iThinkIKnow = useCallback(
     () => {
       setQuizStep(QuizState.confirm)
       scrollToBottom()
+      setToggledExplanationVerbs([...toggledExplanationVerbs, allEntries[currentIndex].verb])
     }, 
-    []
+    [allEntries, toggledExplanationVerbs, currentIndex]
   )
   const iWasWrong = useCallback(
     () => {
@@ -144,6 +146,7 @@ const QuizMain = () => {
         }
       )
       setQuizStep(QuizState.ask)
+      setToggledExplanationVerbs([allEntries[currentIndex].verb])
       setCurrentIndex(currentIndex + 1)
       scrollToBottom()
     }, 
@@ -158,6 +161,7 @@ const QuizMain = () => {
         }
       )
       setQuizStep(QuizState.ask)
+      setToggledExplanationVerbs([])
       setCurrentIndex(currentIndex + 1)
       scrollToBottom()
     },
@@ -172,7 +176,7 @@ const QuizMain = () => {
   });
 
   return (
-    <main>
+    <main id="page--quiz-main">
         <div className='table-wrapper'>
           <div className="table">
             <div className="table-head">
@@ -213,41 +217,41 @@ const QuizMain = () => {
             </div>
           </div>
         </div>
-        <div className="container">
-        {
-          currentIndex < allEntries.length &&
-          <div>
-            <div className="my-5">
-              {
-                quizStep == "ask" &&
-                <div style={{display: "flex", flexDirection: "row", justifyContent: "center"}}>
-                  <button type="button" className="btn btn-danger m-2" onClick={() => iDontKnow()}>Don&#39;t know</button>
-                  <button type="button" className="btn btn-dark m-2" onClick={() => iKnow()}>I think I know</button>
-                </div>
-              }
-              {
-                quizStep == "confirm" &&
-                <div style={{display: "flex", flexDirection: "row", justifyContent: "center"}}>
-                  <button type="button" className="btn btn-danger m-2" onClick={() => iWasWrong()}>I was wrong</button>
-                  <button type="button" className="btn btn-success m-2" onClick={() => iWasRight()}>I was right</button>
-                </div>
-              }
-            </div>
-            <div>
-              <div className="progress-wrapper">
-                <div className="progress my-2 " role="progressbar">
-                  <div className="progress-bar" style={{width: `${currentIndex / allEntries.length * 100}%`}}>
-                    {(currentIndex / allEntries.length * 100).toFixed(0)}%
+        <div className="container quiz-controls-container">
+          {
+            currentIndex < allEntries.length &&
+            <>
+              <div className="buttons-container my-5">
+                {
+                  quizStep == "ask" &&
+                  <div style={{display: "flex", flexDirection: "row", justifyContent: "center"}}>
+                    <button type="button" className="btn btn-danger m-2" onClick={() => iDontKnow()}>Don&#39;t know</button>
+                    <button type="button" className="btn btn-dark m-2" onClick={() => iThinkIKnow()}>I think I know</button>
+                  </div>
+                }
+                {
+                  quizStep == "confirm" &&
+                  <div style={{display: "flex", flexDirection: "row", justifyContent: "center"}}>
+                    <button type="button" className="btn btn-danger m-2" onClick={() => iWasWrong()}>I was wrong</button>
+                    <button type="button" className="btn btn-success m-2" onClick={() => iWasRight()}>I was right</button>
+                  </div>
+                }
+              </div>
+              <div>
+                <div className="progress-wrapper">
+                  <div className="progress my-2 " role="progressbar">
+                    <div className="progress-bar" style={{width: `${currentIndex / allEntries.length * 100}%`}}>
+                      {(currentIndex / allEntries.length * 100).toFixed(0)}%
+                    </div>
                   </div>
                 </div>
               </div>
-            </div>
-          </div>
-        }
-        {
-          currentIndex >= allEntries.length &&
-          <div className="my-5 text-center">Done!</div>
-        }
+            </>
+          }
+          {
+            currentIndex >= allEntries.length &&
+            <div className="my-5 text-center">Done!</div>
+          }
         </div>
         <div ref={pageEndRef} />
     </main>
