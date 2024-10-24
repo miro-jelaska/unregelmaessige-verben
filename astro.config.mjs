@@ -9,7 +9,7 @@ export default defineConfig({
   vite: {
     plugins: [
       yaml(),
-    ]
+    ],
   },
 
   integrations: [preact()]

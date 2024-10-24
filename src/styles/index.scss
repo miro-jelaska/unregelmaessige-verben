@@ -1,4 +1,17 @@
-@import "bootstrap.scss";
+@import "custom-bootstrap.scss";
+
+html {
+  /* We have to fix html height */
+  height: -webkit-fill-available; 
+}
+body {
+  background: #FFFFFF;
+  background: linear-gradient(135deg, #FFFFFF, #EEEEE7);
+  background-size: 100% auto;
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
+  background-size: cover;
+}
 
 .is-clickable {
   cursor: pointer;
@@ -25,26 +38,37 @@
   }
 }
 
+$light-border-color: rgb(243 243 243);
+$dark-border-color: rgb(26 26 26);
 .table-wrapper {
   display: flex;
   flex-direction: row;
   justify-content: center;
   border-radius: .5rem;
+  border: 1px solid $light-border-color;
   max-width: 1200px;
   margin: 0 auto;
   background-color: #ffffff;
 }
 .table .row {
-  border-bottom: 1px rgb(215, 215, 215) solid;
+  border-bottom: 1px $light-border-color solid;
   .row-top {
     &:hover {
       background-color: #ebebeb;
     }
   }
 }
+
 @include color-mode(dark) {
+  body{
+    background-image: linear-gradient(to top, #01060d, #0c0e12, #131416, #19191a, #1e1e1e);
+  }
+  .table-wrapper {
+    border: 1px solid $dark-border-color;
+    background-color: #121212;
+  }
   .table .row {
-    border-bottom: 1px rgb(41, 41, 41) solid;
+    border-bottom: 1px $dark-border-color solid;
     .row-top{
       &:hover {
         background-color: #000000;
@@ -83,10 +107,10 @@
 }
 @include color-mode(dark) {
   .table-wrapper {
-    background-color: #232323;
   }
   .table{
     .table-head {
+      border-bottom: 1px solid $dark-border-color;
       .cell {
         color: #ededed;
       }
@@ -172,6 +196,7 @@
   .table-head {
     display: flex;
     flex-direction: row;
+    border-bottom: 1px solid $light-border-color;
     .cell {
       color: #4f4f4f;
       font-weight: 500;
@@ -272,5 +297,34 @@
   .progress {
     max-width: 1000px;
     margin: 0 auto;
+  }
+}
+
+
+.progress-wrapper .progress-bar{
+  color: var(--bs-body-color);
+  background-color: #a8eb3c;
+  font-weight: 700;
+}
+@include color-mode(dark) {
+  .progress-wrapper .progress-bar{ 
+    background-color: #007013;
+  }
+}
+
+#page--quiz-main {
+  .table-wrapper {
+    margin-top: 3rem;
+  }
+  .quiz-controls-container {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+  .buttons-container {
+    & > div {
+      gap: 1rem;
+    }
   }
 }

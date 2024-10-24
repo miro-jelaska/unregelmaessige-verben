@@ -1,0 +1,111 @@
+// Required functions import
+@import 'bootstrap/scss/functions';
+
+// Optional variable overrides
+$primary: rgb(236, 236, 236);
+
+// Required imports
+// An error is raised when importing "variables". 
+// The error comes from "sass" and "sass-embeded" 
+// @import 'bootstrap/scss/variables';
+@import 'custom-bootstrap-variables.scss';
+@import 'bootstrap/scss/variables-dark';
+@import 'bootstrap/scss/maps';
+@import 'bootstrap/scss/mixins';
+@import 'bootstrap/scss/root';
+
+// Optional components
+@import 'bootstrap/scss/utilities';
+@import 'bootstrap/scss/reboot';
+@import 'bootstrap/scss/type';
+@import 'bootstrap/scss/containers';
+// @import 'bootstrap/scss/images';
+@import 'bootstrap/scss/nav';
+// @import 'bootstrap/scss/accordion';
+// @import 'bootstrap/scss/alert';
+@import 'bootstrap/scss/badge';
+// @import 'bootstrap/scss/breadcrumb';
+// @import 'bootstrap/scss/button-group';
+@import 'bootstrap/scss/buttons';
+@import 'bootstrap/scss/card';
+// @import 'bootstrap/scss/carousel';
+// @import 'bootstrap/scss/close';
+@import 'bootstrap/scss/dropdown';
+@import 'bootstrap/scss/forms';
+@import 'bootstrap/scss/grid';
+// @import 'bootstrap/scss/list-group';
+// @import 'bootstrap/scss/modal';
+@import 'bootstrap/scss/navbar';
+// @import 'bootstrap/scss/offcanvas';
+// @import 'bootstrap/scss/pagination';
+// @import 'bootstrap/scss/placeholders';
+// @import 'bootstrap/scss/popover';
+@import 'bootstrap/scss/progress';
+// @import 'bootstrap/scss/spinners';
+@import 'bootstrap/scss/tables';
+// @import 'bootstrap/scss/toasts';
+// @import 'bootstrap/scss/tooltip';
+// @import 'bootstrap/scss/transitions';
+
+// Optional helpers
+// @import 'bootstrap/scss/helpers';
+
+// Optional utilities
+// @import 'bootstrap/scss/utilities/api';
+
+[data-bs-theme="light"] {
+  $custom-dark-button-color: rgb(236, 236, 236);
+  .btn-primary {
+    color: #0f0f0f;
+    --bs-btn-bg: #{mix($gray-600, $custom-dark-button-color, .5)};
+    --bs-btn-border-color: #{rgba($white, .25)};
+    --bs-btn-hover-bg: #{darken(mix($gray-600, $custom-dark-button-color, .5), 5%)};
+    --bs-btn-hover-border-color: #{rgba($white, .25)};
+    --bs-btn-active-bg: #{darken(mix($gray-600, $custom-dark-button-color, .5), 10%)};
+    --bs-btn-active-border-color: #{rgba($white, .5)};
+    --bs-btn-focus-border-color: #{rgba($white, .5)};
+    --bs-btn-focus-box-shadow: 0 0 0 .25rem rgba(255, 255, 255, .2);
+  }
+}
+[data-bs-theme="dark"] {
+  --bs-body-color: var(--bs-white);
+  --bs-body-color-rgb: #{to-rgb($white)};
+  $bg-color: #0f0f0f;
+  --bs-body-bg: #{$bg-color};
+  --bs-body-bg-rgb: #{to-rgb($bg-color)};
+
+  $custom-dark-button-color: rgb(226, 226, 226);
+  .btn-primary {
+    --bs-btn-bg: #{mix($gray-100, $custom-dark-button-color, .5)};
+    --bs-btn-border-color: #{rgba($white, .25)};
+    --bs-btn-hover-bg: #{darken(mix($gray-100, $custom-dark-button-color, .5), 5%)};
+    --bs-btn-hover-border-color: #{rgba($white, .25)};
+    --bs-btn-active-bg: #{darken(mix($gray-100, $custom-dark-button-color, .5), 10%)};
+    --bs-btn-active-border-color: #{rgba($white, .5)};
+    --bs-btn-focus-border-color: #{rgba($white, .5)};
+    --bs-btn-focus-box-shadow: 0 0 0 .25rem rgba(255, 255, 255, .2);
+  }
+}
+
+.dropdown {
+  .dropdown-item {
+    cursor: pointer;
+    &:hover {
+      background-color: #ececec;
+    }
+  }
+}
+@include color-mode(dark) {
+  .dropdown {
+    .dropdown-item {
+      cursor: pointer;
+      &:hover {
+        background-color: #2b2b2b;
+      }
+    }
+  }
+}
+
+.navbar-collapse {
+  justify-content: space-between;
+}
