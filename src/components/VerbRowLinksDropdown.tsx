@@ -1,9 +1,9 @@
 import classNames from "classnames"
 import {useState, useEffect, useRef} from 'preact/hooks'
-import LogoLinguee from "../images/external/linguee_logo.png"
-import LogoDuden from "../images/external/duden_logo.jpg"
-import LogoReverso from "../images/external/reverso_logo.png"
-import LogoYdg from "../images/external/ydg_logo.png"
+import LogoLinguee from "../images/external/linguee_logo.webp"
+import LogoDuden from "../images/external/duden_logo.webp"
+import LogoReverso from "../images/external/reverso_logo.webp"
+import LogoYdg from "../images/external/ydg_logo.webp"
 
 export type VerbRowLinksDropdownProps = {
   verb: string,
