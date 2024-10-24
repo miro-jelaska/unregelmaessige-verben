@@ -121,55 +121,55 @@ const VerbRow = ({definition, isDescriptionExpanded, onToggle, areQuizSectionVis
               />
           </div>
         </div>
-        {
-          isDescriptionExpanded &&
-          <div className='row-bottom '>
-            <div className="row-bottom__explanation card is-table-cell-hidden-on-desktop">
-              <div className="cell is-table-cell-hidden-on-desktop">
-              {definition.praesens}
-              {
-                definition.is_reflexive &&
-                <>&nbsp;<span className="badge rounded-pill is-sich">sich</span> </> 
-              }
-            </div>
+        <div className='row-bottom '
+          /*We do show/hide instead of Reacts &&-way to make content visible to crawlers.*/
+          style={{display: (isDescriptionExpanded ? "flex" : "none")}}
+          >
+          <div className="row-bottom__explanation card is-table-cell-hidden-on-desktop">
             <div className="cell is-table-cell-hidden-on-desktop">
-              {definition.praeteritum}
-              {
-                definition.is_reflexive &&
-                <>&nbsp;<span className="badge rounded-pill is-sich">sich</span> </>
-              }
-            </div>
-            <div className="cell is-table-cell-hidden-on-desktop">
-              {
-                definition.hilfsverb === "haben" 
-                ? <span className="badge rounded-pill is-haben">hat</span> 
-                : <span className="badge rounded-pill is-sein">ist</span> 
-              }
-              {
-                definition.is_reflexive &&
-                <>&nbsp;<span className="badge rounded-pill is-sich">sich</span></>
-              }
-              &nbsp; {definition.perfekt}
-            </div>
-            <div className="cell cell__vowel is-table-cell-hidden-on-desktop">
-              {
-                definition.vowel_change_from && `${definition.vowel_change_from} → ${definition.vowel_change_to}` 
-              }
-            </div>
-            </div>
-            <div className="row-bottom__inner card">
-              <div  className="card-body p-0">
-                {!definition.examples && <p className="is-notice-text">Noch keine Beispiele. (<i>No examples yet.</i>)</p>}
-                {definition.examples && definition.examples.map(example => 
-                  <ul key={example.de} className="example list-unstyled">
-                    <li className="de">{example.de}</li>
-                    <li className="en">{example.en}</li>
-                  </ul>
-                )} 
-              </div>
+            {definition.praesens}
+            {
+              definition.is_reflexive &&
+              <>&nbsp;<span className="badge rounded-pill is-sich">sich</span> </> 
+            }
+          </div>
+          <div className="cell is-table-cell-hidden-on-desktop">
+            {definition.praeteritum}
+            {
+              definition.is_reflexive &&
+              <>&nbsp;<span className="badge rounded-pill is-sich">sich</span> </>
+            }
+          </div>
+          <div className="cell is-table-cell-hidden-on-desktop">
+            {
+              definition.hilfsverb === "haben" 
+              ? <span className="badge rounded-pill is-haben">hat</span> 
+              : <span className="badge rounded-pill is-sein">ist</span> 
+            }
+            {
+              definition.is_reflexive &&
+              <>&nbsp;<span className="badge rounded-pill is-sich">sich</span></>
+            }
+            &nbsp; {definition.perfekt}
+          </div>
+          <div className="cell cell__vowel is-table-cell-hidden-on-desktop">
+            {
+              definition.vowel_change_from && `${definition.vowel_change_from} → ${definition.vowel_change_to}` 
+            }
+          </div>
+          </div>
+          <div className="row-bottom__inner card">
+            <div  className="card-body p-0">
+              {!definition.examples && <p className="is-notice-text">Noch keine Beispiele. (<i>No examples yet.</i>)</p>}
+              {definition.examples && definition.examples.map(example => 
+                <ul key={example.de} className="example list-unstyled">
+                  <li className="de">{example.de}</li>
+                  <li className="en">{example.en}</li>
+                </ul>
+              )} 
             </div>
           </div>
-        }
+        </div>
       </div>
   )
 }
