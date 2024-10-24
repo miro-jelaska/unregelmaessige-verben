@@ -75,7 +75,7 @@ const VerbRow = ({definition, isDescriptionExpanded, onToggle, areQuizSectionVis
           </div>
           <div className="cell is-table-cell-hidden-on-mobile"
             onClick={_ => onToggle(definition.verb)}>
-            {areQuizSectionVisible && definition.praesens}
+            {areQuizSectionVisible ? definition.praesens : "?"}
             {
               areQuizSectionVisible
               && definition.is_reflexive 
@@ -84,7 +84,7 @@ const VerbRow = ({definition, isDescriptionExpanded, onToggle, areQuizSectionVis
           </div>
           <div className="cell is-table-cell-hidden-on-mobile"
           onClick={_ => onToggle(definition.verb)}>
-            {definition.praeteritum}
+            {areQuizSectionVisible ? definition.praeteritum : "?"}
             {
               areQuizSectionVisible
               && definition.is_reflexive
@@ -95,16 +95,18 @@ const VerbRow = ({definition, isDescriptionExpanded, onToggle, areQuizSectionVis
             onClick={_ => onToggle(definition.verb)}>
             {
               areQuizSectionVisible
-              && definition.hilfsverb === "haben" 
-              ? <span className="badge rounded-pill is-haben">hat</span> 
-              : <span className="badge rounded-pill is-sein">ist</span> 
+              && (
+                definition.hilfsverb === "haben" 
+                ? <span className="badge rounded-pill is-haben">hat</span> 
+                : <span className="badge rounded-pill is-sein">ist</span> 
+              )
             }
             {
               areQuizSectionVisible
               && definition.is_reflexive
               && <>&nbsp;<span className="badge rounded-pill is-sich">sich</span></>
             }
-            &nbsp; {definition.perfekt}
+            &nbsp; {areQuizSectionVisible ? definition.perfekt : "?"}
           </div>
           <div className="cell cell__vowel is-table-cell-hidden-on-mobile"
           onClick={_ => onToggle(definition.verb)}>
