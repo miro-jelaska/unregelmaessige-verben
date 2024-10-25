@@ -8,9 +8,11 @@ body {
   background: #FFFFFF;
   background: linear-gradient(135deg, #FFFFFF, #EEEEE7);
   background-size: 100% auto;
+  height: 100%;
   min-height: 100vh;
   min-height: -webkit-fill-available;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .is-clickable {
