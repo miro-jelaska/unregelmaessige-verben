@@ -268,7 +268,7 @@
 - pre_example: das Glas
   verb: brechen
   post_example: ''
-  hilfsverb: sein
+  hilfsverb: haben
   is_reflexive: false
   praesens: bricht
   praeteritum: brach
@@ -279,9 +279,12 @@
   vowel_change_from: e
   vowel_change_to: i
   examples:
-    - de: Wo bist du eigentlich die ganze Nacht gewesen?
-      en: Where have you been all night?
-      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Ich habe mir den Arm gebrochen, aber es ist wieder komplett verheilt.
+      en: I broke my arm, but it has healed completely.
+      author: linguee
+    - de: Der Zaun ist gebrochen.
+      en: The fence is broken.
+      author: my
 - pre_example: das Holz
   verb: brennen
   post_example: / etwas auf eine CD
