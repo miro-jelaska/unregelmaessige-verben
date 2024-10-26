@@ -189,7 +189,7 @@ $dark-border-color: rgb(26 26 26);
     }
     &.is-table-cell-hidden-on-desktop {
       display: flex;
-      @media (min-device-width: 600px) {
+      @media (min-device-width: 750px) {
         display: none;
       }
     }
@@ -223,11 +223,15 @@ $dark-border-color: rgb(26 26 26);
       .row-bottom {
         justify-content: center;
         flex: 1;
+        flex-direction: column;
         margin-bottom: .5rem;
         &__inner {
           border-radius: 0 0 .5rem .5rem ;
-          padding: 1rem;
+          padding: 0 1rem;
           flex: 1;
+          p {
+            margin: 0;
+          }
         }
         &__explanation {
           display: flex;
@@ -236,7 +240,7 @@ $dark-border-color: rgb(26 26 26);
         }
         .is-table-cell-hidden-on-desktop {
           display: flex;
-          @media (min-device-width: 600px) {
+          @media (min-device-width: 750px) {
             display: none;
           }
         }

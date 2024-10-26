@@ -1983,7 +1983,7 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-    - de: Das Pferd ist schon u4ber einen 2 Meter hohen Zaun gesprungen.
+    - de: Das Pferd ist schon über einen 2 Meter hohen Zaun gesprungen.
       en: The horse has already jumped over a 2 meter high fence.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: die Mücke
