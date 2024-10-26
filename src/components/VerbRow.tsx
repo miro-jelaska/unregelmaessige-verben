@@ -165,7 +165,7 @@ const VerbRow = ({definition, isDescriptionExpanded, onToggle, areQuizSectionVis
               {!definition.examples && <p className="is-notice-text">Noch keine Beispiele. (<i>No examples yet.</i>)</p>}
               {definition.examples && definition.examples.map(example => 
                 <ul key={example.de} className="example list-unstyled">
-                  <li className="de">{example.de}</li>
+                  <li className="de" dangerouslySetInnerHTML={{__html:example.de}}/>
                   <li className="en">{example.en}</li>
                 </ul>
               )} 

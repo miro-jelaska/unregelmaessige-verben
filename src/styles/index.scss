@@ -250,6 +250,10 @@ $dark-border-color: rgb(26 26 26);
         }
 
         .example {
+          em {
+            font-style: normal;
+            font-weight: 700;
+          }
           .en {
             font-style: italic;
             color:#3c3c3c;

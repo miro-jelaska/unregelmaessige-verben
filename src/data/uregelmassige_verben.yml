@@ -12,7 +12,7 @@
   vowel_change_from: a
   vowel_change_to: ä
   examples:
-    - de: Sie hat den Kuchen in einer runden Form gebacken.
+    - de: Sie <em>hat</em> den Kuchen in einer runden Form <em>gebacken</em>.
       en: She baked the cake in a round mould.
       author: linguee
 - pre_example: ''
@@ -29,7 +29,7 @@
   vowel_change_from: e
   vowel_change_to: ie
   examples:
-    - de: Der Feldwebel befahl der Truppe, zu marschieren. 
+    - de: Der Feldwebel <em>befahl</em> der Truppe, zu marschieren. 
       en: The sergeant commanded the troop to march.
       author: linguee
 - pre_example: ''
@@ -45,10 +45,10 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-  - de: Wir beginnen morgen mit dem neuen Projekt.
+  - de: Wir <em>beginnen</em> morgen mit dem neuen Projekt.
     en: We will begin with the new project tomorrow.
     author: chatgpt
-  - de: Die Wehen haben begonnen, bald kommt das Baby.
+  - de: Die Wehen <em>haben begonnen</em>, bald kommt das Baby.
     en: The contractions have set in, the baby will arrive soon.
     author: chatgpt
 - pre_example: der Hund
@@ -63,7 +63,7 @@
   duden_url: https://www.duden.de/rechtschreibung/beiszen
   duden_word_frequency: 3
   examples:
-  - de: Du kannst den Hund streicheln; er wird dich nicht beißen.
+  - de: Du kannst den Hund streicheln; er wird dich nicht <em>beißen</em>.
     en: You can pet the dog; it will not bite you.
     author: linguee
 - pre_example: ''
@@ -80,13 +80,13 @@
   vowel_change_from: e
   vowel_change_to: i
   examples:
-    - de: Die Küstenwache hat die Mannschaft von dem havarierten Schiff geborgen.
+    - de: Die Küstenwache hat die Mannschaft von dem havarierten Schiff <em>geborgen</em>.
       en: The coastguard rescued the crew from the wrecked ship.
       author: linguee
-    - de: Dunkle Höhlen können viele Geheimnisse bergen.
+    - de: Dunkle Höhlen können viele Geheimnisse <em>bergen</em>.
       en: Dark caves can hide many secrets.
       author: linguee
-    - de: Es gelang der Crew, das auf Grund gelaufene Schiff zu bergen.
+    - de: Es gelang der Crew, das auf Grund gelaufene Schiff zu <em>bergen</em>.
       en: The crew managed to salvage the ship that had run aground.
       author: linguee
 - pre_example: das Eis
@@ -101,7 +101,7 @@
   duden_url: https://www.duden.de/rechtschreibung/bersten
   duden_word_frequency: 2
   examples:
-    - de: Wenn Wasser in Leitungen gefriert, können die Leitungen bersten.
+    - de: Wenn Wasser in Leitungen gefriert, können die Leitungen <em>bersten</em>.
       en: When the water in pipes freezes, the pipes can burst.
       author: linguee
 - pre_example: ''
@@ -116,13 +116,13 @@
   duden_url: https://www.duden.de/rechtschreibung/betruegen
   duden_word_frequency: 2
   examples:
-    - de: Mein Bruder betrügt nie, wenn wir Karten spielen.
+    - de: Mein Bruder <em>betrügt</em> nie, wenn wir Karten spielen.
       en: My brother never cheats when we play cards
       author: linguee
-    - de: Er betrog seine Klienten und stahl ihr Geld.
+    - de: Er <em>betrog</em> seine Klienten und stahl ihr Geld.
       en: He defrauded his clients and stole their money.
       author: linguee
-    - de: Mein Freund hat mich nie betrogen; er ist mir treu.
+    - de: Mein Freund <em>hat</em> mich nie <em>betrogen</em>; er ist mir treu.
       en: My boyfriend never cheated on me; he is faithful to me.
       author: linguee
 - pre_example: die Krise
@@ -137,13 +137,13 @@
   duden_url: https://www.duden.de/rechtschreibung/bewegen_bewegt
   duden_word_frequency: 4
   examples:
-    - de: Die Tänzerin bewegte anmutig die Arme.
+    - de: Die Tänzerin <em>bewegte</em> anmutig die Arme.
       en: The dancer moved her arms gracefully.
       author: linguee
-    - de: Gemeinsam können wir im Umweltschutz etwas bewegen.
+    - de: Gemeinsam können wir im Umweltschutz etwas <em>bewegen</em>.
       en: Together we can make a difference in environmental protection.
       author: linguee
-    - de: Beide Zwillinge sprechen und bewegen sich auf ähnliche Art.
+    - de: Beide Zwillinge sprechen und <em>bewegen sich</em> auf ähnliche Art.
       en: Both twins talk and move in a similar fashion.
       author: linguee
 - pre_example: ''
@@ -158,10 +158,10 @@
   duden_url: https://www.duden.de/rechtschreibung/biegen
   duden_word_frequency: 2
   examples:
-    - de: Wenn ich einen Stock zu stark biege, bricht er. 
+    - de: Wenn ich einen Stock zu stark <em>biege</em>, bricht er. 
       en: If I bend a stick too much, it will break.
       author: linguee
-    - de: An der Kreuzung ist das Fahrzeug in die Schillerstraße abgebogen.
+    - de: An der Kreuzung ist das Fahrzeug in die Schillerstraße <em>abgebogen</em>.
       en: At the intersection, the vehicle turned into Schillerstrasse.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -176,7 +176,7 @@
   duden_url: https://www.duden.de/rechtschreibung/bieten
   duden_word_frequency: 4
   examples:
-    - de: Das neue Museum hat für jeden etwas zu bieten.
+    - de: Das neue Museum hat für jeden etwas zu <em>bieten</em>.
       en: The new museum has something to offer for everybody.
       author: linguee
 - pre_example: ''
@@ -191,10 +191,10 @@
   duden_url: https://www.duden.de/rechtschreibung/binden
   duden_word_frequency: 3
   examples:
-    - de: Ich muss meine Abschlußarbeit vor dem Einreichen binden.
+    - de: Ich muss meine Abschlußarbeit vor dem Einreichen <em>binden</em>.
       en: I need to bind my thesis before submitting it.
       author: linguee
-    - de: Wir haben ein rotes Band um die Schachtel gebunden.
+    - de: Wir <em>haben</em> ein rotes Band um die Schachtel <em>gebunden</em>.
       en: We tied a red ribbon around the box.
       author: linguee
 - pre_example: ''
@@ -210,10 +210,10 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-    - de: Der Arzt bat um eine Probe.
+    - de: Der Arzt <em>bat</em> um eine Probe.
       en: The doctor asked for a specimen.
       author: linguee
-    - de: Der Kunde bat um weitere Produktinformationen.
+    - de: Der Kunde <em>bat</em> um weitere Produktinformationen.
       en: The customer requested further product information.
       author: linguee
 - pre_example: der Wind
@@ -230,10 +230,10 @@
   vowel_change_from: a
   vowel_change_to: ä
   examples:
-    - de: Heute bläst der Wind sehr stark. 
+    - de: Heute <em>bläst</em> der Wind sehr stark. 
       en: Today, the wind is blowing very strongly.
       author: linguee
-    - de: Der Sturm blies alle Blätter vom Baum. 
+    - de: Der Sturm <em>blies</em> alle Blätter vom Baum. 
       en: The storm blew all the leaves off the tree. 
       author: linguee
 - pre_example: ''
@@ -248,7 +248,7 @@
   duden_url: https://www.duden.de/rechtschreibung/bleiben
   duden_word_frequency: 4
   examples:
-    - de: Martin Weber ist den ganzen Winter durch im Haus geblieben.
+    - de: Martin Weber ist den ganzen Winter durch im Haus <em>geblieben</em>.
       en: Martin Weber stayed in the house throughout the winter.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -279,10 +279,10 @@
   vowel_change_from: e
   vowel_change_to: i
   examples:
-    - de: Ich habe mir den Arm gebrochen, aber es ist wieder komplett verheilt.
+    - de: Ich <em>habe</em> mir den Arm <em>gebrochen</em>, aber es ist wieder komplett verheilt.
       en: I broke my arm, but it has healed completely.
       author: linguee
-    - de: Der Zaun ist gebrochen.
+    - de: Der Zaun <em>ist gebrochen</em>.
       en: The fence is broken.
       author: my
 - pre_example: das Holz
@@ -308,7 +308,7 @@
   duden_url: https://www.duden.de/rechtschreibung/abbrennen
   duden_word_frequency: 2
   examples:
-    - de: Das Haus ist vollständig abgebrannt.
+    - de: Das Haus <em>ist</em> vollständig <em>abgebrannt</em>.
       en: The house completely burned down.
       author: chatgpt
 - pre_example: ''
@@ -435,10 +435,10 @@
   vowel_change_to: i
   vowel_change_note: 
   examples:
-    - de: Warum hast du mich so erschroken?
+    - de: Warum <em>hast</em> du <em>mich</em> so <em>erschroken</em>?
       en: Why did you scare me so much?
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Nicht alle Schüler sind vor dem neuen Lehrer eschrocken.
+    - de: Nicht alle Schüler <em>sind</em> vor dem neuen Lehrer <em>eschrocken</em>.
       en: Not all pupils are scared of the new teacher.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -483,10 +483,10 @@
   vowel_change_to: ä
   vowel_change_note: 
   examples:
-    - de: Am Sonntag sind wir mit unseren Freunden in den Schwarzwald gefahren.
+    - de: Am Sonntag <em>sind</em> wir mit unseren Freunden in den Schwarzwald <em>gefahren</em>.
       en: On Sunday, we went to the Black Forest with our friends.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Kinder unter 6 Jahren sind umsonst mitgefahren.
+    - de: Kinder unter 6 Jahren <em>sind</em> umsonst <em>mitgefahren</em>.
       en: Children under the age of 6 travel free of charge.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -505,22 +505,22 @@
   vowel_change_to: ä
   vowel_change_note: 
     examples:
-    - de: Auf dem Nürburgring habe ich das neueste Mercedesmodell gefahren.
+    - de: Auf dem Nürburgring <em>habe</em> ich das neueste Mercedesmodell <em>gefahren</em>.
       en: I drove the latest Mercedes model at the Nürburgring.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Ich habe das Schild umgefahren.
+    - de: Ich <em>habe</em> das Schild <em>umgefahren</em>.
       en: I knocked over the sign.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Ich habe das Schild umfahren.
+    - de: Ich <em>habe</em> das Schild <em>umfahren</em>.
       en: I drove around the sign.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Den Stau auf der Autobahn haben wir weiträumig umgefahren.
+    - de: Den Stau auf der Autobahn <em>haben</em> wir weiträumig <em>umgefahren</em>.
       en: We avoided the traffic jam on the highway.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Der Autofahrer hat den armen Hund einfach überfahren.
+    - de: Der Autofahrer <em>hat</em> den armen Hund einfach <em>überfahren</em>.
       en: The driver simply ran over the poor dog.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Frau Lambert hat sich jedes Mal in München verfahren.
+    - de: Frau Lambert <em>hat</em> sich jedes Mal in München <em>verfahren</em>.
       en: Mrs. Lambert got lost in Munich every time.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: der Dollar
@@ -536,7 +536,7 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-    - de: Das Kind ist auf den Mund gefallen und hat dabei einen Zahn verloren.
+    - de: Das Kind <em>ist</em> auf den Mund <em>gefallen</em> und hat dabei einen Zahn verloren.
       en: The child has fallen on its mouth and lost a tooth.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -588,7 +588,7 @@
   duden_url: https://www.duden.de/rechtschreibung/fliegen
   duden_word_frequency: 3
   examples:
-    - de: Der junge Pilot ist das erste Mal einen Airbus geflogen.
+    - de: Der junge Pilot <em>ist</em> das erste Mal einen Airbus <em>geflogen</em>.
       en: The young pilot flew an Airbus for the first time.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -603,7 +603,7 @@
   duden_url: https://www.duden.de/rechtschreibung/fliegen
   duden_word_frequency: 3
   examples:
-    - de: Im letzten Sommer bin ich das erste Mal in meinem Leben geflogen.
+    - de: Im letzten Sommer bin <em>ich</em> das erste Mal in meinem Leben <em>geflogen</em>.
       en: Last summer I flew for the first time in my life.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: der Dieb
@@ -655,10 +655,10 @@
   duden_url: https://www.duden.de/rechtschreibung/frieren
   duden_word_frequency: 2
   examples:
-    - de: Im Winter war es  sehr kalt. Wir haben wochenlang gefroren.
+    - de: Im Winter war es sehr kalt. Wir <em>haben</em> wochenlang <em>gefroren</em>.
       en: It was very cold in winter. We were freezing for weeks.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Draußen ist es sehr kalt. Das Wasser ist auch schon gefroren.
+    - de: Draußen ist es sehr kalt. Das Wasser ist auch schon <em>gefroren</em>.
       en: It's very cold outside. The water is already frozen.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: der Obstsaft
@@ -724,7 +724,7 @@
   duden_url: https://www.duden.de/rechtschreibung/gehen
   duden_word_frequency: 5
   examples:
-    - de: Am Wochenende sind wir zu Fuß von Bonn nach Köln gegangen.
+    - de: Am Wochenende <em>sind</em> wir zu Fuß von Bonn nach Köln <em>gegangen</em>.
       en: At the weekend we walked from Bonn to Cologne.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: das Experiment
@@ -740,7 +740,7 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-    - de: Es ist mir leider nicht gelungen, meine Freundin umzustimmen.
+    - de: Es <em>ist</em> mir leider nicht <em>gelungen</em>, meine Freundin umzustimmen.
       en: Unfortunately, I wasn't able to change my girlfriend's mind.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: der Pass
@@ -806,7 +806,7 @@
   vowel_change_to: ie
   vowel_change_note: 
   examples:
-    - de: Am Mittwoch sind in der Fabrik gleich mehrere Unfälle geschehen.
+    - de: Am Mittwoch <em>sind</em> in der Fabrik gleich mehrere Unfälle <em>geschehen</em>.
       en: Several accidents occurred in the factory on Wednesday.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -1041,13 +1041,13 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-    - de: Endlich wird es wärmer. Ich glaube, der Sommer ist endlich gekommen.
+    - de: Endlich wird es wärmer. Ich glaube, der Sommer <em>ist</em endlich <em>gekommen</em>.
       en: It's finally getting warmer. I think summer has finally arrived.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Um wie viel Urh ist der Bus gestern eigentlich angekommen?
+    - de: Um wie viel Urh <em>ist</em> der Bus gestern eigentlich <em>angekommen</em>?
       en: What time did the bus actually arrive yesterday?
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Wir sind vom Weg abgekommen und haben uns im Wald verlaufen.
+    - de: Wir <em>sind</em> vom Weg <em>abgekommen</em> und haben uns im Wald verlaufen.
       en: We lost our way and got lost in the forest.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -1120,19 +1120,19 @@
   vowel_change_to: ä
   vowel_change_note: 
   examples:
-    - de: Schon wieder ist das Mädchen auf die Straße gelaufen.
+    - de: Schon wieder <em>ist</em> das Mädchen auf die Straße <em>gelaufen</em>.
       en: The girl has run into the street again.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Als Kind bin ich die 100 Meter in 11 Sekunden gelaufen.
+    - de: Als Kind <em>bin</em> ich die 100 Meter in 11 Sekunden <em>gelaufen</em>.
       en: As a child, I ran the 100 meters in 11 seconds.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Die Mädchen aus der 7c sind von allen am schnellsten gelaufen.
+    - de: Die Mädchen aus der 7c <em>sind von allen am schnellsten <em>gelaufen</em>.
       en: The girls from 7c ran the fastest of all.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Dieser Angsthase ist von uns weggelaufen.
+    - de: Dieser Angsthase <em>ist</em> von uns <em>weggelaufen</em>.
       en: This coward ran away from us.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Die Wanderer haben sich verlaufen. Nun suchen sie den Weg zuruck.
+    - de: Die Wanderer <em>haben sich verlaufen</em>. Nun suchen sie den Weg zuruck.
       en: The hikers have lost their way. Now they are looking for the way back.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -1421,7 +1421,7 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-    - de: Unsere Kinder sind gestern studenlang durch den Wald gerannt.
+    - de: Unsere Kinder <em>sind</em> gestern studenlang durch den Wald <em>gerannt</em>.
       en: Our children ran through the forest for hours yesterday.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -1602,19 +1602,19 @@
   vowel_change_to: ä
   vowel_change_note: 
   examples:
-    - de: Am Freitag ist mein jüngester Sohn erst um Mitternacht eingeschlafen.
+    - de: Am Freitag <em>ist</em> mein jüngester Sohn erst um Mitternacht <em>eingeschlafen</em>.
       en: On Friday, my youngest son didn't fall asleep until midnight.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Letzte Nacht habe ich wie ein toter geschlafen.
+    - de: Letzte Nacht <em>habe</em> ich wie ein toter <em>geschlafen</em>.
       en: Last night I slept like a dead man.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Das Baby ist bereits nach kurzer Zeit eingeschlafen.
+    - de: Das Baby <em>ist</em> bereits nach kurzer Zeit <em>eingeschlafen</em>.
       en: The baby fell asleep after a short time.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Endlich hat sich mein Mann nach der anstrengenden Arbei ausgeschlafen.
+    - de: Endlich <em>hat sich</em> mein Mann nach der anstrengenden Arbei <em>ausgeschlafen</em>.
       en: My husband has finally had a good night's sleep after a hard day's work.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Unser neuer Mitarbeiter hat sich schon wieder verschlafen.
+    - de: Unser neuer Mitarbeiter <em>hat sic</em> schon wieder <em>verschlafen</em>.
       en: Our new employee has overslept again.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -1702,7 +1702,7 @@
   vowel_change_to: i
   vowel_change_note: 
   examples:
-    - de: In diesem Jahr ist der letzte Schnee erst im späten Mai geschmolzen.
+    - de: In diesem Jahr <em>ist</em> der letzte Schnee erst im späten Mai <em>geschmolzen</em>.
       en: This year, the last snow only melted in late May.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -1799,10 +1799,10 @@
   duden_url: https://www.duden.de/rechtschreibung/schwimmen
   duden_word_frequency: 3
   examples:
-    - de: Martin ist die 500 Meter in der schnellsten Zeit geschwommen.
+    - de: Martin <em>ist</em> die 500 Meter in der schnellsten Zeit <em>geschwommen</em>.
       en: Martin swam the 500 meters in the fastest time.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: In Italien sind wir oft im Mittelmeer geschwommen.
+    - de: In Italien <em>sind</em> wir oft im Mittelmeer <em>geschwommen</em>.
       en: In Italy, we often swam in the Mediterranean.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -1887,7 +1887,7 @@
   duden_url: https://www.duden.de/rechtschreibung/sinken
   duden_word_frequency: 4
   examples:
-    - de: Die Temperaturen ist stark gesunken. Der Winter zieht ein.
+    - de: Die Temperaturen <em>ist</em> stark <em>gesunken</em>. Der Winter zieht ein.
       en: The temperature has dropped sharply. Winter is setting in.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -1983,7 +1983,7 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-    - de: Das Pferd ist schon über einen 2 Meter hohen Zaun gesprungen.
+    - de: Das Pferd <em>ist</em>schon über einen 2 Meter hohen Zaun <em>gesprungen</em>.
       en: The horse has already jumped over a 2 meter high fence.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: die Mücke
@@ -2013,10 +2013,10 @@
   duden_url: https://www.duden.de/rechtschreibung/stehen
   duden_word_frequency: 5
   examples:
-    - de: Um wie viel Uhr ist Sascha am Sonntag aufgestanden?
+    - de: Um wie viel Uhr <em>ist</em> Sascha am Sonntag <em>aufgestanden</em>?
       en: What time did Sascha get up on Sunday?
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Um Urlaub sind wir selten vor dem Mittag aufgestanden.
+    - de: Um Urlaub <em>sind</em> wir selten vor dem Mittag <em>aufgestanden</em>.
       en: We rarely got up before midday on vacation.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -2045,13 +2045,13 @@
   duden_url: https://www.duden.de/rechtschreibung/steigen
   duden_word_frequency: 4
   examples:
-    - de: Tagsüber sind die Temperaturen nur um 2 Grad gestiegen.
+    - de: Tagsüber <em>sind</em> die Temperaturen nur um 2 Grad <em>gestiegen</em>.
       en: During the day, temperatures have only risen by 2 degrees.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Warum ist Herr Schöller nicht in das Taxi eingestiegen?
+    - de: Warum <em>ist</em> Herr Schöller nicht in das Taxi <em>eingestiegen</em>?
       en: Why didn't Mr. Schöller get into the cab?
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: An der Bushaltestelle sind alle Fahrgäste aus dem Bus ausgestiegen.
+    - de: An der Bushaltestelle <em>sind</em> alle Fahrgäste aus dem Bus <em>ausgestiegen</em>.
       en: All passengers have got off the bus at the bus stop.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -2070,7 +2070,7 @@
   vowel_change_to: i
   vowel_change_note: 
   examples:
-    - de: Frau Haller ist verwitwet. Ihr Mann ist voriges Jahr gestorben.
+    - de: Frau Haller ist verwitwet. Ihr Mann <em>ist</em> voriges Jahr <em>gestorben</em>.
       en: Mrs. Haller is a widow. Her husband died last year.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: der Schnee
@@ -2170,10 +2170,10 @@
   vowel_change_to: i
   vowel_change_note: 
   examples:
-    - de: Gestern habe ich in der Stadt eine alte Schulfreundin getroffen.
+    - de: Gestern <em>habe</em> ich in der Stadt eine alte Schulfreundin <em>getroffen</em>.
       en: Yesterday I met an old school friend in town.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: In Kolumbien ist der Professor auf einen Piratenschatz getroffen.
+    - de: In Kolumbien <em>ist</em> der Professor auf einen Piratenschatz <em>getroffen</em>.
       en: In Colombia, the professor came across a pirate treasure.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -2215,10 +2215,10 @@
   vowel_change_to: i
   vowel_change_note: (+tt)
   examples:
-    - de: Die Frau ist auf eine Bananenschale getreten und hingefallen.
+    - de: Die Frau <em>ist</em> auf eine Bananenschale <em>getreten</em> und hingefallen.
       en: The woman stepped on a banana peel and fell down.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Viele Mitglieder sind in den letzten Monaten aus der Partei ausgetreten.
+    - de: Viele Mitglieder <em>sind</em> in den letzten Monaten aus der Partei <em>ausgetreten</em>.
       en: Many members have left the party in recent months.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -2236,7 +2236,7 @@
   vowel_change_to: i
   vowel_change_note: (+tt)
   examples:
-    - de: Der Junge hat mich gegen mein Schienbein getreten.
+    - de: Der Junge <em>hat mich</em> gegen mein Schienbein <em>getreten</em>.
       en: The boy kicked me in the shin.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -2339,7 +2339,7 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5 
   examples:
-    - de: Hast du meinen Hund Bello gesehn? Seit gestern ist er verschwunden.
+    - de: Hast du meinen Hund Bello gesehn? Seit gestern <em>ist</em> er <em>verschwunden</em>.
       en: Have you seen my dog Bello? He disappeared yesterday.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -2368,7 +2368,7 @@
   vowel_change_to: ä
   vowel_change_note:
   examples:
-    - de: Heinrich ist für sein Alter sehr groß. - Ja, er ist sehr schnell gewachsen.
+    - de: Heinrich ist für sein Alter sehr groß. - Ja, er <em>ist</em> sehr schnell<em>gewachsen</em>.
       en: Heinrich is very tall for his age. - Yes, he has grown very quickly.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -2447,7 +2447,7 @@
   vowel_change_to: i
   vowel_change_note:
   examples:
-    - de: Am Samstag ist Ilona volljährig geworden. Jetzt ist sie endlich 18 Jahre alt.
+    - de: Am Samstag <em>ist</em> Ilona volljährig <em>geworden</em>. Jetzt ist sie endlich 18 Jahre alt.
       en: Ilona came of age on Saturday. Now she is finally 18 years old.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -2539,7 +2539,7 @@
   duden_url: https://www.duden.de/rechtschreibung/ziehen
   duden_word_frequency: 4
   examples:
-    - de: Nach dem Sport habe ich mich in aller Eile umgezogen.
+    - de: Nach dem Sport <em>habe</em> ich <em>mich</em> in aller Eile <em>umgezogen</em>.
       en: After sport, I changed my clothes in a hurry.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -2554,13 +2554,13 @@
   duden_url: https://www.duden.de/rechtschreibung/ziehen
   duden_word_frequency: 4
   examples:
-    - de: Jonas wohnt schon lange nicht mehr hier. Er ist nach Köln gezogen.
+    - de: Jonas wohnt schon lange nicht mehr hier. Er <em>ist</em> nach Köln <em>gezogen</em>.
       en: Jonas hasn't lived here for a long time. He has moved to Cologne.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Ich glaube, Herr Döring ist nach Melsungen gezogen.
+    - de: Ich glaube, Herr Döring <em>ist</em> nach Melsungen <em>gezogen</em>.
       en: I think Mr. Döring has moved to Melsungen.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Im Sommer sind wir von München nach Stuttgart umgezogen.
+    - de: Im Sommer <em>sind</em> wir von München nach Stuttgart <em>umgezogen</em>.
       en: We moved from Munich to Stuttgart in the summer.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
