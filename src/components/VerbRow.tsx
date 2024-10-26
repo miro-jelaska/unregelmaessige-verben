@@ -128,37 +128,37 @@ const VerbRow = ({definition, isDescriptionExpanded, onToggle, areQuizSectionVis
           style={{display: (isDescriptionExpanded ? "flex" : "none")}}
           >
           <div className="row-bottom__explanation card is-table-cell-hidden-on-desktop">
+              <div className="cell is-table-cell-hidden-on-desktop">
+              {definition.praesens}
+              {
+                definition.is_reflexive &&
+                <>&nbsp;<span className="badge rounded-pill is-sich">sich</span> </> 
+              }
+            </div>
             <div className="cell is-table-cell-hidden-on-desktop">
-            {definition.praesens}
-            {
-              definition.is_reflexive &&
-              <>&nbsp;<span className="badge rounded-pill is-sich">sich</span> </> 
-            }
-          </div>
-          <div className="cell is-table-cell-hidden-on-desktop">
-            {definition.praeteritum}
-            {
-              definition.is_reflexive &&
-              <>&nbsp;<span className="badge rounded-pill is-sich">sich</span> </>
-            }
-          </div>
-          <div className="cell is-table-cell-hidden-on-desktop">
-            {
-              definition.hilfsverb === "haben" 
-              ? <span className="badge rounded-pill is-haben">hat</span> 
-              : <span className="badge rounded-pill is-sein">ist</span> 
-            }
-            {
-              definition.is_reflexive &&
-              <>&nbsp;<span className="badge rounded-pill is-sich">sich</span></>
-            }
-            &nbsp; {definition.perfekt}
-          </div>
-          <div className="cell cell__vowel is-table-cell-hidden-on-desktop">
-            {
-              definition.vowel_change_from && `${definition.vowel_change_from} → ${definition.vowel_change_to}` 
-            }
-          </div>
+              {definition.praeteritum}
+              {
+                definition.is_reflexive &&
+                <>&nbsp;<span className="badge rounded-pill is-sich">sich</span> </>
+              }
+            </div>
+            <div className="cell is-table-cell-hidden-on-desktop">
+              {
+                definition.hilfsverb === "haben" 
+                ? <span className="badge rounded-pill is-haben">hat</span> 
+                : <span className="badge rounded-pill is-sein">ist</span> 
+              }
+              {
+                definition.is_reflexive &&
+                <>&nbsp;<span className="badge rounded-pill is-sich">sich</span></>
+              }
+              &nbsp; {definition.perfekt}
+            </div>
+            <div className="cell cell__vowel is-table-cell-hidden-on-desktop">
+              {
+                definition.vowel_change_from && `${definition.vowel_change_from} → ${definition.vowel_change_to}` 
+              }
+            </div>
           </div>
           <div className="row-bottom__inner card">
             <div  className="card-body p-0">
