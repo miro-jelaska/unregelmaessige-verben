@@ -28,6 +28,14 @@ const { title } = Astro.props;
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
+    
+    <!-- 
+    Key remarks about Umami analytics platform, quoted from the official Umami web:
+    - Umami does not use any cookies so no annoying cookie banner is required.
+    - Umami never collects any personal information from your visitors so it is fully compliant with GDPR and CCPA.
+    - All visitor data is anonymized to protect your visitors' privacy.
+    -->
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="554fdfb2-560b-4116-8a96-7ff76c3c0ad6"></script>
   </head>
   <body>
     <slot />
