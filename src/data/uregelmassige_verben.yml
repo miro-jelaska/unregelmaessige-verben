@@ -2884,7 +2884,7 @@
   - de: Sie <em>schwamm</em> schneller als alle anderen und gewann das Rennen.
     en: She swam faster than everyone else and won the race.
     author: chatgpt
-  - de: Martin <em>ist</em> die 500 Meter in der schnellsten Zeit <em>geschwommen</em>.
+  - de: Martin <em>ist</em> die 500 Meter am schnellsten <em>geschwommen</em>.
     en: Martin swam the 500 meters in the fastest time.
     author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
   - de: In Italien <em>sind</em> wir oft im Mittelmeer <em>geschwommen</em>.
@@ -3402,8 +3402,8 @@
   - de: Sie <em>stieß</em> beim Tanzen versehentlich gegen den Tisch und ließ alles umfallen.
     en: She accidentally bumped into the table while dancing and knocked everything over.
     author: chatgpt
-  - de: Er <em>hat</em> oft gegen die Wand <em>gestoßen</em>, weil er im Dunkeln lief.
-    en: He has often bumped against the wall because he was walking in the dark.
+  - de: Er <em>ist</em> oft gegen die Wand <em>gestoßen</em>, weil er im Dunkeln lief.
+    en: He often bumped into the wall because he was walking in the dark.
     author: chatgpt
 - pre_example: ''
   verb: stoßen
@@ -3417,8 +3417,8 @@
   duden_url: https://www.duden.de/rechtschreibung/stoszen
   duden_word_frequency: 3
   examples:
-  - de: Sie <em>ist</em> mit ihrem Fahrrad auf einen anderen Radfahrer <em>gestoßen</em> und sie sind beide gefallen.
-    en: She has collided with another cyclist on her bike, and they both fell.
+  - de: Als sie mit ihrem Fahrrad gegen einen anderen Radfahrer <em>gestoßen ist</em>, sind sie beide umgefallen.
+    en: When she hit another cyclist with her bike, they both fell over.
     author: chatgpt
 - pre_example: ''
   verb: streichen
