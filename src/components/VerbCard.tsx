@@ -2,6 +2,7 @@ import classNames from "classnames"
 import { useMemo, useState, useCallback, useEffect } from "preact/hooks"
 import type { VerbDetails } from "../data/domain"
 import VerbCardLinksDropdown from "./VerbRowLinksDropdown"
+import { useSpacebarKeyPress } from "../utils"
 
 
 export type VerbCardProps = {
@@ -20,7 +21,9 @@ export type VerbCardProps = {
 const VerbCard = ({definition, isDescriptionExpanded, isMarked, onMarkClick, showBookmarked, goToPreviousCard, goToNextCard }: VerbCardProps) => {
   const [areDetailsVisible, setAreDetailsVisible] = useState(false); 
   const [areExamplesVisible, setAreExamplesVisible] = useState(false); 
-  const [revealedPart, setRevealedPart] = useState(-1); 
+  const [revealedPart, setRevealedPart] = useState(-1);
+  const spacebarPress = useSpacebarKeyPress();
+  
   const revealAnswer = useCallback(
     () =>{ 
       setAreDetailsVisible(true)
@@ -28,7 +31,7 @@ const VerbCard = ({definition, isDescriptionExpanded, isMarked, onMarkClick, sho
     [setAreDetailsVisible]
   )
   useEffect(()=>{
-    const val = Math.floor(Math.random()*3);
+    const val = Math.floor(Math.random()*4);
     console.log(val)
     setRevealedPart(val) 
   },[setRevealedPart])
@@ -37,11 +40,17 @@ const VerbCard = ({definition, isDescriptionExpanded, isMarked, onMarkClick, sho
     setAreExamplesVisible(!areExamplesVisible)
   }, [setAreExamplesVisible, areExamplesVisible])
 
+  useEffect(() => {
+    if (spacebarPress) {
+      revealAnswer()
+    }
+  }, [spacebarPress]);
+
   return (
     <div className={classNames('Card', 'verb-card', {"is-active": isDescriptionExpanded })}>
         <div className="Card-top" onClick={_ => onToggle()}>
           <div className="cell is-table-cell-hidden-on-mobile">
-            {(areDetailsVisible || revealedPart === 0) ? definition.praesens : "?"}
+            <b>{(areDetailsVisible || revealedPart === 0) ? definition.verb : "?"}</b>
             {
               (areDetailsVisible || revealedPart === 0)
               && definition.is_reflexive 
@@ -49,16 +58,24 @@ const VerbCard = ({definition, isDescriptionExpanded, isMarked, onMarkClick, sho
             }
           </div>
           <div className="cell is-table-cell-hidden-on-mobile">
-            {(areDetailsVisible || revealedPart === 1) ? definition.praeteritum : "?"}
+            {(areDetailsVisible || revealedPart === 1) ? definition.praesens : "?"}
             {
               (areDetailsVisible || revealedPart === 1)
+              && definition.is_reflexive 
+              && <>&nbsp;<span className="badge rounded-pill is-sich">sich</span> </> 
+            }
+          </div>
+          <div className="cell is-table-cell-hidden-on-mobile">
+            {(areDetailsVisible || revealedPart === 2) ? definition.praeteritum : "?"}
+            {
+              (areDetailsVisible || revealedPart === 2)
               && definition.is_reflexive
               && <>&nbsp;<span className="badge rounded-pill is-sich">sich</span> </>
             }
           </div>
           <div className="cell is-table-cell-hidden-on-mobile">
             {
-              (areDetailsVisible || revealedPart === 2)
+              (areDetailsVisible || revealedPart === 3)
               && (
                 definition.hilfsverb === "haben" 
                 ? <span className="badge rounded-pill is-haben">hat</span> 
@@ -66,11 +83,11 @@ const VerbCard = ({definition, isDescriptionExpanded, isMarked, onMarkClick, sho
               )
             }
             {
-              (areDetailsVisible || revealedPart === 2)
+              (areDetailsVisible || revealedPart === 3)
               && definition.is_reflexive
-              && <>&nbsp;<span className="badge rounded-pill is-sich">sich &nbsp; </span></>
+              && <>&nbsp;<span className="badge rounded-pill is-sich">sich</span></>
             }
-            {(areDetailsVisible || revealedPart === 2) ? ` ${definition.perfekt}` : "?"}
+            {(areDetailsVisible || revealedPart === 3) ? ` ${definition.perfekt}` : "?"}
           </div>
         </div>
         <div className='Card-bottom'

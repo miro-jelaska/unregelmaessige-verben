@@ -3,6 +3,7 @@ import allVerbs from "../data/uregelmassige_verben.yml"
 import "../styles/index.scss"
 import VerbRow from "./VerbRow"
 import VerbCard from "./VerbCard";
+import { useKeyPress } from "../utils";
 
 function shuffle(array) {
   let currentIndex = array.length, randomIndex;
@@ -21,33 +22,7 @@ function shuffle(array) {
   return array;
 }
 
-const useKeyPress = function(targetKey) {
-  const [keyPressed, setKeyPressed] = useState(false);
 
-  useEffect(() => {
-    const downHandler = ({ key }) => {
-      if (key === targetKey) {
-        setKeyPressed(true);
-      }
-    }
-  
-    const upHandler = ({ key }) => {
-      if (key === targetKey) {
-        setKeyPressed(false);
-      }
-    };
-
-    window.addEventListener("keydown", downHandler);
-    window.addEventListener("keyup", upHandler);
-
-    return () => {
-      window.removeEventListener("keydown", downHandler);
-      window.removeEventListener("keyup", upHandler);
-    };
-  }, [targetKey]);
-
-  return keyPressed;
-};
 
 enum QuizState {
   ask = "ask",
@@ -67,7 +42,6 @@ const QuizMain = () => {
   const [quizStep, setQuizStep] = useState(QuizState.ask)
   const leftPress = useKeyPress("ArrowLeft");
   const rightPress = useKeyPress("ArrowRight");
-  const whitespacePress = useKeyPress(" ");
   const pageEndRef = useRef(null)
   const [toggledExplanationVerbs, setToggledExplanationVerbs] = useState([])
   const [markedVerbs, setMarkedVerbs] = useState([])
@@ -93,11 +67,7 @@ const QuizMain = () => {
     }
   }, [rightPress]);
 
-  useEffect(() => {
-    if (whitespacePress) {
-      toggleMark(allEntries[currentIndex].verb)
-    }
-  }, [whitespacePress]);
+
 
   const scrollToBottom = useCallback(
     () => {
