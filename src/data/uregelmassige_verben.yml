@@ -3447,8 +3447,8 @@
   post_example: sich mit dem Chef
   hilfsverb: haben
   is_reflexive: true
-  praesens: streitet sich
-  praeteritum: stritt sich
+  praesens: streitet
+  praeteritum: stritt
   perfekt: gestritten
   is_burried: false
   duden_url: https://www.duden.de/rechtschreibung/streiten

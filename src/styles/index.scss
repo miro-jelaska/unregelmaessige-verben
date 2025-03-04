@@ -337,4 +337,46 @@ $dark-border-color: rgb(26 26 26);
       gap: 1rem;
     }
   }
+  .progress-count {
+    text-align: center;
+    margin-bottom: .5rem;
+  }
+  .Card-bottom {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  .verb-card {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0 auto;
+
+    .cell__external {
+      flex-direction: row;
+      justify-content: flex-end;
+      width: 100%;
+      .dropdown {
+        display: flex; 
+        justify-content: flex-end; 
+      }
+    }
+    .quiz-card-container {
+      display: inline-block;
+      width: 450px;
+
+      .quiz-card {
+        background-color: gainsboro;
+        border-radius: 1rem;
+        padding: 1.5rem;
+      }
+    }
+  }
 }
+@include color-mode(dark) {
+  #page--quiz-main {
+    .quiz-card{
+      background-color: #333333;
+    }
+  }
+} 

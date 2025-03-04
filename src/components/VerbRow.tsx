@@ -58,11 +58,11 @@ const VerbRow = ({definition, isDescriptionExpanded, onToggle, areQuizSectionVis
     <div className={classNames('row', {"is-active": isDescriptionExpanded })}
       >
         <div className="row-top" >
-          {quizAnswerCellElement}
+          {/* {quizAnswerCellElement}
           <div className="cell cell__freq"
             onClick={_ => onToggle(definition.verb)}>
             {getFrequencyIcon(definition.duden_word_frequency)}
-          </div>
+          </div> */}
           <div className="cell"
             onClick={_ => onToggle(definition.verb)}>
             <span style={{fontWeight:600}}>

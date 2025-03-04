@@ -2,6 +2,7 @@ import { useCallback, useEffect, useRef, useState } from "preact/hooks"
 import allVerbs from "../data/uregelmassige_verben.yml"
 import "../styles/index.scss"
 import VerbRow from "./VerbRow"
+import VerbCard from "./VerbCard";
 
 function shuffle(array) {
   let currentIndex = array.length, randomIndex;
@@ -55,6 +56,7 @@ enum QuizState {
 
 const QuizMain = () => {
   const [currentIndex, setCurrentIndex] = useState(0)
+  const [currentView, setCurrentView] = useState("quiz")
   const [answers, setAnswers] = useState<{[Key: string]: boolean | null}>(
     allVerbs.reduce(
       (accumulated, current) => ({ ...accumulated, [current.id]: current.name }),
@@ -65,9 +67,10 @@ const QuizMain = () => {
   const [quizStep, setQuizStep] = useState(QuizState.ask)
   const leftPress = useKeyPress("ArrowLeft");
   const rightPress = useKeyPress("ArrowRight");
+  const whitespacePress = useKeyPress(" ");
   const pageEndRef = useRef(null)
   const [toggledExplanationVerbs, setToggledExplanationVerbs] = useState([])
-
+  const [markedVerbs, setMarkedVerbs] = useState([])
 
   useEffect(() => {
     setAllEntries(
@@ -77,24 +80,24 @@ const QuizMain = () => {
 
   useEffect(() => {
     if (leftPress) {
-      if(quizStep === QuizState.ask){
-        iDontKnow()
-      }
-      if(quizStep === QuizState.confirm){
-        iWasWrong()
-      }
+      setCurrentIndex(
+        Math.max(0, Math.min(currentIndex - 1, allVerbs.length - 1))
+      )
     }
   }, [leftPress]);
   useEffect(() => {
     if (rightPress) {
-      if(quizStep === QuizState.ask){
-        iThinkIKnow()
-      }
-      if(quizStep === QuizState.confirm){
-        iWasRight()
-      }
+      setCurrentIndex(
+        Math.max(0, Math.min(currentIndex + 1, allVerbs.length - 1))
+      )
     }
   }, [rightPress]);
+
+  useEffect(() => {
+    if (whitespacePress) {
+      toggleMark(allEntries[currentIndex].verb)
+    }
+  }, [whitespacePress]);
 
   const scrollToBottom = useCallback(
     () => {
@@ -113,22 +116,19 @@ const QuizMain = () => {
     },
     [toggledExplanationVerbs]
   )
-  
-  const iDontKnow = useCallback(
-    () => {
-      setAnswers(
-        {
-          ...answers,
-          [allEntries[currentIndex].verb]: false
-        }
-      )
-      setQuizStep(QuizState.ask)
-      setToggledExplanationVerbs([allEntries[currentIndex].verb])
-      setCurrentIndex(currentIndex + 1)
-      scrollToBottom()
-    }, 
-    [allEntries, answers, currentIndex]
+
+  const toggleMark = useCallback(
+    (verb) => {
+      if(markedVerbs.includes(verb)){
+        setMarkedVerbs(markedVerbs.filter(_ => _ != verb))
+      } else {
+        setMarkedVerbs([...markedVerbs, verb])
+      }
+    },
+    [markedVerbs, setMarkedVerbs]
   )
+  
+
   const iThinkIKnow = useCallback(
     () => {
       setQuizStep(QuizState.confirm)
@@ -137,7 +137,7 @@ const QuizMain = () => {
     }, 
     [allEntries, toggledExplanationVerbs, currentIndex]
   )
-  const iWasWrong = useCallback(
+  const showNextQuestion = useCallback(
     () => {
       setAnswers(
         {
@@ -152,7 +152,7 @@ const QuizMain = () => {
     }, 
     [allEntries, answers, currentIndex]
   )
-  const iWasRight = useCallback(
+  const markVerb = useCallback(
     () => {
       setAnswers(
         {
@@ -177,80 +177,94 @@ const QuizMain = () => {
 
   return (
     <main id="page--quiz-main">
-        <div className='table-wrapper'>
-          <div className="table">
-            <div className="table-head">
-              <div className="cell cell__validity"></div>
-              <div className="cell cell__freq">
-                Freq.
-              </div>
-              <div className="cell is-clickable">
-                Verb
-              </div>
-              <div className="cell is-table-cell-hidden-on-mobile">Präsens</div>
-              <div className="cell is-table-cell-hidden-on-mobile">Präteritum</div>
-              <div className="cell is-table-cell-hidden-on-mobile">Perfekt</div>
-              <div className="cell cell__vowel is-table-cell-hidden-on-mobile"></div>
-              <div className="cell cell__external">
-                <div style={{padding: 0}}>
+        {
+          currentView === 'quiz' &&
+          <div class="quiz-card-container">
+            <div style={{margin: '2rem'}}>
+              <div >
+                <div className="progress-wrapper">
+                  <div className="progress-count my-2">
+                    {currentIndex} / {allEntries.length}
+                  </div>
                 </div>
               </div>
-            </div>
-            <div className="table-body">
+
               {
-                 allEntries.slice(0, currentIndex + 1)
-                  .map((definition, index) => {
-                    const areQuizSectionVisible = index !== currentIndex || quizStep === "confirm";
+                allEntries.slice(currentIndex, currentIndex + 1)
+                .map((definition, index) => {
                     return(
-                      <VerbRow 
+                      <VerbCard 
                         key={`${definition.verb} ${definition.hilfsverb}`}
                         definition={definition} 
                         onToggle={toggleRowFn} 
                         isDescriptionExpanded={toggledExplanationVerbs.includes(definition.verb)}
-                        areQuizSectionVisible={areQuizSectionVisible}
-                        hasQuizAnswerCell={true}
-                        isAnsweredCorrectly={answers[definition.verb]}
+                        isMarked={markedVerbs.includes(definition.verb)}
+                        onMarkClick={toggleMark}
+                        showBookmarked={() => setCurrentView('bookmark')}
+                        goToPreviousCard={() => setCurrentIndex(Math.max(0, Math.min(currentIndex - 1, allVerbs.length - 1)))}
+                        goToNextCard={() => setCurrentIndex(Math.max(0, Math.min(currentIndex + 1, allVerbs.length - 1)))}
                       />
                     )
                   })
               }
+              <div>
+              </div>
             </div>
           </div>
-        </div>
-        <div className="container quiz-controls-container">
-          {
-            currentIndex < allEntries.length &&
-            <>
-              <div className="buttons-container my-5">
-                {
-                  quizStep == "ask" &&
-                  <div style={{display: "flex", flexDirection: "row", justifyContent: "center"}}>
-                    <button type="button" className="btn btn-danger m-2" onClick={() => iDontKnow()}>Don&#39;t know</button>
-                    <button type="button" className="btn btn-dark m-2" onClick={() => iThinkIKnow()}>I think I know</button>
+        }
+        {
+          currentView === 'bookmark' &&
+          <div class="quiz-bookmark-container">
+            <div className='table-wrapper'>
+              <div className="table">
+                <div className="table-head">
+                  <div className="cell cell__validity"></div>
+                  <div className="cell cell__freq">
+                    Freq.
                   </div>
-                }
-                {
-                  quizStep == "confirm" &&
-                  <div style={{display: "flex", flexDirection: "row", justifyContent: "center"}}>
-                    <button type="button" className="btn btn-danger m-2" onClick={() => iWasWrong()}>I was wrong</button>
-                    <button type="button" className="btn btn-success m-2" onClick={() => iWasRight()}>I was right</button>
+                  <div className="cell is-clickable">
+                    Verb
                   </div>
-                }
-              </div>
-              <div>
-                <div className="progress-wrapper">
-                  <div className="progress my-2 " role="progressbar">
-                    <div className="progress-bar" style={{width: `${currentIndex / allEntries.length * 100}%`}}>
-                      {(currentIndex / allEntries.length * 100).toFixed(0)}%
+                  <div className="cell is-table-cell-hidden-on-mobile">Präsens</div>
+                  <div className="cell is-table-cell-hidden-on-mobile">Präteritum</div>
+                  <div className="cell is-table-cell-hidden-on-mobile">Perfekt</div>
+                  <div className="cell cell__vowel is-table-cell-hidden-on-mobile"></div>
+                  <div className="cell cell__external">
+                    <div style={{padding: 0}}>
                     </div>
                   </div>
                 </div>
+                <div className="table-body">
+                  {
+                    allVerbs
+                      .filter(x => markedVerbs.includes(x.verb))
+                      .map((definition, index) => {
+                        return(
+                          <VerbRow 
+                            key={`${definition.verb} ${definition.hilfsverb}`}
+                            definition={definition} 
+                            onToggle={toggleRowFn} 
+                            isDescriptionExpanded={toggledExplanationVerbs.includes(definition.verb)}
+                            areQuizSectionVisible={true}
+                            hasQuizAnswerCell={false}
+                            isAnsweredCorrectly={true}
+                          />
+                        )
+                      })
+                  }
+                </div>
               </div>
-            </>
-          }
+            </div>
+          </div>
+        }
+        <div className="container quiz-controls-container">
           {
-            currentIndex >= allEntries.length &&
-            <div className="my-5 text-center">Done!</div>
+            currentView === 'bookmark' && 
+            <div style={{display: "flex", flexDirection: "row", justifyContent: "space-around", marginTop: "2rem"}}> 
+              <button class="btn btn-primary" onClick={() => setCurrentView('quiz')}>
+                Continue Quiz
+              </button>
+            </div>
           }
         </div>
         <div ref={pageEndRef} />
