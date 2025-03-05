@@ -2,7 +2,7 @@ import classNames from "classnames"
 import { useMemo, useState, useCallback, useEffect } from "preact/hooks"
 import type { VerbDetails } from "../data/domain"
 import VerbCardLinksDropdown from "./VerbRowLinksDropdown"
-import { useSpacebarKeyPress } from "../utils"
+import { useKeyPress, useSpacebarKeyPress } from "../utils"
 
 
 export type VerbCardProps = {
@@ -23,6 +23,7 @@ const VerbCard = ({definition, isDescriptionExpanded, isMarked, onMarkClick, sho
   const [areExamplesVisible, setAreExamplesVisible] = useState(false); 
   const [revealedPart, setRevealedPart] = useState(-1);
   const spacebarPress = useSpacebarKeyPress();
+  const fourPress = useKeyPress("4");
   
   const revealAnswer = useCallback(
     () =>{ 
@@ -32,7 +33,6 @@ const VerbCard = ({definition, isDescriptionExpanded, isMarked, onMarkClick, sho
   )
   useEffect(()=>{
     const val = Math.floor(Math.random()*4);
-    console.log(val)
     setRevealedPart(val) 
   },[setRevealedPart])
 
@@ -41,10 +41,10 @@ const VerbCard = ({definition, isDescriptionExpanded, isMarked, onMarkClick, sho
   }, [setAreExamplesVisible, areExamplesVisible])
 
   useEffect(() => {
-    if (spacebarPress) {
+    if (spacebarPress || fourPress) {
       revealAnswer()
     }
-  }, [spacebarPress]);
+  }, [spacebarPress, fourPress]);
 
   return (
     <div className={classNames('Card', 'verb-card', {"is-active": isDescriptionExpanded })}>

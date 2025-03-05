@@ -41,7 +41,10 @@ const QuizMain = () => {
   const [allEntries, setAllEntries] = useState([])
   const [quizStep, setQuizStep] = useState(QuizState.ask)
   const leftPress = useKeyPress("ArrowLeft");
+  const onePress = useKeyPress("1");
+  const twoPress = useKeyPress("2");
   const rightPress = useKeyPress("ArrowRight");
+  const threePress = useKeyPress("3");
   const pageEndRef = useRef(null)
   const [toggledExplanationVerbs, setToggledExplanationVerbs] = useState([])
   const [markedVerbs, setMarkedVerbs] = useState([])
@@ -53,20 +56,24 @@ const QuizMain = () => {
   }, [])
 
   useEffect(() => {
-    if (leftPress) {
+    if (leftPress || twoPress) {
       setCurrentIndex(
         Math.max(0, Math.min(currentIndex - 1, allVerbs.length - 1))
       )
     }
-  }, [leftPress]);
+  }, [leftPress, twoPress]);
   useEffect(() => {
-    if (rightPress) {
+    if (rightPress || threePress) {
       setCurrentIndex(
         Math.max(0, Math.min(currentIndex + 1, allVerbs.length - 1))
       )
     }
-  }, [rightPress]);
-
+  }, [rightPress, threePress]);
+  useEffect(() => {
+    if (onePress) {
+      toggleMark(allEntries[currentIndex].verb)
+    }
+  }, [onePress]);
 
 
   const scrollToBottom = useCallback(
@@ -171,8 +178,8 @@ const QuizMain = () => {
                         isMarked={markedVerbs.includes(definition.verb)}
                         onMarkClick={toggleMark}
                         showBookmarked={() => setCurrentView('bookmark')}
-                        goToPreviousCard={() => setCurrentIndex(Math.max(0, Math.min(currentIndex - 1, allVerbs.length - 1)))}
-                        goToNextCard={() => setCurrentIndex(Math.max(0, Math.min(currentIndex + 1, allVerbs.length - 1)))}
+                        goToPreviousCard={() => setCurrentIndex(Math.max(0, Math.min(currentIndex - 1, allEntries.length - 1)))}
+                        goToNextCard={() => setCurrentIndex(Math.max(0, Math.min(currentIndex + 1, allEntries.length - 1)))}
                       />
                     )
                   })
