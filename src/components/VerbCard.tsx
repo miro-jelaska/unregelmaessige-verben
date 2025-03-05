@@ -22,7 +22,7 @@ const VerbCard = ({definition, isDescriptionExpanded, isMarked, onMarkClick, sho
   const [areDetailsVisible, setAreDetailsVisible] = useState(false); 
   const [areExamplesVisible, setAreExamplesVisible] = useState(false); 
   const [revealedPart, setRevealedPart] = useState(-1);
-  const spacebarPress = useSpacebarKeyPress();
+
   const fourPress = useKeyPress("4");
   
   const revealAnswer = useCallback(
@@ -41,10 +41,10 @@ const VerbCard = ({definition, isDescriptionExpanded, isMarked, onMarkClick, sho
   }, [setAreExamplesVisible, areExamplesVisible])
 
   useEffect(() => {
-    if (spacebarPress || fourPress) {
+    if (fourPress) {
       revealAnswer()
     }
-  }, [spacebarPress, fourPress]);
+  }, [fourPress]);
 
   return (
     <div className={classNames('Card', 'verb-card', {"is-active": isDescriptionExpanded })}>

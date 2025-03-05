@@ -3,7 +3,7 @@ import allVerbs from "../data/uregelmassige_verben.yml"
 import "../styles/index.scss"
 import VerbRow from "./VerbRow"
 import VerbCard from "./VerbCard";
-import { useKeyPress } from "../utils";
+import { useKeyPress, useSpacebarKeyPress } from "../utils";
 
 function shuffle(array) {
   let currentIndex = array.length, randomIndex;
@@ -48,6 +48,18 @@ const QuizMain = () => {
   const pageEndRef = useRef(null)
   const [toggledExplanationVerbs, setToggledExplanationVerbs] = useState([])
   const [markedVerbs, setMarkedVerbs] = useState([])
+  const spacebarPress = useSpacebarKeyPress();
+
+  useEffect(() => {
+    if (spacebarPress) {
+      if(currentView === 'quiz'){
+        setCurrentView("bookmark")
+      }
+      else {
+        setCurrentView("quiz")
+      }
+    }
+  }, [spacebarPress]);
 
   useEffect(() => {
     setAllEntries(
