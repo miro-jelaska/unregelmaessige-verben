@@ -270,7 +270,7 @@ $dark-border-color: rgb(26 26 26);
 }
 
 .rounded-pill {
-  margin-top: .2rem;
+  padding: .18rem .3rem;
   color: black;
   height: fit-content;
   &.is-haben{
@@ -297,7 +297,7 @@ $dark-border-color: rgb(26 26 26);
     }
     &.is-sich {
       color: white;
-      border: 1px solid #e5e5e5;
+      border: 1px solid #525252;
       background-color: #323232;
     }
   }
@@ -340,6 +340,11 @@ $dark-border-color: rgb(26 26 26);
   .progress-count {
     text-align: center;
     margin-bottom: .5rem;
+  }
+  .Card-top {
+    .cell {
+      margin: 0.1rem 0 ;
+    }
   }
   .Card-bottom {
     margin-top: 1rem;
