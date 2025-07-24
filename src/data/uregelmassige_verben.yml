@@ -211,7 +211,7 @@
       author: linguee
 - pre_example: ''
   verb: bitten
-  post_example: gemanden um Hilfe
+  post_example: jemanden um Hilfe
   hilfsverb: haben
   is_reflexive: false
   praesens: bittet
@@ -464,7 +464,7 @@
       en: He insists that we act immediately.
       author: chatgpt
     - de: Wasser <em>drang</em> durch das Dach ins Haus.
-      en: They ventured deep into the forest.
+      en: Water penetrated through the roof into the house. 
       author: chatgpt
     - de: Das Geräusch <em>ist</em> bis in mein Zimmer <em>gedrungen</em>.
       en: he noise has reached my room.
@@ -503,7 +503,7 @@
       en: I am allowed to stay up longer tonight.
       author: chatgpt
     - de: Er <em>durfte</em> während der Prüfung nicht sprechen.
-      en: e was not allowed to speak during the exam.
+      en: He was not allowed to speak during the exam.
       author: chatgpt
     - de: Ich <em>habe</em> immer <em>dürfen</em>, meine Meinung zu äußern.
       en: I have always been allowed to express my opinion.
@@ -569,10 +569,10 @@
   vowel_change_to: i
   vowel_change_note: 
   examples:
-    - de: Warum <em>hast</em> du <em>mich</em> so <em>erschroken</em>?
+    - de: Warum <em>hast</em> du <em>mich</em> so <em>erschrocken</em>?
       en: Why did you scare me so much?
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Nicht alle Schüler <em>sind</em> vor dem neuen Lehrer <em>eschrocken</em>.
+    - de: Nicht alle Schüler <em>sind</em> vor dem neuen Lehrer <em>erschrocken</em>.
       en: Not all pupils are scared of the new teacher.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
@@ -912,7 +912,7 @@
   is_burried: true
   duden_url: https://www.duden.de/rechtschreibung/gaeren
   duden_word_frequency: 2
-  example:
+  examples:
     - de: Der Most <em>gärt</em> im Fass.
       en: The must is fermenting in the barrel.
       author: chatgpt
@@ -1163,7 +1163,7 @@
       en: He has gained valuable experience by participating in the project.
       author: chatgpt
 - pre_example: ''
-  verb: giessen
+  verb: gießen
   post_example: die Blumen
   hilfsverb: haben
   is_reflexive: false
@@ -1205,7 +1205,7 @@
     - de: Das Wetter <em>glich</em> dem des letzten Jahres.
       en: The weather resembled that of last year.
       author: chatgpt
-    - de: Ihr neues Buch <em>hat</em> einen Stil, der dem letzten <em>gegllichen</em> ist.
+    - de: Ihr neues Buch <em>hat</em> einen Stil, der dem letzten <em>geglichen</em> ist.
       en: Her new book has a style that resembles the last one.
       author: chatgpt
     - de: Die zwei Bewerber <em>gleichen sich</em> in ihren Qualifikationen.
@@ -1488,7 +1488,7 @@
     - de: Sie <em>kannte</em> ihn schon seit ihrer Kindheit.
       en: She had known him since her childhood.
       author: chatgpt
-    - de: Er <em>hat</em> die neuesten Trends in der Mode <em>gekannt</em>.
+    - de: Er <em>hat</em> die neuesten Trends in der Mode <em>gekannt</em>. (Präteritum is prefered.)
       en: He has known the latest trends in fashion.
       author: chatgpt
     - de: Die Mitarbeiter müssen die Sicherheitsregeln <em>kennen</em>.
@@ -1548,7 +1548,7 @@
   duden_url: https://www.duden.de/rechtschreibung/kneifen
   duden_word_frequency: 2
   examples:
-    - de: Ich war nicht sicher, ob ich träumte, also musste ich <me>mich kneifen</em>.
+    - de: Ich war nicht sicher, ob ich träumte, also musste ich <em>mich kneifen</em>.
       en: I wasn't sure if I was dreaming so I had to pinch myself.
       author: linguee
     - de: Er <em>kneift</em> die Augen zusammen, um besser zu sehen.
@@ -1573,10 +1573,10 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-    - de: Endlich wird es wärmer. Ich glaube, der Sommer <em>ist</em endlich <em>gekommen</em>.
+    - de: Endlich wird es wärmer. Ich glaube, der Sommer <em>ist</em> endlich <em>gekommen</em>.
       en: It's finally getting warmer. I think summer has finally arrived.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-    - de: Um wie viel Urh <em>ist</em> der Bus gestern eigentlich <em>angekommen</em>?
+    - de: Um wie viel Uhr <em>ist</em> der Bus gestern eigentlich <em>angekommen</em>?
       en: What time did the bus actually arrive yesterday?
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
     - de: Wir <em>sind</em> vom Weg <em>abgekommen</em> und haben uns im Wald verlaufen.
@@ -1677,8 +1677,8 @@
     - de: Sie <em>ließ</em> das Fenster offen, um frische Luft hereinzulassen.
       en: She left the window open to let in fresh air.
       author: chatgpt
-    - de: Er <em>hat</em> die Entscheidung nicht leicht <em>lassen</em>.
-      en: He has not made the decision lightly.
+    - de: Sie <em>hat</em> das Fenster die ganze Nacht offen <em>gelassen</em>. 
+      en: She left the window open all night.
       author: chatgpt
 - pre_example: ''
   verb: laufen
@@ -1723,7 +1723,7 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-    - de: Er <em>leidet</em> unter starkem Rücken- und Nackenschmerzen.
+    - de: Er <em>leidet</em> unter starken Rücken- und Nackenschmerzen.
       en: He suffers from severe back and neck pain.
       author: chatgpt
     - de: Sie <em>litt</em> während der gesamten Prüfungszeit unter Stress.
@@ -1948,7 +1948,7 @@
   vowel_change_to: a
   vowel_change_note: alle Singularformen
   examples:
-  - de: Er <em>mögt</em> Schokolade über alles und kann nie genug davon bekommen.
+  - de: Er <em>mag</em> Schokolade über alles und kann nie genug davon bekommen.
     en: He loves chocolate above all and can never get enough of it.
     author: chatgpt
   - de: Sie <em>mochte</em> es schon immer, im Freien zu lesen.
@@ -2018,7 +2018,7 @@
   duden_word_frequency: 4
   examples:
   - de: Er <em>nennt</em> seinen Hund Max, weil es ein kurzer und einfacher Name ist.
-    en: He names his dog Max because it's a short and simple name.
+    en: He calls his dog Max because it's a short and simple name.
     author: chatgpt
   - de: Sie <em>nannte</em> ihr neues Buch „Die Geheimnisse des Waldes“.
     en: She named her new book "The Secrets of the Forest."
@@ -2149,7 +2149,7 @@
   duden_url: https://www.duden.de/rechtschreibung/reiszen
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
-  example:
+  examples:
   - de: Er <em>reißt</em> das Papier in zwei Hälften, um es einfacher zu entsorgen.
     en: He tears the paper in half to make it easier to dispose of.
     author: chatgpt
@@ -2620,7 +2620,7 @@
   - de: Er <em>schleift</em> das Messer, um es schärfer zu machen.
     en: He sharpens the knife to make it sharper.
     author: chatgpt
-  - de: Sie <em>schlief</em> die Kante des Papiers, um sie glatt zu machen.
+  - de: Sie <em>schliff</em> die Kante des Papiers, um sie glatt zu machen.
     en: She smoothed the edge of the paper to make it flat.
     author: chatgpt
   - de: Er <em>hat</em> das Holz <em>geschliffen</em>, um die Oberfläche zu verfeinern.
@@ -2951,8 +2951,8 @@
   - de: Er <em> sieht</em> den Sonnenuntergang jeden Abend von seinem Balkon.
     en: He sees the sunset every evening from his balcony.
     author: chatgpt
-  - de: Sie <em>saß</em> still da und <em>saß</em> in Gedanken, während sie die Wolken beobachtete.
-    en: She sat quietly, lost in thought as she watched the clouds.
+  - de: Er <em>sah</em> seinem Schicksal ruhig entgegen.
+    en: He met his fate calmly.
     author: chatgpt
   - de: Er <em>hat</em> das Konzert letzte Woche <em>gesehen</em> und war begeistert.
     en: He saw the concert last week and was thrilled.
@@ -3068,16 +3068,16 @@
   hilfsverb: haben
   is_reflexive: false
   praesens: sitzt
-  praeteritum: sass
+  praeteritum: saß
   perfekt: gesessen
   is_burried: false
   duden_url: https://www.duden.de/rechtschreibung/sitzen
   duden_word_frequency: 4
   examples:
-  - de: Er <em>sitz</em> gerne am Fenster und schaut den vorbeigehenden Menschen zu.
+  - de: Er <em>sitzt</em> gerne am Fenster und schaut den vorbeigehenden Menschen zu.
     en: He likes to sit by the window and watch the people passing by.
     author: chatgpt
-  - de: Sie <em>sah</em> still auf der Bank im Park und genoss die Ruhe.
+  - de: Sie <em>saß</em> still auf der Bank im Park und genoss die Ruhe.
     en: She sat quietly on the bench in the park and enjoyed the peace.
     author: chatgpt
   - de: Er <em>hat</em> während des Meetings <em>gesessen</em> und aufmerksam zugehört.
@@ -3756,7 +3756,7 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5 
   examples:
-  - de: Er <em>verschwinden</em> oft, wenn es Zeit zum Aufräumen ist.
+  - de: Er <em>verschwindet</em> oft, wenn es Zeit zum Aufräumen ist.
     en: He often disappears when it's time to clean up.
     author: chatgpt
   - de: Sie <em>verschwand</em> ohne ein Wort, was alle in Aufregung versetzte.
