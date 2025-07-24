@@ -661,7 +661,7 @@
   vowel_change_from: a
   vowel_change_to: ä
   vowel_change_note: 
-    examples:
+  examples:
     - de: Auf dem Nürburgring <em>habe</em> ich das neueste Mercedesmodell <em>gefahren</em>.
       en: I drove the latest Mercedes model at the Nürburgring.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
@@ -4023,16 +4023,16 @@
   vowel_change_note: alle Singularformen
   examples:
   - de: Ich <em>will</em> das Buch heute zu Ende lesen. 
-    em: I want to finish reading the book today.
+    en: I want to finish reading the book today.
     author: linguee
   - de: Das Kind <em>wollte</em> ein Eis.
-    em: The child wanted an ice cream.
+    en: The child wanted an ice cream.
     author: linguee
   - de: Jeder <em>will</em> glücklich sein.
-    em: Everybody wants to be happy.
+    en: Everybody wants to be happy.
     author: linguee
   - de: Meine Tochter <em>will</em> Ärztin werden.
-    em: My daughter wants to become a doctor.
+    en: My daughter wants to become a doctor.
     author: linguee
 - pre_example: ''
   verb: wringen
