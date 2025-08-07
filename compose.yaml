@@ -1,0 +1,15 @@
+services:
+  yaml_linter:
+    image: yaml_linter
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - type: bind
+        source: ./src/data
+        target: /data
+    working_dir: /data
+    command: yamllint unregelmaessige_verben.yml
+    restart: "no"
+    stdin_open: true
+    tty: true

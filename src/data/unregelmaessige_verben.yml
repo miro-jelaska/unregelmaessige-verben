@@ -3913,7 +3913,7 @@
   is_reflexive: false
   praesens: wird
   praeteritum: ward/wurde
-  perfekt: worden
+  perfekt: (ge)worden
   is_buried: false
   duden_url: https://www.duden.de/rechtschreibung/werden_Hilfsverb
   duden_word_frequency: 5
@@ -3921,6 +3921,12 @@
   vowel_change_to: i
   vowel_change_note:
   examples:
+    - de: Das Auto ist repariert worden.
+      en: The car has been repaired.
+      author: chatgpt
+    - de: Das Auto ist alt geworden.
+      en: The car has become old.
+      author: chatgpt
     - de: Am Samstag <em>ist</em> Ilona volljährig <em>geworden</em>. Jetzt ist sie endlich 18 Jahre alt.
       en: Ilona came of age on Saturday. Now she is finally 18 years old.
       author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
