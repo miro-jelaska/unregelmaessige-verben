@@ -1,6 +1,6 @@
 
 import { useCallback, useState, useMemo } from "preact/hooks"
-import allVerbs from "../data/uregelmassige_verben.yml"
+import allVerbs from "../data/unregelmaessige_verben.yml"
 import VerbRow from "./VerbRow"
 
 
@@ -21,7 +21,7 @@ const IndexPage = () => {
     (verb) => {
       if(toggledExplanationVerbs.includes(verb)){
         setToggledExplanationVerbs(toggledExplanationVerbs.filter(_ => _ != verb))
-      } else {
+      } else {  
         setToggledExplanationVerbs([...toggledExplanationVerbs, verb])
       }
     },

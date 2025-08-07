@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useRef, useState } from "preact/hooks"
-import allVerbs from "../data/uregelmassige_verben.yml"
+import allVerbs from "../data/unregelmaessige_verben.yml"
 import "../styles/index.scss"
 import VerbRow from "./VerbRow"
 import VerbCard from "./VerbCard";
