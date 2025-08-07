@@ -29,7 +29,7 @@
   vowel_change_from: e
   vowel_change_to: ie
   examples:
-    - de: Der Feldwebel <em>befahl</em> der Truppe, zu marschieren. 
+    - de: Der Feldwebel <em>befahl</em> der Truppe, zu marschieren.
       en: The sergeant commanded the troop to march.
       author: linguee
 - pre_example: ''
@@ -45,15 +45,15 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-  - de: Wir <em>beginnen</em> morgen mit dem neuen Projekt.
-    en: We will begin with the new project tomorrow.
-    author: chatgpt
-  - de: Das Konzert <em>begann</em> mit einem wunderschönen Klavierstück.
-    en: The concert began with a beautiful piano piece.
-    author: chatgpt
-  - de: Die Wehen <em>haben begonnen</em>, bald kommt das Baby.
-    en: The contractions have set in, the baby will arrive soon.
-    author: chatgpt
+    - de: Wir <em>beginnen</em> morgen mit dem neuen Projekt.
+      en: We will begin with the new project tomorrow.
+      author: chatgpt
+    - de: Das Konzert <em>begann</em> mit einem wunderschönen Klavierstück.
+      en: The concert began with a beautiful piano piece.
+      author: chatgpt
+    - de: Die Wehen <em>haben begonnen</em>, bald kommt das Baby.
+      en: The contractions have set in, the baby will arrive soon.
+      author: chatgpt
 - pre_example: der Hund
   verb: beißen
   post_example: ''
@@ -66,12 +66,12 @@
   duden_url: https://www.duden.de/rechtschreibung/beiszen
   duden_word_frequency: 3
   examples:
-  - de: Du kannst den Hund streicheln; er wird dich nicht <em>beißen</em>.
-    en: You can pet the dog; it will not bite you.
-    author: linguee
-  - de: Ich <em>biss</em> in einen sauren Apfel und verzog das Gesicht.
-    en: I bit into a sour apple and grimaced.
-    author: chatgpt
+    - de: Du kannst den Hund streicheln; er wird dich nicht <em>beißen</em>.
+      en: You can pet the dog; it will not bite you.
+      author: linguee
+    - de: Ich <em>biss</em> in einen sauren Apfel und verzog das Gesicht.
+      en: I bit into a sour apple and grimaced.
+      author: chatgpt
 - pre_example: ''
   verb: bergen
   post_example: ein gesunkenes Schiff
@@ -170,7 +170,7 @@
   duden_url: https://www.duden.de/rechtschreibung/biegen
   duden_word_frequency: 2
   examples:
-    - de: Wenn ich einen Stock zu stark <em>biege</em>, bricht er. 
+    - de: Wenn ich einen Stock zu stark <em>biege</em>, bricht er.
       en: If I bend a stick too much, it will break.
       author: linguee
     - de: An der Kreuzung ist das Fahrzeug in die Schillerstraße <em>abgebogen</em>.
@@ -245,11 +245,11 @@
   vowel_change_from: a
   vowel_change_to: ä
   examples:
-    - de: Heute <em>bläst</em> der Wind sehr stark. 
+    - de: Heute <em>bläst</em> der Wind sehr stark.
       en: Today, the wind is blowing very strongly.
       author: linguee
-    - de: Der Sturm <em>blies</em> alle Blätter vom Baum. 
-      en: The storm blew all the leaves off the tree. 
+    - de: Der Sturm <em>blies</em> alle Blätter vom Baum.
+      en: The storm blew all the leaves off the tree.
       author: linguee
     - de: Sie <em>hat</em> die Kerzen auf der Torte <em>geblasen</em>.
       en: She has blown out the candles on the cake.
@@ -464,7 +464,7 @@
       en: He insists that we act immediately.
       author: chatgpt
     - de: Wasser <em>drang</em> durch das Dach ins Haus.
-      en: Water penetrated through the roof into the house. 
+      en: Water penetrated through the roof into the house.
       author: chatgpt
     - de: Das Geräusch <em>ist</em> bis in mein Zimmer <em>gedrungen</em>.
       en: he noise has reached my room.
@@ -486,7 +486,7 @@
       author: chatgpt
 - pre_example: ''
   verb: dürfen
-  post_example: 
+  post_example:
   hilfsverb: haben
   is_reflexive: false
   praesens: darf
@@ -521,7 +521,7 @@
   duden_word_frequency: 3
   vowel_change_from: e
   vowel_change_to: is
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Ich <em>empfehle</em> dir, dieses Buch zu lesen.
       en: I recommend that you read this book.
@@ -567,7 +567,7 @@
   duden_word_frequency: 3
   vowel_change_from: e
   vowel_change_to: i
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Warum <em>hast</em> du <em>mich</em> so <em>erschrocken</em>?
       en: Why did you scare me so much?
@@ -610,7 +610,7 @@
   duden_word_frequency: 5
   vowel_change_from: e
   vowel_change_to: i
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Er <em>isst</em> jeden Tag Gemüse.
       en: He eats vegetables every day.
@@ -635,7 +635,7 @@
   duden_word_frequency: 5
   vowel_change_from: a
   vowel_change_to: ä
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Am Sonntag <em>sind</em> wir mit unseren Freunden in den Schwarzwald <em>gefahren</em>.
       en: On Sunday, we went to the Black Forest with our friends.
@@ -660,7 +660,7 @@
   duden_word_frequency: 5
   vowel_change_from: a
   vowel_change_to: ä
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Auf dem Nürburgring <em>habe</em> ich das neueste Mercedesmodell <em>gefahren</em>.
       en: I drove the latest Mercedes model at the Nürburgring.
@@ -716,7 +716,7 @@
   duden_word_frequency: 5
   vowel_change_from: a
   vowel_change_to: ä
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Es ist verboten, im Naturschutzgebiet Schmetterlinge zu <em>fangen</em>.
       en: It is forbidden to capture butterflies in the nature reserve.
@@ -790,7 +790,7 @@
       en: He flies to Italy every summer.
       author: chatgpt
     - de: Der Vogel <em>flog</em> zurück zu seinem Nest.
-      en: The bird flew back to its nest. 
+      en: The bird flew back to its nest.
       author: linguee
     - de: Der junge Pilot <em>ist</em> das erste Mal einen Airbus <em>geflogen</em>.
       en: The young pilot flew an Airbus for the first time.
@@ -866,7 +866,7 @@
   duden_word_frequency: 5
   vowel_change_from: e
   vowel_change_to: i
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Der Hund <em>frisst</em> sein Futter schnell.
       en: The dog eats its food quickly.
@@ -935,7 +935,7 @@
   duden_word_frequency: 3
   vowel_change_from: ä
   vowel_change_to: ie
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Die Frau <em>gebärt</em> ein Kind.
       en: The woman is giving birth to a child.
@@ -959,13 +959,13 @@
   duden_word_frequency: 5
   vowel_change_from: e
   vowel_change_to: i
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Er <em>gibt</em> ihr ein Geschenk.
       en: He gives her a gift.
       author: chatgpt
-    - de: Er <em>gab</em> der Schaukel einen festen Schubs. 
-      en: He gave the swing a hard push. 
+    - de: Er <em>gab</em> der Schaukel einen festen Schubs.
+      en: He gave the swing a hard push.
       author: linguee
     - de: Die Natur <em>hat</em> den Menschen die Vernunft <em>gegeben</em>.
       en: Nature has endowed human beings with reason.
@@ -983,9 +983,9 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-  - de: Diese Pflanze <em>gedeiht</em> im feuchtheißen Klima.
-    en: This plant thrives in hot and humid climates.
-    author: linguee
+    - de: Diese Pflanze <em>gedeiht</em> im feuchtheißen Klima.
+      en: This plant thrives in hot and humid climates.
+      author: linguee
 - pre_example: ''
   verb: gehen
   post_example: ''
@@ -1039,7 +1039,7 @@
   duden_word_frequency: 4
   vowel_change_from: e
   vowel_change_to: i
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Die Regeln gelten für alle gleich.
       en: The rules apply equally to all.
@@ -1081,7 +1081,7 @@
   perfekt: genossen
   is_buried: false
   duden_url: https://www.duden.de/rechtschreibung/genieszen
-  duden_word_frequency: 
+  duden_word_frequency:
   examples:
     - de: Er <em>genießt</em> den Sonnenuntergang am Strand.
       en: He enjoys the sunset at the beach.
@@ -1127,7 +1127,7 @@
   duden_word_frequency: 5
   vowel_change_from: e
   vowel_change_to: ie
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Ich werde warten und sehen, was <em>geschieht</em>.
       en: I will wait and see what happens.
@@ -1267,7 +1267,7 @@
   duden_word_frequency: 5
   vowel_change_from: a
   vowel_change_to: ä
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Er <em>gräbt</em> ein Loch im Garten für die neuen Pflanzen.
       en: He is digging a hole in the garden for the new plants.
@@ -1293,8 +1293,8 @@
     - de: Sie <em>greift</em> nach ihrem Handy, um die Nachricht zu lesen.
       en: She reaches for her phone to read the message.
       author: chatgpt
-    - de: Ich <em>griff</em> das Seil und zog mich hoch. 
-      en: I grabbed the rope and pulled myself up. 
+    - de: Ich <em>griff</em> das Seil und zog mich hoch.
+      en: I grabbed the rope and pulled myself up.
       author: linguee
     - de: Er <em>hat</em> die Chance <em>gegriffen</em>, um seine Träume zu verwirklichen.
       en: He has seized the opportunity to realize his dreams.
@@ -1335,7 +1335,7 @@
   duden_word_frequency: 4
   vowel_change_from: a
   vowel_change_to: ä
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Sie <em>hält</em> den Rekord im Langstreckenlauf.
       en: She holds the record in long-distance running.
@@ -1456,7 +1456,7 @@
   duden_word_frequency: 4
   vowel_change_from: e
   vowel_change_to: i
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Er wird dir sicherlich <em>helfen</em>.
       en: He will certainly help you.
@@ -1642,7 +1642,7 @@
   duden_word_frequency: 5
   vowel_change_from: a
   vowel_change_to: ä
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Er <em>lädt</em> die Kisten sorgfältig in den Transporter.
       en: He loads the boxes carefully into the van.
@@ -1669,15 +1669,15 @@
   duden_word_frequency: 5
   vowel_change_from: a
   vowel_change_to: ä
-  vowel_change_note: 
+  vowel_change_note:
   examples:
-    - de: Er <em>lässt</em> seine Kinder viel draußen spielen. 
-      en: He lets his children play outside a lot. 
+    - de: Er <em>lässt</em> seine Kinder viel draußen spielen.
+      en: He lets his children play outside a lot.
       author: linguee
     - de: Sie <em>ließ</em> das Fenster offen, um frische Luft hereinzulassen.
       en: She left the window open to let in fresh air.
       author: chatgpt
-    - de: Sie <em>hat</em> das Fenster die ganze Nacht offen <em>gelassen</em>. 
+    - de: Sie <em>hat</em> das Fenster die ganze Nacht offen <em>gelassen</em>.
       en: She left the window open all night.
       author: chatgpt
 - pre_example: ''
@@ -1693,7 +1693,7 @@
   duden_word_frequency: 4
   vowel_change_from: a
   vowel_change_to: ä
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Schon wieder <em>ist</em> das Mädchen auf die Straße <em>gelaufen</em>.
       en: The girl has run into the street again.
@@ -1766,7 +1766,7 @@
   duden_word_frequency: 4
   vowel_change_from: e
   vowel_change_to: ie
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Er <em>liest</em> jeden Abend vor dem Schlafengehen ein Buch.
       en: He reads a book every evening before going to bed.
@@ -1875,15 +1875,15 @@
   duden_url: https://www.duden.de/rechtschreibung/melken
   duden_word_frequency: 2
   examples:
-  - de: Er <em>melkt</em> die Kühe jeden Morgen früh.
-    en: He milks the cows every morning early.
-    author: chatgpt
-  - de: Sie <em>molk</em> die Ziegen, um frische Milch für den Käse zu bekommen.
-    en: She milked the goats to get fresh milk for the cheese.
-    author: chatgpt
-  - de: Er <em>hat</em> in seiner Kindheit oft die Kühe <em>gemolken</em>.
-    en: He often milked the cows in his childhood.
-    author: chatgpt
+    - de: Er <em>melkt</em> die Kühe jeden Morgen früh.
+      en: He milks the cows every morning early.
+      author: chatgpt
+    - de: Sie <em>molk</em> die Ziegen, um frische Milch für den Käse zu bekommen.
+      en: She milked the goats to get fresh milk for the cheese.
+      author: chatgpt
+    - de: Er <em>hat</em> in seiner Kindheit oft die Kühe <em>gemolken</em>.
+      en: He often milked the cows in his childhood.
+      author: chatgpt
 - pre_example: ''
   verb: messen
   post_example: die Temperatur
@@ -1897,20 +1897,20 @@
   duden_word_frequency: 3
   vowel_change_from: e
   vowel_change_to: i
-  vowel_change_note: 
+  vowel_change_note:
   examples:
-  - de: Er <em>misst</em> die Temperatur des Wassers mit einem Thermometer.
-    en: He measures the temperature of the water with a thermometer.
-    author: chatgpt
-  - de: Sie <em>maß</em> die Länge des Raumes, um die Möbel richtig anzuordnen.
-    en: She measured the length of the room to arrange the furniture properly.
-    author: chatgpt
-  - de: Er <em>hat</em> die Zutaten genau <em>gemessen</em>, um das Rezept perfekt hinzubekommen.
-    en: He has measured the ingredients precisely to get the recipe just right.
-    author: chatgpt
+    - de: Er <em>misst</em> die Temperatur des Wassers mit einem Thermometer.
+      en: He measures the temperature of the water with a thermometer.
+      author: chatgpt
+    - de: Sie <em>maß</em> die Länge des Raumes, um die Möbel richtig anzuordnen.
+      en: She measured the length of the room to arrange the furniture properly.
+      author: chatgpt
+    - de: Er <em>hat</em> die Zutaten genau <em>gemessen</em>, um das Rezept perfekt hinzubekommen.
+      en: He has measured the ingredients precisely to get the recipe just right.
+      author: chatgpt
 - pre_example: ''
   verb: misslingen
-  post_example: 
+  post_example:
   hilfsverb: sein
   is_reflexive: false
   praesens: misslingt
@@ -1921,21 +1921,21 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-  - de: Er <em>misslingt</em> oft, wenn er versucht, das komplizierte Rezept nachzukochen.
-    en: He often fails when trying to replicate the complicated recipe.
-    author: chatgpt
-  - de: Sie <em>misslang</em> das Experiment, weil sie die Anleitung nicht befolgte.
-    en: The experiment failed because she didn't follow the instructions.
-    author: chatgpt
-  - de: Er <em>ist</em> enttäuscht, weil sein Plan <em>misslungen</em> ist.
-    en: He is disappointed because his plan has failed.
-    author: chatgpt
-  - de: Ist der Kuchen dem Bäckerlehrling schon wieder misslungen?
-    en: Has the apprentice baker's cake failed again?
-    author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Er <em>misslingt</em> oft, wenn er versucht, das komplizierte Rezept nachzukochen.
+      en: He often fails when trying to replicate the complicated recipe.
+      author: chatgpt
+    - de: Sie <em>misslang</em> das Experiment, weil sie die Anleitung nicht befolgte.
+      en: The experiment failed because she didn't follow the instructions.
+      author: chatgpt
+    - de: Er <em>ist</em> enttäuscht, weil sein Plan <em>misslungen</em> ist.
+      en: He is disappointed because his plan has failed.
+      author: chatgpt
+    - de: Ist der Kuchen dem Bäckerlehrling schon wieder misslungen?
+      en: Has the apprentice baker's cake failed again?
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
   verb: mögen
-  post_example: 
+  post_example:
   hilfsverb: haben
   is_reflexive: false
   praesens: mag
@@ -1948,18 +1948,18 @@
   vowel_change_to: a
   vowel_change_note: alle Singularformen
   examples:
-  - de: Er <em>mag</em> Schokolade über alles und kann nie genug davon bekommen.
-    en: He loves chocolate above all and can never get enough of it.
-    author: chatgpt
-  - de: Sie <em>mochte</em> es schon immer, im Freien zu lesen.
-    en: She always liked reading outdoors.
-    author: chatgpt
-  - de: Er <em>hat</em> die neue Musik wirklich <em>gemocht</em> und hört sie ständig.
-    en: He really liked the new music and listens to it constantly.
-    author: chatgpt
+    - de: Er <em>mag</em> Schokolade über alles und kann nie genug davon bekommen.
+      en: He loves chocolate above all and can never get enough of it.
+      author: chatgpt
+    - de: Sie <em>mochte</em> es schon immer, im Freien zu lesen.
+      en: She always liked reading outdoors.
+      author: chatgpt
+    - de: Er <em>hat</em> die neue Musik wirklich <em>gemocht</em> und hört sie ständig.
+      en: He really liked the new music and listens to it constantly.
+      author: chatgpt
 - pre_example: ''
   verb: müssen
-  post_example: 
+  post_example:
   hilfsverb: haben
   is_reflexive: false
   praesens: muss
@@ -1972,15 +1972,15 @@
   vowel_change_to: u
   vowel_change_note: alle Singularformen
   examples:
-  - de: Er <em>muss</em> seine Hausaufgaben rechtzeitig abgeben.
-    en: He must submit his homework on time.
-    author: chatgpt
-  - de: Sie <em>musste</em> den Arzt aufsuchen, weil sie sich nicht wohl fühlte.
-    en: She had to see the doctor because she wasn't feeling well.
-    author: chatgpt
-  - de: Er <em>hat</em> sein Zimmer aufräumen <em>müssen</em>, bevor er ausgehen durfte.
-    en: He had to clean his room before he was allowed to go out.
-    author: chatgpt
+    - de: Er <em>muss</em> seine Hausaufgaben rechtzeitig abgeben.
+      en: He must submit his homework on time.
+      author: chatgpt
+    - de: Sie <em>musste</em> den Arzt aufsuchen, weil sie sich nicht wohl fühlte.
+      en: She had to see the doctor because she wasn't feeling well.
+      author: chatgpt
+    - de: Er <em>hat</em> sein Zimmer aufräumen <em>müssen</em>, bevor er ausgehen durfte.
+      en: He had to clean his room before he was allowed to go out.
+      author: chatgpt
 - pre_example: ''
   verb: nehmen
   post_example: ein Bier
@@ -1996,15 +1996,15 @@
   vowel_change_to: i
   vowel_change_note:
   examples:
-  - de: Er <em>nimmt</em> jeden Morgen den Bus zur Arbeit.
-    en: He takes the bus to work every morning.
-    author: chatgpt
-  - de: Sie <em>nahm</em> sich vor, gesünder zu essen und mehr zu bewegen.
-    en: She resolved to eat healthier and exercise more.
-    author: chatgpt
-  - de: Er <em>hat</em> das letzte Stück Kuchen <em>genommen</em>, weil es sein Favorit ist.
-    en: He took the last piece of cake because it's his favorite.
-    author: chatgpt
+    - de: Er <em>nimmt</em> jeden Morgen den Bus zur Arbeit.
+      en: He takes the bus to work every morning.
+      author: chatgpt
+    - de: Sie <em>nahm</em> sich vor, gesünder zu essen und mehr zu bewegen.
+      en: She resolved to eat healthier and exercise more.
+      author: chatgpt
+    - de: Er <em>hat</em> das letzte Stück Kuchen <em>genommen</em>, weil es sein Favorit ist.
+      en: He took the last piece of cake because it's his favorite.
+      author: chatgpt
 - pre_example: ''
   verb: nennen
   post_example: jemanden einen Idioten
@@ -2017,15 +2017,15 @@
   duden_url: https://www.duden.de/rechtschreibung/nennen
   duden_word_frequency: 4
   examples:
-  - de: Er <em>nennt</em> seinen Hund Max, weil es ein kurzer und einfacher Name ist.
-    en: He calls his dog Max because it's a short and simple name.
-    author: chatgpt
-  - de: Sie <em>nannte</em> ihr neues Buch „Die Geheimnisse des Waldes“.
-    en: She named her new book "The Secrets of the Forest."
-    author: chatgpt
-  - de: Er <em>hat</em> die Stadt nach seiner Großmutter <em>benannt</em>.
-    en: He named the city after his grandmother.
-    author: chatgpt
+    - de: Er <em>nennt</em> seinen Hund Max, weil es ein kurzer und einfacher Name ist.
+      en: He calls his dog Max because it's a short and simple name.
+      author: chatgpt
+    - de: Sie <em>nannte</em> ihr neues Buch „Die Geheimnisse des Waldes“.
+      en: She named her new book "The Secrets of the Forest."
+      author: chatgpt
+    - de: Er <em>hat</em> die Stadt nach seiner Großmutter <em>benannt</em>.
+      en: He named the city after his grandmother.
+      author: chatgpt
 - pre_example: ''
   verb: pfeifen
   post_example: ein Lied
@@ -2038,15 +2038,15 @@
   duden_url: https://www.duden.de/rechtschreibung/pfeifen
   duden_word_frequency: 2
   examples:
-  - de: Er <em>pfeift</em> fröhlich, während er im Park spazieren geht.
-    en: He whistles cheerfully while walking in the park.
-    author: chatgpt
-  - de: Sie <em>pfiff</em> eine melodiöse Melodie, die die anderen ansprach.
-    en: She whistled a melodic tune that resonated with others.
-    author: chatgpt
-  - de: Er <em>hat</em> auf die anderen gewartet und dabei <em>gepfiffen</em>.
-    en: He waited for the others while whistling.
-    author: chatgpt
+    - de: Er <em>pfeift</em> fröhlich, während er im Park spazieren geht.
+      en: He whistles cheerfully while walking in the park.
+      author: chatgpt
+    - de: Sie <em>pfiff</em> eine melodiöse Melodie, die die anderen ansprach.
+      en: She whistled a melodic tune that resonated with others.
+      author: chatgpt
+    - de: Er <em>hat</em> auf die anderen gewartet und dabei <em>gepfiffen</em>.
+      en: He waited for the others while whistling.
+      author: chatgpt
 - pre_example: ''
   verb: preisen
   post_example: die Vorzüge der Energiesparlampen
@@ -2059,15 +2059,15 @@
   duden_url: https://www.duden.de/rechtschreibung/preisen
   duden_word_frequency: 2
   examples:
-  - de: Er <em>preist</em> die Schönheit der Natur in seinen Gedichten.
-    en: He praises the beauty of nature in his poems.
-    author: chatgpt
-  - de: Sie <em>pries</em> die Leistungen ihrer Mitarbeiter während der Besprechung.
-    en: She praised the achievements of her employees during the meeting.
-    author: chatgpt
-  - de: Er <em>hat</em> das neue Restaurant <em>gepriesen</em> und viele Freunde dorthin eingeladen.
-    en: He praised the new restaurant and invited many friends there.
-    author: chatgpt
+    - de: Er <em>preist</em> die Schönheit der Natur in seinen Gedichten.
+      en: He praises the beauty of nature in his poems.
+      author: chatgpt
+    - de: Sie <em>pries</em> die Leistungen ihrer Mitarbeiter während der Besprechung.
+      en: She praised the achievements of her employees during the meeting.
+      author: chatgpt
+    - de: Er <em>hat</em> das neue Restaurant <em>gepriesen</em> und viele Freunde dorthin eingeladen.
+      en: He praised the new restaurant and invited many friends there.
+      author: chatgpt
 - pre_example: der Reis
   verb: quellen
   post_example: ''
@@ -2106,12 +2106,12 @@
   vowel_change_from: a
   vowel_change_to: ä
   vowel_change_note:
-  examples: 
+  examples:
     - de: Sie <em>rät</em> immer dazu, viel Wasser zu trinken, um gesund zu bleiben.
       en: She always advises to drink plenty of water to stay healthy.
       author: chatgpt
     - de: Der Reporter <em>riet</em> der Bevölkerung, sich auf den Sturm vorzubereiten
-      en: The reporter advised the public to prepare for the storm. 
+      en: The reporter advised the public to prepare for the storm.
       author: linguee
     - de: Er <em>hat</em> ihr <em>geraten</em>, sich für das Stipendium zu bewerben.
       en: He advised her to apply for the scholarship.
@@ -2128,15 +2128,15 @@
   duden_url: https://www.duden.de/rechtschreibung/reiben
   duden_word_frequency: 2
   examples:
-  - de: Er <em>reibt</em> die Karotten für den Salat mit einer Reibe.
-    en: He grates the carrots for the salad using a grater.
-    author: chatgpt
-  - de: Sie <em>riß</em> den alten Brief auf, um den Inhalt zu lesen.
-    en: She ripped open the old letter to read its contents.
-    author: chatgpt
-  - de: Er <em>hat</em> die Wunden vorsichtig <em>gerieben</em>, um die Heilung zu fördern.
-    en: He gently rubbed the wounds to promote healing.
-    author: chatgpt
+    - de: Er <em>reibt</em> die Karotten für den Salat mit einer Reibe.
+      en: He grates the carrots for the salad using a grater.
+      author: chatgpt
+    - de: Sie <em>riß</em> den alten Brief auf, um den Inhalt zu lesen.
+      en: She ripped open the old letter to read its contents.
+      author: chatgpt
+    - de: Er <em>hat</em> die Wunden vorsichtig <em>gerieben</em>, um die Heilung zu fördern.
+      en: He gently rubbed the wounds to promote healing.
+      author: chatgpt
 - pre_example: der Strick
   verb: reißen
   post_example: ''
@@ -2150,15 +2150,15 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-  - de: Er <em>reißt</em> das Papier in zwei Hälften, um es einfacher zu entsorgen.
-    en: He tears the paper in half to make it easier to dispose of.
-    author: chatgpt
-  - de: Sie <em>riss</em> den alten Kalender von der Wand, um Platz für einen neuen zu schaffen.
-    en: She ripped the old calendar off the wall to make room for a new one.
-    author: chatgpt
-  - de: Er <em>hat</em> das Seil <em>gerissen</em>, als er zu fest zog.
-    en: He tore the rope when he pulled too hard.
-    author: chatgpt
+    - de: Er <em>reißt</em> das Papier in zwei Hälften, um es einfacher zu entsorgen.
+      en: He tears the paper in half to make it easier to dispose of.
+      author: chatgpt
+    - de: Sie <em>riss</em> den alten Kalender von der Wand, um Platz für einen neuen zu schaffen.
+      en: She ripped the old calendar off the wall to make room for a new one.
+      author: chatgpt
+    - de: Er <em>hat</em> das Seil <em>gerissen</em>, als er zu fest zog.
+      en: He tore the rope when he pulled too hard.
+      author: chatgpt
 - pre_example: ''
   verb: reißen
   post_example: etwas in Stücke
@@ -2172,15 +2172,15 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-  - de: Sie <em>reißt</em> oft die Verpackung auf, um an den Inhalt zu gelangen.
-    en: She often tears open the packaging to get to the contents.
-    author: chatgpt
-  - de: Er <em>riss</em> den Briefumschlag auf, um den wichtigen Brief zu lesen.
-    en: He ripped open the envelope to read the important letter.
-    author: chatgpt
-  - de: Sie <em>hat</em> das Bild <em>gerissen</em>, als sie es von der Wand nahm.
-    en: She tore the picture when she took it off the wall.
-    author: chatgpt
+    - de: Sie <em>reißt</em> oft die Verpackung auf, um an den Inhalt zu gelangen.
+      en: She often tears open the packaging to get to the contents.
+      author: chatgpt
+    - de: Er <em>riss</em> den Briefumschlag auf, um den wichtigen Brief zu lesen.
+      en: He ripped open the envelope to read the important letter.
+      author: chatgpt
+    - de: Sie <em>hat</em> das Bild <em>gerissen</em>, als sie es von der Wand nahm.
+      en: She tore the picture when she took it off the wall.
+      author: chatgpt
 - pre_example: ''
   verb: reiten
   post_example: ''
@@ -2193,15 +2193,15 @@
   duden_url: https://www.duden.de/rechtschreibung/reiten
   duden_word_frequency: 3
   examples:
-  - de: Er <em>reitet</em> jeden Sonntag auf seinem Lieblingspferd in den Wald.
-    en: He rides his favorite horse into the woods every Sunday.
-    author: chatgpt
-  - de: Sie <em>ritt</em> früher oft im Wettbewerb und gewann viele Preise.
-    en: She often rode in competitions and won many prizes in the past.
-    author: chatgpt
-  - de: Er <em>hat</em> auf dem neuen Pferd <em>geritten</em> und war begeistert von seiner Schnelligkeit.
-    en: He rode the new horse and was thrilled by its speed.
-    author: chatgpt
+    - de: Er <em>reitet</em> jeden Sonntag auf seinem Lieblingspferd in den Wald.
+      en: He rides his favorite horse into the woods every Sunday.
+      author: chatgpt
+    - de: Sie <em>ritt</em> früher oft im Wettbewerb und gewann viele Preise.
+      en: She often rode in competitions and won many prizes in the past.
+      author: chatgpt
+    - de: Er <em>hat</em> auf dem neuen Pferd <em>geritten</em> und war begeistert von seiner Schnelligkeit.
+      en: He rode the new horse and was thrilled by its speed.
+      author: chatgpt
 - pre_example: ''
   verb: rennen
   post_example: ''
@@ -2239,15 +2239,15 @@
   duden_url: https://www.duden.de/rechtschreibung/riechen
   duden_word_frequency: 3
   examples:
-  - de: Er <em>riecht</em> den köstlichen Duft frisch gebackenen Brotes aus der Bäckerei.
-    en: He smells the delicious scent of freshly baked bread from the bakery.
-    author: chatgpt
-  - de: Sie <em>roch</em> die Blumen im Garten und genoss den angenehmen Duft.
-    en: She smelled the flowers in the garden and enjoyed their pleasant fragrance.
-    author: chatgpt
-  - de: Er <em>hat</em> das Parfüm <em>gerochen</em> und fand es sehr angenehm.
-    en: He smelled the perfume and found it very pleasant.
-    author: chatgpt
+    - de: Er <em>riecht</em> den köstlichen Duft frisch gebackenen Brotes aus der Bäckerei.
+      en: He smells the delicious scent of freshly baked bread from the bakery.
+      author: chatgpt
+    - de: Sie <em>roch</em> die Blumen im Garten und genoss den angenehmen Duft.
+      en: She smelled the flowers in the garden and enjoyed their pleasant fragrance.
+      author: chatgpt
+    - de: Er <em>hat</em> das Parfüm <em>gerochen</em> und fand es sehr angenehm.
+      en: He smelled the perfume and found it very pleasant.
+      author: chatgpt
 - pre_example: ''
   verb: ringen
   post_example: um eine Lösung
@@ -2260,15 +2260,15 @@
   duden_url: https://www.duden.de/rechtschreibung/ringen_kaempfen
   duden_word_frequency: 3
   examples:
-  - de: Er <em>ringt</em> mit seinem Freund im Fitnessstudio, um seine Technik zu verbessern.
-    en: He wrestles with his friend at the gym to improve his technique.
-    author: chatgpt
-  - de: Sie <em>rang</em> während des Wettkampfs hart um den ersten Platz.
-    en: She wrestled hard during the competition for first place.
-    author: chatgpt
-  - de: Er <em>hat</em> im Jugendverein <em>gerungen</em> und viel über Teamarbeit gelernt.
-    en: He wrestled in the youth club and learned a lot about teamwork.
-    author: chatgpt
+    - de: Er <em>ringt</em> mit seinem Freund im Fitnessstudio, um seine Technik zu verbessern.
+      en: He wrestles with his friend at the gym to improve his technique.
+      author: chatgpt
+    - de: Sie <em>rang</em> während des Wettkampfs hart um den ersten Platz.
+      en: She wrestled hard during the competition for first place.
+      author: chatgpt
+    - de: Er <em>hat</em> im Jugendverein <em>gerungen</em> und viel über Teamarbeit gelernt.
+      en: He wrestled in the youth club and learned a lot about teamwork.
+      author: chatgpt
 - pre_example: der Regen
   verb: rinnen
   post_example: ''
@@ -2281,15 +2281,15 @@
   duden_url: https://www.duden.de/rechtschreibung/rinnen
   duden_word_frequency: 2
   examples:
-  - de: Das Wasser <em>rinnt</em> langsam den Abfluss hinunter.
-    en: The water flows slowly down the drain.
-    author: chatgpt
-  - de: Sie <em>rann</em> über ihre Wangen, als sie die rührende Geschichte hörte.
-    en: Tears flowed down her cheeks as she listened to the touching story.
-    author: chatgpt
-  - de: Er <em>hat</em> den Sand durch seine Finger <em>gerinnen</em> lassen, während er am Strand sitzt.
-    en: He let the sand run through his fingers while sitting on the beach.
-    author: chatgpt
+    - de: Das Wasser <em>rinnt</em> langsam den Abfluss hinunter.
+      en: The water flows slowly down the drain.
+      author: chatgpt
+    - de: Sie <em>rann</em> über ihre Wangen, als sie die rührende Geschichte hörte.
+      en: Tears flowed down her cheeks as she listened to the touching story.
+      author: chatgpt
+    - de: Er <em>hat</em> den Sand durch seine Finger <em>gerinnen</em> lassen, während er am Strand sitzt.
+      en: He let the sand run through his fingers while sitting on the beach.
+      author: chatgpt
 - pre_example: ''
   verb: rufen
   post_example: jemanden
@@ -2302,15 +2302,15 @@
   duden_url: https://www.duden.de/rechtschreibung/rufen
   duden_word_frequency: 4
   examples:
-  - de: Er <em>ruft</em> jeden Abend seine Familie, um nach ihrem Tag zu fragen.
-    en: He calls his family every evening to ask about their day.
-    author: chatgpt
-  - de: Sie <em>rief</em> laut, als sie ihren Freund im Park entdeckte.
-    en: She shouted loudly when she spotted her friend in the park.
-    author: chatgpt
-  - de: Er <em>hat</em> die Nachbarn <em>gerufen</em>, um bei der Gartenarbeit zu helfen.
-    en: He called the neighbors to help with the gardening.
-    author: chatgpt
+    - de: Er <em>ruft</em> jeden Abend seine Familie, um nach ihrem Tag zu fragen.
+      en: He calls his family every evening to ask about their day.
+      author: chatgpt
+    - de: Sie <em>rief</em> laut, als sie ihren Freund im Park entdeckte.
+      en: She shouted loudly when she spotted her friend in the park.
+      author: chatgpt
+    - de: Er <em>hat</em> die Nachbarn <em>gerufen</em>, um bei der Gartenarbeit zu helfen.
+      en: He called the neighbors to help with the gardening.
+      author: chatgpt
 - pre_example: ''
   verb: salzen
   post_example: das Essen
@@ -2323,15 +2323,15 @@
   duden_url: https://www.duden.de/rechtschreibung/salzen
   duden_word_frequency: 2
   examples:
-  - de: Er <em>salzt</em> das Gemüse, um den Geschmack zu verstärken.
-    en: He salts the vegetables to enhance the flavor.
-    author: chatgpt
-  - de: Sie <em>salzte</em> das Wasser, bevor sie die Pasta hinzufügte.
-    en: She salted the water before adding the pasta.
-    author: chatgpt
-  - de: Er <em>hat</em> die Suppe <em>gesalzen</em>, um sie würziger zu machen.
-    en: He salted the soup to make it spicier.
-    author: chatgpt
+    - de: Er <em>salzt</em> das Gemüse, um den Geschmack zu verstärken.
+      en: He salts the vegetables to enhance the flavor.
+      author: chatgpt
+    - de: Sie <em>salzte</em> das Wasser, bevor sie die Pasta hinzufügte.
+      en: She salted the water before adding the pasta.
+      author: chatgpt
+    - de: Er <em>hat</em> die Suppe <em>gesalzen</em>, um sie würziger zu machen.
+      en: He salted the soup to make it spicier.
+      author: chatgpt
 - pre_example: das Pferd
   verb: saufen
   post_example: ''
@@ -2347,15 +2347,15 @@
   vowel_change_to: ä
   vowel_change_note:
   examples:
-  - de: Er <em>sauft</em> gerne Bier, wenn er mit Freunden feiert.
-    en: He enjoys drinking beer when he celebrates with friends.
-    author: chatgpt
-  - de: Sie <em>suff</em> während der Party zu viel Wein und musste sich später ausruhen.
-    en: She drank too much wine during the party and had to rest later.
-    author: chatgpt
-  - de: Er <em>hat</em> an dem Abend zu viel <em>gesoffen</em> und kann sich nicht mehr an alles erinnern.
-    en: He drank too much that evening and can’t remember everything.
-    author: chatgpt
+    - de: Er <em>sauft</em> gerne Bier, wenn er mit Freunden feiert.
+      en: He enjoys drinking beer when he celebrates with friends.
+      author: chatgpt
+    - de: Sie <em>suff</em> während der Party zu viel Wein und musste sich später ausruhen.
+      en: She drank too much wine during the party and had to rest later.
+      author: chatgpt
+    - de: Er <em>hat</em> an dem Abend zu viel <em>gesoffen</em> und kann sich nicht mehr an alles erinnern.
+      en: He drank too much that evening and can’t remember everything.
+      author: chatgpt
 - pre_example: der Elefant
   verb: saugen
   post_example: den Rüssel voll Wasser
@@ -2368,15 +2368,15 @@
   duden_url: https://www.duden.de/rechtschreibung/saugen
   duden_word_frequency: 2
   examples:
-  - de: Er <em>saugt</em> den Staub mit dem neuen Staubsauger in der ganzen Wohnung auf.
-    en: He vacuums the dust with the new vacuum cleaner throughout the apartment.
-    author: chatgpt
-  - de: Sie <em>sog</em> das Wasser mit einem Strohhalm aus ihrem Getränk.
-    en: She sucked the water through a straw from her drink.
-    author: chatgpt
-  - de: Er <em>hat</em> die Feuchtigkeit aus dem Teppich <em>gesogen</em>, nachdem die Katze einen Unfall hatte.
-    en: He sucked the moisture out of the carpet after the cat had an accident.
-    author: chatgpt
+    - de: Er <em>saugt</em> den Staub mit dem neuen Staubsauger in der ganzen Wohnung auf.
+      en: He vacuums the dust with the new vacuum cleaner throughout the apartment.
+      author: chatgpt
+    - de: Sie <em>sog</em> das Wasser mit einem Strohhalm aus ihrem Getränk.
+      en: She sucked the water through a straw from her drink.
+      author: chatgpt
+    - de: Er <em>hat</em> die Feuchtigkeit aus dem Teppich <em>gesogen</em>, nachdem die Katze einen Unfall hatte.
+      en: He sucked the moisture out of the carpet after the cat had an accident.
+      author: chatgpt
 - pre_example: ''
   verb: schaffen
   post_example: ein Kunstwerk
@@ -2390,15 +2390,15 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-  - de: Er <em>schafft</em> es immer, seine Ziele rechtzeitig zu erreichen.
-    en: He always manages to achieve his goals on time.
-    author: chatgpt
-  - de: Sie <em>schuf</em> ein wunderschönes Gemälde, das alle bewunderten.
-    en: She created a beautiful painting that everyone admired.
-    author: chatgpt
-  - de: Er <em>hat</em> die Herausforderung <em>geschafft</em>, obwohl es schwierig war.
-    en: He managed to overcome the challenge, even though it was difficult.
-    author: chatgpt
+    - de: Er <em>schafft</em> es immer, seine Ziele rechtzeitig zu erreichen.
+      en: He always manages to achieve his goals on time.
+      author: chatgpt
+    - de: Sie <em>schuf</em> ein wunderschönes Gemälde, das alle bewunderten.
+      en: She created a beautiful painting that everyone admired.
+      author: chatgpt
+    - de: Er <em>hat</em> die Herausforderung <em>geschafft</em>, obwohl es schwierig war.
+      en: He managed to overcome the challenge, even though it was difficult.
+      author: chatgpt
 - pre_example: ''
   verb: scheiden
   post_example: Berufund Privatleben voneinander
@@ -2411,15 +2411,15 @@
   duden_url: https://www.duden.de/rechtschreibung/scheiden
   duden_word_frequency: 3
   examples:
-  - de: Er <em>scheidet</em> die verschiedenen Materialien für das Recycling.
-    en: He separates the different materials for recycling.
-    author: chatgpt
-  - de: Sie <em>schied</em> im letzten Moment, um einen Streit zu vermeiden.
-    en: She withdrew at the last moment to avoid a conflict.
-    author: chatgpt
-  - de: Er <em>hat</em> die Freundschaft <em>geschieden</em>, nachdem sie sich oft gestritten hatten.
-    en: He ended the friendship after they had fought often.
-    author: chatgpt
+    - de: Er <em>scheidet</em> die verschiedenen Materialien für das Recycling.
+      en: He separates the different materials for recycling.
+      author: chatgpt
+    - de: Sie <em>schied</em> im letzten Moment, um einen Streit zu vermeiden.
+      en: She withdrew at the last moment to avoid a conflict.
+      author: chatgpt
+    - de: Er <em>hat</em> die Freundschaft <em>geschieden</em>, nachdem sie sich oft gestritten hatten.
+      en: He ended the friendship after they had fought often.
+      author: chatgpt
 - pre_example: die Sonne
   verb: scheinen
   post_example: ''
@@ -2432,16 +2432,16 @@
   duden_url: https://www.duden.de/rechtschreibung/scheinen
   duden_word_frequency: 4
   examples:
-  - de: Die Sonne <em>scheint</em> heute besonders hell am Himmel.
-    en: The sun shines especially brightly in the sky today.
-    author: chatgpt
-  - de: Er <em>schien</em> sehr glücklich, als er die gute Nachricht erhielt.
-    en: He seemed very happy when he received the good news.
-    author: chatgpt
-  - de: Sie <em>hat</em> immer <em>geschienen</em>, als wüsste sie alles.
-    en: She always seemed to know everything.
-    author: chatgpt
-- pre_example: 
+    - de: Die Sonne <em>scheint</em> heute besonders hell am Himmel.
+      en: The sun shines especially brightly in the sky today.
+      author: chatgpt
+    - de: Er <em>schien</em> sehr glücklich, als er die gute Nachricht erhielt.
+      en: He seemed very happy when he received the good news.
+      author: chatgpt
+    - de: Sie <em>hat</em> immer <em>geschienen</em>, als wüsste sie alles.
+      en: She always seemed to know everything.
+      author: chatgpt
+- pre_example:
   verb: schelten
   post_example: ''
   hilfsverb: haben
@@ -2454,17 +2454,17 @@
   duden_word_frequency: 2
   vowel_change_from: e
   vowel_change_to: i
-  vowel_change_note: 
+  vowel_change_note:
   examples:
-  - de: Er <em>schelt</em> seine Kinder oft, wenn sie unhöflich sind.
-    en: He often scolds his children when they are rude.
-    author: chatgpt
-  - de: Sie <em>schalt</em> ihn laut, weil er zu spät gekommen war.
-    en: She scolded him loudly for arriving late.
-    author: chatgpt
-  - de: Er <em>hat</em> seinen Hund <em>gescholten</em>, als er den Teppich beschädigte.
-    en: He scolded his dog when it damaged the carpet.
-    author: chatgpt
+    - de: Er <em>schelt</em> seine Kinder oft, wenn sie unhöflich sind.
+      en: He often scolds his children when they are rude.
+      author: chatgpt
+    - de: Sie <em>schalt</em> ihn laut, weil er zu spät gekommen war.
+      en: She scolded him loudly for arriving late.
+      author: chatgpt
+    - de: Er <em>hat</em> seinen Hund <em>gescholten</em>, als er den Teppich beschädigte.
+      en: He scolded his dog when it damaged the carpet.
+      author: chatgpt
 - pre_example: ''
   verb: scheren
   post_example: Schafe
@@ -2478,15 +2478,15 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-  - de: Er <em>schert</em> seine Schafe jeden Frühling, um das Wolle zu ernten.
-    en: He shears his sheep every spring to harvest the wool.
-    author: chatgpt
-  - de: Sie <em>schor</em> ihre Haare kurz, um einen neuen Look auszuprobieren.
-    en: She sheared her hair short to try out a new look.
-    author: chatgpt
-  - de: Er <em>hat</em> das alte Holz <em>geschert</em>, um Platz für das neue Möbel zu schaffen.
-    en: He sheared the old wood to make room for the new furniture.
-    author: chatgpt
+    - de: Er <em>schert</em> seine Schafe jeden Frühling, um das Wolle zu ernten.
+      en: He shears his sheep every spring to harvest the wool.
+      author: chatgpt
+    - de: Sie <em>schor</em> ihre Haare kurz, um einen neuen Look auszuprobieren.
+      en: She sheared her hair short to try out a new look.
+      author: chatgpt
+    - de: Er <em>hat</em> das alte Holz <em>geschert</em>, um Platz für das neue Möbel zu schaffen.
+      en: He sheared the old wood to make room for the new furniture.
+      author: chatgpt
 - pre_example: ''
   verb: schieben
   post_example: ein kaputtes Fahrrad
@@ -2499,15 +2499,15 @@
   duden_url: https://www.duden.de/rechtschreibung/schieben
   duden_word_frequency: 3
   examples:
-  - de: Er <em>schiebt</em> den schweren Tisch in die Ecke des Raumes.
-    en: He pushes the heavy table into the corner of the room.
-    author: chatgpt
-  - de: Sie <em>schob</em> die Bücher auf das Regal, um mehr Platz auf dem Tisch zu schaffen.
-    en: She pushed the books onto the shelf to create more space on the table.
-    author: chatgpt
-  - de: Er <em>hat</em> den Wagen <em>geschoben</em>, als der Motor ausfiel.
-    en: He pushed the car when the engine broke down.
-    author: chatgpt
+    - de: Er <em>schiebt</em> den schweren Tisch in die Ecke des Raumes.
+      en: He pushes the heavy table into the corner of the room.
+      author: chatgpt
+    - de: Sie <em>schob</em> die Bücher auf das Regal, um mehr Platz auf dem Tisch zu schaffen.
+      en: She pushed the books onto the shelf to create more space on the table.
+      author: chatgpt
+    - de: Er <em>hat</em> den Wagen <em>geschoben</em>, als der Motor ausfiel.
+      en: He pushed the car when the engine broke down.
+      author: chatgpt
 - pre_example: ''
   verb: schießen
   post_example: ein Tor
@@ -2521,15 +2521,15 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-  - de: Er <em>schießt</em> mit dem Bogen auf das Ziel im Garten.
-    en: He shoots with the bow at the target in the garden.
-    author: chatgpt
-  - de: Sie <em>schoss</em> den Ball mit voller Kraft über das Feld.
-    en: She kicked the ball with full force across the field.
-    author: chatgpt
-  - de: Er <em>hat</em> das Foto <em>geschossen</em>, als die Sonne unterging.
-    en: He took the photo when the sun was setting.
-    author: chatgpt
+    - de: Er <em>schießt</em> mit dem Bogen auf das Ziel im Garten.
+      en: He shoots with the bow at the target in the garden.
+      author: chatgpt
+    - de: Sie <em>schoss</em> den Ball mit voller Kraft über das Feld.
+      en: She kicked the ball with full force across the field.
+      author: chatgpt
+    - de: Er <em>hat</em> das Foto <em>geschossen</em>, als die Sonne unterging.
+      en: He took the photo when the sun was setting.
+      author: chatgpt
 - pre_example: ''
   verb: schlafen
   post_example: ''
@@ -2543,7 +2543,7 @@
   duden_word_frequency: 3
   vowel_change_from: a
   vowel_change_to: ä
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Am Freitag <em>ist</em> mein jüngester Sohn erst um Mitternacht <em>eingeschlafen</em>.
       en: On Friday, my youngest son didn't fall asleep until midnight.
@@ -2573,17 +2573,17 @@
   duden_word_frequency: 4
   vowel_change_from: a
   vowel_change_to: ä
-  vowel_change_note: 
+  vowel_change_note:
   examples:
-  - de: Er <em>schlägt</em> den Ball mit voller Kraft über das Netz.
-    en: He hits the ball with full force over the net.
-    author: chatgpt
-  - de: Sie <em>schlug</em> ihren Freund im Kartenspiel und gewann.
-    en: She beat her friend in the card game and won.
-    author: chatgpt
-  - de: Er <em>hat</em> den Rekord <em>geschlagen</em>, indem er die schnellste Zeit lief.
-    en: He broke the record by running the fastest time.
-    author: chatgpt
+    - de: Er <em>schlägt</em> den Ball mit voller Kraft über das Netz.
+      en: He hits the ball with full force over the net.
+      author: chatgpt
+    - de: Sie <em>schlug</em> ihren Freund im Kartenspiel und gewann.
+      en: She beat her friend in the card game and won.
+      author: chatgpt
+    - de: Er <em>hat</em> den Rekord <em>geschlagen</em>, indem er die schnellste Zeit lief.
+      en: He broke the record by running the fastest time.
+      author: chatgpt
 - pre_example: ein Dieb
   verb: schleichen
   post_example: um das Haus
@@ -2596,15 +2596,15 @@
   duden_url: https://www.duden.de/rechtschreibung/schleichen
   duden_word_frequency: 2
   examples:
-  - de: Er <em>schleicht</em> leise durch den Garten, um die Vögel nicht zu stören.
-    en: He sneaks quietly through the garden to avoid disturbing the birds.
-    author: chatgpt
-  - de: Sie <em>schlich</em> sich heimlich in die Küche, um einen Snack zu holen.
-    en: She sneaked quietly into the kitchen to grab a snack.
-    author: chatgpt
-  - de: Er <em>hat</em> sich <em>geschlichen</em>, um die Überraschung nicht zu verderben.
-    en: He crept in to avoid ruining the surprise.
-    author: chatgpt
+    - de: Er <em>schleicht</em> leise durch den Garten, um die Vögel nicht zu stören.
+      en: He sneaks quietly through the garden to avoid disturbing the birds.
+      author: chatgpt
+    - de: Sie <em>schlich</em> sich heimlich in die Küche, um einen Snack zu holen.
+      en: She sneaked quietly into the kitchen to grab a snack.
+      author: chatgpt
+    - de: Er <em>hat</em> sich <em>geschlichen</em>, um die Überraschung nicht zu verderben.
+      en: He crept in to avoid ruining the surprise.
+      author: chatgpt
 - pre_example: ''
   verb: schleifen
   post_example: einen Diamanten
@@ -2617,15 +2617,15 @@
   duden_url: https://www.duden.de/rechtschreibung/schleifen_wetzen
   duden_word_frequency: 2
   examples:
-  - de: Er <em>schleift</em> das Messer, um es schärfer zu machen.
-    en: He sharpens the knife to make it sharper.
-    author: chatgpt
-  - de: Sie <em>schliff</em> die Kante des Papiers, um sie glatt zu machen.
-    en: She smoothed the edge of the paper to make it flat.
-    author: chatgpt
-  - de: Er <em>hat</em> das Holz <em>geschliffen</em>, um die Oberfläche zu verfeinern.
-    en: He sanded the wood to refine the surface.
-    author: chatgpt
+    - de: Er <em>schleift</em> das Messer, um es schärfer zu machen.
+      en: He sharpens the knife to make it sharper.
+      author: chatgpt
+    - de: Sie <em>schliff</em> die Kante des Papiers, um sie glatt zu machen.
+      en: She smoothed the edge of the paper to make it flat.
+      author: chatgpt
+    - de: Er <em>hat</em> das Holz <em>geschliffen</em>, um die Oberfläche zu verfeinern.
+      en: He sanded the wood to refine the surface.
+      author: chatgpt
 - pre_example: ''
   verb: schließen
   post_example: eine Tür/Freundschaft
@@ -2638,15 +2638,15 @@
   duden_url: https://www.duden.de/rechtschreibung/schlieszen
   duden_word_frequency: 4
   examples:
-  - de: Er <em>schließt</em> die Tür vorsichtig, um keinen Lärm zu machen.
-    en: He closes the door carefully to avoid making noise.
-    author: chatgpt
-  - de: Sie <em>schloss</em> das Fenster, als der Regen begann.
-    en: She closed the window when the rain started.
-    author: chatgpt
-  - de: Er <em>hat</em> das Kapitel im Buch <em>geschlossen</em>, um mit dem nächsten fortzufahren.
-    en: He finished the chapter in the book to move on to the next one.
-    author: chatgpt
+    - de: Er <em>schließt</em> die Tür vorsichtig, um keinen Lärm zu machen.
+      en: He closes the door carefully to avoid making noise.
+      author: chatgpt
+    - de: Sie <em>schloss</em> das Fenster, als der Regen begann.
+      en: She closed the window when the rain started.
+      author: chatgpt
+    - de: Er <em>hat</em> das Kapitel im Buch <em>geschlossen</em>, um mit dem nächsten fortzufahren.
+      en: He finished the chapter in the book to move on to the next one.
+      author: chatgpt
 - pre_example: ''
   verb: schlingen
   post_example: die Arme um jemanden
@@ -2659,15 +2659,15 @@
   duden_url: https://www.duden.de/rechtschreibung/schlingen_umwickeln
   duden_word_frequency: 2
   examples:
-  - de: Er <em>schlingt</em> den Faden um die Nadel, um zu nähen.
-    en: He wraps the thread around the needle to sew.
-    author: chatgpt
-  - de: Sie <em>schlang</em> die Schlange um ihren Arm, um sie zu halten.
-    en: She wrapped the snake around her arm to hold it.
-    author: chatgpt
-  - de: Er <em>hat</em> das Seil <em>geschlungen</em>, um die Last zu sichern.
-    en: He wound the rope to secure the load.
-    author: chatgpt
+    - de: Er <em>schlingt</em> den Faden um die Nadel, um zu nähen.
+      en: He wraps the thread around the needle to sew.
+      author: chatgpt
+    - de: Sie <em>schlang</em> die Schlange um ihren Arm, um sie zu halten.
+      en: She wrapped the snake around her arm to hold it.
+      author: chatgpt
+    - de: Er <em>hat</em> das Seil <em>geschlungen</em>, um die Last zu sichern.
+      en: He wound the rope to secure the load.
+      author: chatgpt
 - pre_example: ''
   verb: schmeißen
   post_example: Steine
@@ -2681,15 +2681,15 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-  - de: Er <em>schmeißt</em> den Ball über den Zaun, um seinen Freund zu erreichen.
-    en: He throws the ball over the fence to reach his friend.
-    author: chatgpt
-  - de: Sie <em>schmiss</em> die alten Bücher in die Spende-Box.
-    en: She tossed the old books into the donation box.
-    author: chatgpt
-  - de: Er <em>hat</em> die Einladung <em>geschmissen</em>, weil er nicht teilnehmen kann.
-    en: He discarded the invitation because he cannot attend.
-    author: chatgpt
+    - de: Er <em>schmeißt</em> den Ball über den Zaun, um seinen Freund zu erreichen.
+      en: He throws the ball over the fence to reach his friend.
+      author: chatgpt
+    - de: Sie <em>schmiss</em> die alten Bücher in die Spende-Box.
+      en: She tossed the old books into the donation box.
+      author: chatgpt
+    - de: Er <em>hat</em> die Einladung <em>geschmissen</em>, weil er nicht teilnehmen kann.
+      en: He discarded the invitation because he cannot attend.
+      author: chatgpt
 - pre_example: das Eis
   verb: schmelzen
   post_example: ''
@@ -2703,7 +2703,7 @@
   duden_word_frequency: 2
   vowel_change_from: e
   vowel_change_to: i
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Der Schnee <em>schmilzt</em> langsam in der warmen Frühlingssonne.
       en: The snow melts slowly in the warm spring sun.
@@ -2727,17 +2727,17 @@
   duden_word_frequency: 2
   vowel_change_from: e
   vowel_change_to: i
-  vowel_change_note: 
+  vowel_change_note:
   examples:
-  - de: Das Wachs <em>schmilzt</em> in der Flamme und tropft auf den Tisch.
-    en: The wax melts in the flame and drips onto the table.
-    author: chatgpt
-  - de: Der Schnee <em>schmolz</em> auf der Straße, sobald die Sonne herauskam.
-    en: The snow melted on the street as soon as the sun came out.
-    author: chatgpt
-  - de: Die Schokolade <em>hat</em> in der Tasche <em>geschmolzen</em> und eine klebrige Sauerei hinterlassen.
-    en: The chocolate melted in the bag and left a sticky mess.
-    author: chatgpt
+    - de: Das Wachs <em>schmilzt</em> in der Flamme und tropft auf den Tisch.
+      en: The wax melts in the flame and drips onto the table.
+      author: chatgpt
+    - de: Der Schnee <em>schmolz</em> auf der Straße, sobald die Sonne herauskam.
+      en: The snow melted on the street as soon as the sun came out.
+      author: chatgpt
+    - de: Die Schokolade <em>hat</em> in der Tasche <em>geschmolzen</em> und eine klebrige Sauerei hinterlassen.
+      en: The chocolate melted in the bag and left a sticky mess.
+      author: chatgpt
 - pre_example: ''
   verb: schneiden
   post_example: das Gemüse
@@ -2750,15 +2750,15 @@
   duden_url: https://www.duden.de/rechtschreibung/schneiden
   duden_word_frequency: 3
   examples:
-  - de: Er <em>schneidet</em> das Gemüse in feine Streifen für den Salat.
-    en: He cuts the vegetables into thin strips for the salad.
-    author: chatgpt
-  - de: Sie <em>schnitt</em> das Brot in dicke Scheiben für das Frühstück.
-    en: She cut the bread into thick slices for breakfast.
-    author: chatgpt
-  - de: Er <em>hat</em> das Papier sauber <em>geschnitten</em>, um eine gerade Kante zu erhalten.
-    en: He cut the paper neatly to get a straight edge.
-    author: chatgpt
+    - de: Er <em>schneidet</em> das Gemüse in feine Streifen für den Salat.
+      en: He cuts the vegetables into thin strips for the salad.
+      author: chatgpt
+    - de: Sie <em>schnitt</em> das Brot in dicke Scheiben für das Frühstück.
+      en: She cut the bread into thick slices for breakfast.
+      author: chatgpt
+    - de: Er <em>hat</em> das Papier sauber <em>geschnitten</em>, um eine gerade Kante zu erhalten.
+      en: He cut the paper neatly to get a straight edge.
+      author: chatgpt
 - pre_example: ''
   verb: schreiben
   post_example: einen Brief
@@ -2772,15 +2772,15 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-  - de: Er <em>schreibt</em> jeden Morgen in sein Tagebuch.
-    en: He writes in his journal every morning.
-    author: chatgpt
-  - de: Sie <em>schrieb</em> ihm einen langen Brief, um sich zu entschuldigen.
-    en: She wrote him a long letter to apologize.
-    author: chatgpt
-  - de: Er <em>hat</em> einen spannenden Roman <em>geschrieben</em>, der bald veröffentlicht wird.
-    en: He has written an exciting novel that will be published soon.
-    author: chatgpt
+    - de: Er <em>schreibt</em> jeden Morgen in sein Tagebuch.
+      en: He writes in his journal every morning.
+      author: chatgpt
+    - de: Sie <em>schrieb</em> ihm einen langen Brief, um sich zu entschuldigen.
+      en: She wrote him a long letter to apologize.
+      author: chatgpt
+    - de: Er <em>hat</em> einen spannenden Roman <em>geschrieben</em>, der bald veröffentlicht wird.
+      en: He has written an exciting novel that will be published soon.
+      author: chatgpt
 - pre_example: das Baby
   verb: schreien
   post_example: ''
@@ -2793,15 +2793,15 @@
   duden_url: https://www.duden.de/rechtschreibung/schreien
   duden_word_frequency: 3
   examples:
-  - de: Er <em>schreit</em> laut vor Freude, als er die gute Nachricht hört.
-    en: He shouts loudly with joy when he hears the good news.
-    author: chatgpt
-  - de: Sie <em>schrie</em> vor Angst, als sie den Schatten sah.
-    en: She screamed in fear when she saw the shadow.
-    author: chatgpt
-  - de: Er <em>hat</em> vor Wut <em>geschrien</em>, weil etwas schiefgegangen ist.
-    en: He yelled in anger because something went wrong.
-    author: chatgpt
+    - de: Er <em>schreit</em> laut vor Freude, als er die gute Nachricht hört.
+      en: He shouts loudly with joy when he hears the good news.
+      author: chatgpt
+    - de: Sie <em>schrie</em> vor Angst, als sie den Schatten sah.
+      en: She screamed in fear when she saw the shadow.
+      author: chatgpt
+    - de: Er <em>hat</em> vor Wut <em>geschrien</em>, weil etwas schiefgegangen ist.
+      en: He yelled in anger because something went wrong.
+      author: chatgpt
 - pre_example: der König
   verb: schreiten
   post_example: durch die Tür
@@ -2814,15 +2814,15 @@
   duden_url: https://www.duden.de/rechtschreibung/schreiten
   duden_word_frequency: 3
   examples:
-  - de: Er <em>schreitet</em> stolz über die Bühne, als er seinen Preis entgegennimmt.
-    en: He strides proudly across the stage as he accepts his award.
-    author: chatgpt
-  - de: Sie <em>schritt</em> durch den Garten, um die frische Luft zu genießen.
-    en: She walked through the garden to enjoy the fresh air.
-    author: chatgpt
-  - de: Er <em>ist</em> langsam in den Saal <em>geschritten</em>, während alle ihn beobachteten.
-    en: He walked slowly into the hall as everyone watched him.
-    author: chatgpt
+    - de: Er <em>schreitet</em> stolz über die Bühne, als er seinen Preis entgegennimmt.
+      en: He strides proudly across the stage as he accepts his award.
+      author: chatgpt
+    - de: Sie <em>schritt</em> durch den Garten, um die frische Luft zu genießen.
+      en: She walked through the garden to enjoy the fresh air.
+      author: chatgpt
+    - de: Er <em>ist</em> langsam in den Saal <em>geschritten</em>, während alle ihn beobachteten.
+      en: He walked slowly into the hall as everyone watched him.
+      author: chatgpt
 - pre_example: ''
   verb: schweigen
   post_example: ''
@@ -2836,15 +2836,15 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-  - de: Er <em>schweigt</em> lieber, als eine unnötige Diskussion zu führen.
-    en: He prefers to remain silent rather than engage in an unnecessary argument.
-    author: chatgpt
-  - de: Sie <em>schwieg</em>, als die Wahrheit ans Licht kam.
-    en: She remained silent when the truth came to light.
-    author: chatgpt
-  - de: Er <em>hat</em> während des gesamten Treffens <em>geschwiegen</em> und kein Wort gesagt.
-    en: He stayed silent throughout the entire meeting and didn't say a word.
-    author: chatgpt
+    - de: Er <em>schweigt</em> lieber, als eine unnötige Diskussion zu führen.
+      en: He prefers to remain silent rather than engage in an unnecessary argument.
+      author: chatgpt
+    - de: Sie <em>schwieg</em>, als die Wahrheit ans Licht kam.
+      en: She remained silent when the truth came to light.
+      author: chatgpt
+    - de: Er <em>hat</em> während des gesamten Treffens <em>geschwiegen</em> und kein Wort gesagt.
+      en: He stayed silent throughout the entire meeting and didn't say a word.
+      author: chatgpt
 - pre_example: der Fuss
   verb: schwellen
   post_example: ''
@@ -2857,15 +2857,15 @@
   duden_url: https://www.duden.de/rechtschreibung/schwellen_wachsen
   duden_word_frequency: 2
   examples:
-  - de: Der Fluss <em>schwillt</em> nach dem starken Regen rasch an.
-    en: The river swells quickly after the heavy rain.
-    author: chatgpt
-  - de: Sein Knöchel <em>schwoll</em> nach dem Sturz stark an.
-    en: His ankle swelled badly after the fall.
-    author: chatgpt
-  - de: Der Bach <em>ist</em> nach dem Gewitter stark <em>angeschwollen</em>.
-    en: The stream swelled up significantly after the thunderstorm.
-    author: chatgpt
+    - de: Der Fluss <em>schwillt</em> nach dem starken Regen rasch an.
+      en: The river swells quickly after the heavy rain.
+      author: chatgpt
+    - de: Sein Knöchel <em>schwoll</em> nach dem Sturz stark an.
+      en: His ankle swelled badly after the fall.
+      author: chatgpt
+    - de: Der Bach <em>ist</em> nach dem Gewitter stark <em>angeschwollen</em>.
+      en: The stream swelled up significantly after the thunderstorm.
+      author: chatgpt
 - pre_example: ''
   verb: schwimmen
   post_example: ''
@@ -2878,18 +2878,18 @@
   duden_url: https://www.duden.de/rechtschreibung/schwimmen
   duden_word_frequency: 3
   examples:
-  - de: Er <em>schwimmt</em> jeden Morgen im See, um fit zu bleiben.
-    en: He swims in the lake every morning to stay fit.
-    author: chatgpt
-  - de: Sie <em>schwamm</em> schneller als alle anderen und gewann das Rennen.
-    en: She swam faster than everyone else and won the race.
-    author: chatgpt
-  - de: Martin <em>ist</em> die 500 Meter am schnellsten <em>geschwommen</em>.
-    en: Martin swam the 500 meters in the fastest time.
-    author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-  - de: In Italien <em>sind</em> wir oft im Mittelmeer <em>geschwommen</em>.
-    en: In Italy, we often swam in the Mediterranean.
-    author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Er <em>schwimmt</em> jeden Morgen im See, um fit zu bleiben.
+      en: He swims in the lake every morning to stay fit.
+      author: chatgpt
+    - de: Sie <em>schwamm</em> schneller als alle anderen und gewann das Rennen.
+      en: She swam faster than everyone else and won the race.
+      author: chatgpt
+    - de: Martin <em>ist</em> die 500 Meter am schnellsten <em>geschwommen</em>.
+      en: Martin swam the 500 meters in the fastest time.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: In Italien <em>sind</em> wir oft im Mittelmeer <em>geschwommen</em>.
+      en: In Italy, we often swam in the Mediterranean.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
   verb: schwingen
   post_example: die Fahne
@@ -2903,15 +2903,15 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-  - de: Er <em>schwingt</em> das Seil, bevor er es loslässt.
-    en: He swings the rope before letting it go.
-    author: chatgpt
-  - de: Sie <em>schwang</em> den Hammer kräftig, um den Nagel einzuschlagen.
-    en: She swung the hammer forcefully to drive in the nail.
-    author: chatgpt
-  - de: Er <em>hat</em> die Fahne stolz im Wind <em>geschwungen</em>.
-    en: He proudly waved the flag in the wind.
-    author: chatgpt
+    - de: Er <em>schwingt</em> das Seil, bevor er es loslässt.
+      en: He swings the rope before letting it go.
+      author: chatgpt
+    - de: Sie <em>schwang</em> den Hammer kräftig, um den Nagel einzuschlagen.
+      en: She swung the hammer forcefully to drive in the nail.
+      author: chatgpt
+    - de: Er <em>hat</em> die Fahne stolz im Wind <em>geschwungen</em>.
+      en: He proudly waved the flag in the wind.
+      author: chatgpt
 - pre_example: ''
   verb: schwören
   post_example: ewige Treue
@@ -2924,15 +2924,15 @@
   duden_url: https://www.duden.de/rechtschreibung/schwoeren
   duden_word_frequency: 2
   examples:
-  - de: Er <em>schwört</em>, immer für sie da zu sein, egal was passiert.
-    en: He vows to always be there for her, no matter what happens.
-    author: chatgpt
-  - de: Sie <em>schwor</em>, die Wahrheit zu sagen, und hielt ihr Wort.
-    en: She swore to tell the truth and kept her word.
-    author: chatgpt
-  - de: Er <em>hat</em> bei allem, was ihm heilig ist, <em>geschworen</em>.
-    en: He swore by everything sacred to him.
-    author: chatgpt
+    - de: Er <em>schwört</em>, immer für sie da zu sein, egal was passiert.
+      en: He vows to always be there for her, no matter what happens.
+      author: chatgpt
+    - de: Sie <em>schwor</em>, die Wahrheit zu sagen, und hielt ihr Wort.
+      en: She swore to tell the truth and kept her word.
+      author: chatgpt
+    - de: Er <em>hat</em> bei allem, was ihm heilig ist, <em>geschworen</em>.
+      en: He swore by everything sacred to him.
+      author: chatgpt
 - pre_example: ''
   verb: sehen
   post_example: einen Film
@@ -2946,17 +2946,17 @@
   duden_word_frequency: 5
   vowel_change_from: e
   vowel_change_to: ie
-  vowel_change_note: 
+  vowel_change_note:
   examples:
-  - de: Er <em> sieht</em> den Sonnenuntergang jeden Abend von seinem Balkon.
-    en: He sees the sunset every evening from his balcony.
-    author: chatgpt
-  - de: Er <em>sah</em> seinem Schicksal ruhig entgegen.
-    en: He met his fate calmly.
-    author: chatgpt
-  - de: Er <em>hat</em> das Konzert letzte Woche <em>gesehen</em> und war begeistert.
-    en: He saw the concert last week and was thrilled.
-    author: chatgpt
+    - de: Er <em> sieht</em> den Sonnenuntergang jeden Abend von seinem Balkon.
+      en: He sees the sunset every evening from his balcony.
+      author: chatgpt
+    - de: Er <em>sah</em> seinem Schicksal ruhig entgegen.
+      en: He met his fate calmly.
+      author: chatgpt
+    - de: Er <em>hat</em> das Konzert letzte Woche <em>gesehen</em> und war begeistert.
+      en: He saw the concert last week and was thrilled.
+      author: chatgpt
 - pre_example: ''
   verb: sein
   post_example:
@@ -2969,15 +2969,15 @@
   duden_url: https://www.duden.de/rechtschreibung/sein_Hilfsverb
   duden_word_frequency: 5
   examples:
-  - de: Sie <em>ist</em> die Beste in ihrer Klasse und hat viele Preise gewonnen.
-    en: She is the best in her class and has won many awards.
-    author: chatgpt
-  - de: Er <em>war</em> gestern in der Stadt, um einige Besorgungen zu machen.
-    en: He was in town yesterday to run some errands.
-    author: chatgpt
-  - de: Wo ist er gewesen?
-    en: Where has he been?
-    author: my
+    - de: Sie <em>ist</em> die Beste in ihrer Klasse und hat viele Preise gewonnen.
+      en: She is the best in her class and has won many awards.
+      author: chatgpt
+    - de: Er <em>war</em> gestern in der Stadt, um einige Besorgungen zu machen.
+      en: He was in town yesterday to run some errands.
+      author: chatgpt
+    - de: Wo ist er gewesen?
+      en: Where has he been?
+      author: my
 - pre_example: ''
   verb: senden
   post_example: eine E-Mail
@@ -2990,15 +2990,15 @@
   duden_url: https://www.duden.de/rechtschreibung/senden
   duden_word_frequency: 3
   examples:
-  - de: Er <em>sendet</em> regelmäßig Nachrichten an seine Freunde, um in Kontakt zu bleiben.
-    en: He regularly sends messages to his friends to stay in touch.
-    author: chatgpt
-  - de: Sie <em>sandte</em> ein Paket an ihre Familie, um ihnen eine Überraschung zu bereiten.
-    en: She sent a package to her family to surprise them.
-    author: chatgpt
-  - de: Er <em>hat</em> eine Einladung zu seiner Geburtstagsfeier <em>gesendet</em>.
-    en: He sent an invitation to his birthday party.
-    author: chatgpt
+    - de: Er <em>sendet</em> regelmäßig Nachrichten an seine Freunde, um in Kontakt zu bleiben.
+      en: He regularly sends messages to his friends to stay in touch.
+      author: chatgpt
+    - de: Sie <em>sandte</em> ein Paket an ihre Familie, um ihnen eine Überraschung zu bereiten.
+      en: She sent a package to her family to surprise them.
+      author: chatgpt
+    - de: Er <em>hat</em> eine Einladung zu seiner Geburtstagsfeier <em>gesendet</em>.
+      en: He sent an invitation to his birthday party.
+      author: chatgpt
 - pre_example: ''
   verb: singen
   post_example: ein Lied
@@ -3011,15 +3011,15 @@
   duden_url: https://www.duden.de/rechtschreibung/singen
   duden_word_frequency: 3
   examples:
-  - de: Er <em>singt</em> jeden Morgen unter der Dusche, um den Tag fröhlich zu beginnen.
-    en: He sings every morning in the shower to start the day happily.
-    author: chatgpt
-  - de: Sie <em>sang</em> ein wunderschönes Lied bei der Hochzeitsfeier.
-    en: She sang a beautiful song at the wedding celebration.
-    author: chatgpt
-  - de: Er <em>hat</em> im Chor <em>gesungen</em> und dabei viele neue Freunde gefunden.
-    en: He sang in the choir and made many new friends.
-    author: chatgpt
+    - de: Er <em>singt</em> jeden Morgen unter der Dusche, um den Tag fröhlich zu beginnen.
+      en: He sings every morning in the shower to start the day happily.
+      author: chatgpt
+    - de: Sie <em>sang</em> ein wunderschönes Lied bei der Hochzeitsfeier.
+      en: She sang a beautiful song at the wedding celebration.
+      author: chatgpt
+    - de: Er <em>hat</em> im Chor <em>gesungen</em> und dabei viele neue Freunde gefunden.
+      en: He sang in the choir and made many new friends.
+      author: chatgpt
 - pre_example: das Interesse
   verb: sinken
   post_example: ''
@@ -3032,15 +3032,15 @@
   duden_url: https://www.duden.de/rechtschreibung/sinken
   duden_word_frequency: 4
   examples:
-  - de: Er <em>sinkt</em> langsam in Gedanken, während er das Meer beobachtet.
-    en: He sinks slowly into thought as he watches the sea.
-    author: chatgpt
-  - de: Sie <em>sank</em> tief in den Sessel, müde von der langen Reise.
-    en: She sank deep into the armchair, tired from the long journey.
-    author: chatgpt
-  - de: Die Temperaturen <em>ist</em> stark <em>gesunken</em>. Der Winter zieht ein.
-    en: The temperature has dropped sharply. Winter is setting in.
-    author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Er <em>sinkt</em> langsam in Gedanken, während er das Meer beobachtet.
+      en: He sinks slowly into thought as he watches the sea.
+      author: chatgpt
+    - de: Sie <em>sank</em> tief in den Sessel, müde von der langen Reise.
+      en: She sank deep into the armchair, tired from the long journey.
+      author: chatgpt
+    - de: Die Temperaturen <em>ist</em> stark <em>gesunken</em>. Der Winter zieht ein.
+      en: The temperature has dropped sharply. Winter is setting in.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
   verb: sinnen
   post_example: auf Rache
@@ -3053,15 +3053,15 @@
   duden_url: https://www.duden.de/rechtschreibung/sinnen
   duden_word_frequency: 2
   examples:
-  - de: Er <em>sinnet</em> oft über das Leben und seine unzähligen Möglichkeiten nach.
-    en: He often reflects on life and its countless possibilities.
-    author: chatgpt
-  - de: Sie <em>sann</em> über die Worte nach, die sie in dem alten Buch gelesen hatte.
-    en: She pondered the words she had read in the old book.
-    author: chatgpt
-  - de: Er <em>hat</em> lange über seine Entscheidungen <em>gesonnen</em>, bevor er sie getroffen hat.
-    en: He pondered his decisions for a long time before making them.
-    author: chatgpt
+    - de: Er <em>sinnet</em> oft über das Leben und seine unzähligen Möglichkeiten nach.
+      en: He often reflects on life and its countless possibilities.
+      author: chatgpt
+    - de: Sie <em>sann</em> über die Worte nach, die sie in dem alten Buch gelesen hatte.
+      en: She pondered the words she had read in the old book.
+      author: chatgpt
+    - de: Er <em>hat</em> lange über seine Entscheidungen <em>gesonnen</em>, bevor er sie getroffen hat.
+      en: He pondered his decisions for a long time before making them.
+      author: chatgpt
 - pre_example: ''
   verb: sitzen
   post_example: aufdem Sofa
@@ -3074,15 +3074,15 @@
   duden_url: https://www.duden.de/rechtschreibung/sitzen
   duden_word_frequency: 4
   examples:
-  - de: Er <em>sitzt</em> gerne am Fenster und schaut den vorbeigehenden Menschen zu.
-    en: He likes to sit by the window and watch the people passing by.
-    author: chatgpt
-  - de: Sie <em>saß</em> still auf der Bank im Park und genoss die Ruhe.
-    en: She sat quietly on the bench in the park and enjoyed the peace.
-    author: chatgpt
-  - de: Er <em>hat</em> während des Meetings <em>gesessen</em> und aufmerksam zugehört.
-    en: He sat during the meeting and listened attentively.
-    author: chatgpt
+    - de: Er <em>sitzt</em> gerne am Fenster und schaut den vorbeigehenden Menschen zu.
+      en: He likes to sit by the window and watch the people passing by.
+      author: chatgpt
+    - de: Sie <em>saß</em> still auf der Bank im Park und genoss die Ruhe.
+      en: She sat quietly on the bench in the park and enjoyed the peace.
+      author: chatgpt
+    - de: Er <em>hat</em> während des Meetings <em>gesessen</em> und aufmerksam zugehört.
+      en: He sat during the meeting and listened attentively.
+      author: chatgpt
 - pre_example: ''
   verb: spalten
   post_example: das Holz mit einem Hieb
@@ -3095,15 +3095,15 @@
   duden_url: https://www.duden.de/rechtschreibung/spalten
   duden_word_frequency: 3
   examples:
-  - de: Er <em>spaltet</em> das Holz mit einer Axt, um es für den Kamin vorzubereiten.
-    en: He splits the wood with an axe to prepare it for the fireplace.
-    author: chatgpt
-  - de: Sie <em>spaltete</em> die Gruppe in zwei Teams für das Spiel.
-    en: She split the group into two teams for the game.
-    author: chatgpt
-  - de: Er <em>hat</em> die Meinungen der Experten <em>gespalten</em>, als er seine Theorie präsentierte.
-    en: He split the opinions of the experts when he presented his theory.
-    author: chatgpt
+    - de: Er <em>spaltet</em> das Holz mit einer Axt, um es für den Kamin vorzubereiten.
+      en: He splits the wood with an axe to prepare it for the fireplace.
+      author: chatgpt
+    - de: Sie <em>spaltete</em> die Gruppe in zwei Teams für das Spiel.
+      en: She split the group into two teams for the game.
+      author: chatgpt
+    - de: Er <em>hat</em> die Meinungen der Experten <em>gespalten</em>, als er seine Theorie präsentierte.
+      en: He split the opinions of the experts when he presented his theory.
+      author: chatgpt
 - pre_example: ''
   verb: speien
   post_example: Blut
@@ -3116,17 +3116,17 @@
   duden_url: https://www.duden.de/rechtschreibung/speien
   duden_word_frequency: 2
   examples:
-  - de: Er <em>speit</em> voller Wut, als er die ungerechte Behandlung sah.
-    en: He spews with anger when he sees the unfair treatment.
-    author: chatgpt
+    - de: Er <em>speit</em> voller Wut, als er die ungerechte Behandlung sah.
+      en: He spews with anger when he sees the unfair treatment.
+      author: chatgpt
 
-  - de: Sie <em>spie</em> einen giftigen Kommentar, der die Stimmung im Raum vergiftete.
-    en: She spat a toxic comment that poisoned the atmosphere in the room.
-    author: chatgpt
+    - de: Sie <em>spie</em> einen giftigen Kommentar, der die Stimmung im Raum vergiftete.
+      en: She spat a toxic comment that poisoned the atmosphere in the room.
+      author: chatgpt
 
-  - de: Er <em>hat</em> während des Films vor Lachen <em>gespien</em>, so lustig fand er die Szene.
-    en: He spat out in laughter during the movie; he found the scene so funny.
-    author: chatgpt
+    - de: Er <em>hat</em> während des Films vor Lachen <em>gespien</em>, so lustig fand er die Szene.
+      en: He spat out in laughter during the movie; he found the scene so funny.
+      author: chatgpt
 - pre_example: die Spinne
   verb: spinnen
   post_example: ein Netz
@@ -3139,17 +3139,17 @@
   duden_url: https://www.duden.de/rechtschreibung/spinnen
   duden_word_frequency: 2
   examples:
-  - de: Er <em>spinnt</em> die Fäden seiner Geschichten mit viel Fantasie.
-    en: He spins the threads of his stories with a lot of imagination.
-    author: chatgpt
+    - de: Er <em>spinnt</em> die Fäden seiner Geschichten mit viel Fantasie.
+      en: He spins the threads of his stories with a lot of imagination.
+      author: chatgpt
 
-  - de: Sie <em>spannte</em> den Stoff für ihr Kunstprojekt und ließ ihrer Kreativität freien Lauf.
-    en: She spun the fabric for her art project and let her creativity flow.
-    author: chatgpt
+    - de: Sie <em>spannte</em> den Stoff für ihr Kunstprojekt und ließ ihrer Kreativität freien Lauf.
+      en: She spun the fabric for her art project and let her creativity flow.
+      author: chatgpt
 
-  - de: Er <em>hat</em> in den letzten Wochen viele Ideen <em>gesponnen</em>, um das Problem zu lösen.
-    en: He has spun many ideas in recent weeks to solve the problem.
-    author: chatgpt
+    - de: Er <em>hat</em> in den letzten Wochen viele Ideen <em>gesponnen</em>, um das Problem zu lösen.
+      en: He has spun many ideas in recent weeks to solve the problem.
+      author: chatgpt
 - pre_example: ''
   verb: sprechen
   post_example: ''
@@ -3163,17 +3163,17 @@
   duden_word_frequency: 4
   vowel_change_from: e
   vowel_change_to: i
-  vowel_change_note: 
+  vowel_change_note:
   examples:
-  - de: Er <em>spricht</em> fließend drei Sprachen und liebt es, neue Kulturen kennenzulernen.
-    en: He speaks three languages fluently and loves to learn about new cultures.
-    author: chatgpt
-  - de: Sie <em>sprach</em> mit Begeisterung über ihr neuestes Projekt während der Besprechung.
-    en: She spoke with enthusiasm about her latest project during the meeting.
-    author: chatgpt
-  - de: Er <em>hat</em> gestern lange mit seinem Freund <em>gesprochen</em>, um ihn zu trösten.
-    en: He spoke for a long time with his friend yesterday to comfort him.
-    author: chatgpt
+    - de: Er <em>spricht</em> fließend drei Sprachen und liebt es, neue Kulturen kennenzulernen.
+      en: He speaks three languages fluently and loves to learn about new cultures.
+      author: chatgpt
+    - de: Sie <em>sprach</em> mit Begeisterung über ihr neuestes Projekt während der Besprechung.
+      en: She spoke with enthusiasm about her latest project during the meeting.
+      author: chatgpt
+    - de: Er <em>hat</em> gestern lange mit seinem Freund <em>gesprochen</em>, um ihn zu trösten.
+      en: He spoke for a long time with his friend yesterday to comfort him.
+      author: chatgpt
 - pre_example: das Gras
   verb: sprießen
   post_example: ''
@@ -3186,15 +3186,15 @@
   duden_url: https://www.duden.de/rechtschreibung/sprieszen_wachsen
   duden_word_frequency: 2
   examples:
-  - de: Er <em>sprießt</em> voller Energie, als der Frühling endlich anbrach.
-    en: He sprouted with energy when spring finally arrived.
-    author: chatgpt
-  - de: Sie <em>spross</em> aus dem Boden, nachdem der Regen fiel und die Erde befeuchtete.
-    en: She sprouted from the ground after the rain fell and moistened the soil.
-    author: chatgpt
-  - de: Er <em>hat</em> in der Frühjahrszeit viele neue Ideen <em>gesprossen</em>, während er spazieren ging.
-    en: He has seen many new ideas sprouting in the spring while he was out for a walk.
-    author: chatgpt
+    - de: Er <em>sprießt</em> voller Energie, als der Frühling endlich anbrach.
+      en: He sprouted with energy when spring finally arrived.
+      author: chatgpt
+    - de: Sie <em>spross</em> aus dem Boden, nachdem der Regen fiel und die Erde befeuchtete.
+      en: She sprouted from the ground after the rain fell and moistened the soil.
+      author: chatgpt
+    - de: Er <em>hat</em> in der Frühjahrszeit viele neue Ideen <em>gesprossen</em>, während er spazieren ging.
+      en: He has seen many new ideas sprouting in the spring while he was out for a walk.
+      author: chatgpt
 - pre_example: ''
   verb: springen
   post_example: überein Hindernis
@@ -3208,15 +3208,15 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-  - de: Er <em>springt</em> voller Freude, als er die gute Nachricht hört.
-    en: He jumps with joy when he hears the good news.
-    author: chatgpt
-  - de: Sie <em>sprang</em> über die Pfütze, um ihre neuen Schuhe trocken zu halten.
-    en: She jumped over the puddle to keep her new shoes dry.
-    author: chatgpt
-  - de: Das Pferd <em>ist</em>schon über einen 2 Meter hohen Zaun <em>gesprungen</em>.
-    en: The horse has already jumped over a 2 meter high fence.
-    author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Er <em>springt</em> voller Freude, als er die gute Nachricht hört.
+      en: He jumps with joy when he hears the good news.
+      author: chatgpt
+    - de: Sie <em>sprang</em> über die Pfütze, um ihre neuen Schuhe trocken zu halten.
+      en: She jumped over the puddle to keep her new shoes dry.
+      author: chatgpt
+    - de: Das Pferd <em>ist</em>schon über einen 2 Meter hohen Zaun <em>gesprungen</em>.
+      en: The horse has already jumped over a 2 meter high fence.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: die Mücke
   verb: stechen
   post_example: ''
@@ -3231,17 +3231,17 @@
   duden_word_frequency: 5
   vowel_change_from: e
   vowel_change_to: i
-  vowel_change_note: 
+  vowel_change_note:
   examples:
-  - de: Er <em>sticht</em> mit seinem Messer die Äpfel, um sie für den Kuchen vorzubereiten.
-    en: He stabs the apples with his knife to prepare them for the pie.
-    author: chatgpt
-  - de: Sie <em>stach</em> versehentlich in den Finger, während sie die Blume schnitt.
-    en: She accidentally pricked her finger while cutting the flower.
-    author: chatgpt
-  - de: Eine Biene <em>hat</em> ihn <em>gestochen</em>.
-    en: He was stung by a bee.
-    author: linguee
+    - de: Er <em>sticht</em> mit seinem Messer die Äpfel, um sie für den Kuchen vorzubereiten.
+      en: He stabs the apples with his knife to prepare them for the pie.
+      author: chatgpt
+    - de: Sie <em>stach</em> versehentlich in den Finger, während sie die Blume schnitt.
+      en: She accidentally pricked her finger while cutting the flower.
+      author: chatgpt
+    - de: Eine Biene <em>hat</em> ihn <em>gestochen</em>.
+      en: He was stung by a bee.
+      author: linguee
 - pre_example: ''
   verb: stehen
   post_example: ''
@@ -3254,18 +3254,18 @@
   duden_url: https://www.duden.de/rechtschreibung/stehen
   duden_word_frequency: 5
   examples:
-  - de: Er <em>steht</em> auf dem Balkon und genießt die frische Luft des Morgens.
-    en: He stands on the balcony and enjoys the fresh morning air.
-    author: chatgpt
-  - de: Sie <em>stand</em> am Fenster und beobachtete die Vögel, die im Garten flogen.
-    en: She stood by the window watching the birds flying in the garden.
-    author: chatgpt
-  - de: Um wie viel Uhr <em>ist</em> Sascha am Sonntag <em>aufgestanden</em>?
-    en: What time did Sascha get up on Sunday?
-    author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-  - de: Um Urlaub <em>sind</em> wir selten vor dem Mittag <em>aufgestanden</em>.
-    en: We rarely got up before midday on vacation.
-    author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Er <em>steht</em> auf dem Balkon und genießt die frische Luft des Morgens.
+      en: He stands on the balcony and enjoys the fresh morning air.
+      author: chatgpt
+    - de: Sie <em>stand</em> am Fenster und beobachtete die Vögel, die im Garten flogen.
+      en: She stood by the window watching the birds flying in the garden.
+      author: chatgpt
+    - de: Um wie viel Uhr <em>ist</em> Sascha am Sonntag <em>aufgestanden</em>?
+      en: What time did Sascha get up on Sunday?
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Um Urlaub <em>sind</em> wir selten vor dem Mittag <em>aufgestanden</em>.
+      en: We rarely got up before midday on vacation.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
   verb: stehlen
   post_example: ein Gemälde
@@ -3279,17 +3279,17 @@
   duden_word_frequency: 3
   vowel_change_from: e
   vowel_change_to: ie
-  vowel_change_note: 
+  vowel_change_note:
   examples:
-  - de: Er <em>stiehlt</em> heimlich die Kekse aus der Keksdose, während niemand zuschaut.
-    en: He secretly steals the cookies from the jar while no one is watching.
-    author: chatgpt
-  - de: Sie <em>stahl</em> das Herz ihres Freundes mit ihrem charmanten Lächeln.
-    en: She stole her friend's heart with her charming smile.
-    author: chatgpt
-  - de: Er <em>hat</em> schon oft <em>gestohlen</em>, aber diesmal wurde er erwischt.
-    en: He has stolen many times before, but this time he got caught.
-    author: chatgpt
+    - de: Er <em>stiehlt</em> heimlich die Kekse aus der Keksdose, während niemand zuschaut.
+      en: He secretly steals the cookies from the jar while no one is watching.
+      author: chatgpt
+    - de: Sie <em>stahl</em> das Herz ihres Freundes mit ihrem charmanten Lächeln.
+      en: She stole her friend's heart with her charming smile.
+      author: chatgpt
+    - de: Er <em>hat</em> schon oft <em>gestohlen</em>, aber diesmal wurde er erwischt.
+      en: He has stolen many times before, but this time he got caught.
+      author: chatgpt
 - pre_example: ''
   verb: steigen
   post_example: auf einen Berg
@@ -3302,21 +3302,21 @@
   duden_url: https://www.duden.de/rechtschreibung/steigen
   duden_word_frequency: 4
   examples:
-  - de: Er <em>steigt</em> jeden Morgen die Treppen zur Arbeit, um fit zu bleiben.
-    en: He climbs the stairs to work every morning to stay fit.
-    author: chatgpt
-  - de: Sie <em>stieg</em> vorsichtig auf den Stuhl, um das oberste Regal zu erreichen.
-    en: She carefully climbed onto the chair to reach the top shelf.
-    author: chatgpt
-  - de: Tagsüber <em>sind</em> die Temperaturen nur um 2 Grad <em>gestiegen</em>.
-    en: During the day, temperatures have only risen by 2 degrees.
-    author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-  - de: Warum <em>ist</em> Herr Schöller nicht in das Taxi <em>eingestiegen</em>?
-    en: Why didn't Mr. Schöller get into the cab?
-    author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-  - de: An der Bushaltestelle <em>sind</em> alle Fahrgäste aus dem Bus <em>ausgestiegen</em>.
-    en: All passengers have got off the bus at the bus stop.
-    author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Er <em>steigt</em> jeden Morgen die Treppen zur Arbeit, um fit zu bleiben.
+      en: He climbs the stairs to work every morning to stay fit.
+      author: chatgpt
+    - de: Sie <em>stieg</em> vorsichtig auf den Stuhl, um das oberste Regal zu erreichen.
+      en: She carefully climbed onto the chair to reach the top shelf.
+      author: chatgpt
+    - de: Tagsüber <em>sind</em> die Temperaturen nur um 2 Grad <em>gestiegen</em>.
+      en: During the day, temperatures have only risen by 2 degrees.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Warum <em>ist</em> Herr Schöller nicht in das Taxi <em>eingestiegen</em>?
+      en: Why didn't Mr. Schöller get into the cab?
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: An der Bushaltestelle <em>sind</em> alle Fahrgäste aus dem Bus <em>ausgestiegen</em>.
+      en: All passengers have got off the bus at the bus stop.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
   verb: sterben
   post_example: an einer Krankheit
@@ -3331,17 +3331,17 @@
   duden_word_frequency: 5
   vowel_change_from: e
   vowel_change_to: i
-  vowel_change_note: 
+  vowel_change_note:
   examples:
-  - de: Er <em>stirbt</em> vor Aufregung, als er die Einladung zur Gala erhält.
-    en: He is dying of excitement when he receives the invitation to the gala.
-    author: chatgpt
-  - de: Sie <em>starb</em> friedlich im Schlaf, umgeben von ihren Lieben.
-    en: She passed away peacefully in her sleep, surrounded by her loved ones.
-    author: chatgpt
-  - de: Er <em>hat</em> das Gefühl, dass die Hoffnung in schwierigen Zeiten <em>gestirbt</em> ist.
-    en: He feels that hope has died in difficult times.
-    author: chatgpt
+    - de: Er <em>stirbt</em> vor Aufregung, als er die Einladung zur Gala erhält.
+      en: He is dying of excitement when he receives the invitation to the gala.
+      author: chatgpt
+    - de: Sie <em>starb</em> friedlich im Schlaf, umgeben von ihren Lieben.
+      en: She passed away peacefully in her sleep, surrounded by her loved ones.
+      author: chatgpt
+    - de: Er <em>hat</em> das Gefühl, dass die Hoffnung in schwierigen Zeiten <em>gestirbt</em> ist.
+      en: He feels that hope has died in difficult times.
+      author: chatgpt
 - pre_example: der Schnee
   verb: stieben
   post_example: ''
@@ -3354,15 +3354,15 @@
   duden_url: https://www.duden.de/rechtschreibung/stieben
   duden_word_frequency: 1
   examples:
-  - de: Er <em>stiebt</em> vor Freude, als er die gute Nachricht erhält.
-    en: He is bursting with joy when he receives the good news.
-    author: chatgpt
-  - de: Sie <em>stob</em> ins Zimmer, voller Energie und Enthusiasmus.
-    en: She burst into the room, full of energy and enthusiasm.
-    author: chatgpt
-  - de: Er <em>hat</em> in der letzten Zeit oft <em>gestiebt</em>, als er von seinen Abenteuern erzählte.
-    en: He has often burst with excitement when telling about his adventures lately.
-    author: chatgpt
+    - de: Er <em>stiebt</em> vor Freude, als er die gute Nachricht erhält.
+      en: He is bursting with joy when he receives the good news.
+      author: chatgpt
+    - de: Sie <em>stob</em> ins Zimmer, voller Energie und Enthusiasmus.
+      en: She burst into the room, full of energy and enthusiasm.
+      author: chatgpt
+    - de: Er <em>hat</em> in der letzten Zeit oft <em>gestiebt</em>, als er von seinen Abenteuern erzählte.
+      en: He has often burst with excitement when telling about his adventures lately.
+      author: chatgpt
 - pre_example: der Müll
   verb: stinken
   post_example: ''
@@ -3375,15 +3375,15 @@
   duden_url: https://www.duden.de/rechtschreibung/stinken
   duden_word_frequency: 2
   examples:
-  - de: Sie <em>stinkt</em> manchmal, wenn sie beim Kochen mit Knoblauch experimentiert.
-    en: She sometimes smells when she experiments with garlic while cooking.
-    author: chatgpt
-  - de: Er <em>stank</em> nach dem Campingausflug, weil er den ganzen Tag draußen war.
-    en: He smelled after the camping trip because he had been outside all day.
-    author: chatgpt
-  - de: Die alten Socken in der Ecke <em>haben gestunken</em>.
-    en: The old socks in the corner have smelled.
-    author: chatgpt
+    - de: Sie <em>stinkt</em> manchmal, wenn sie beim Kochen mit Knoblauch experimentiert.
+      en: She sometimes smells when she experiments with garlic while cooking.
+      author: chatgpt
+    - de: Er <em>stank</em> nach dem Campingausflug, weil er den ganzen Tag draußen war.
+      en: He smelled after the camping trip because he had been outside all day.
+      author: chatgpt
+    - de: Die alten Socken in der Ecke <em>haben gestunken</em>.
+      en: The old socks in the corner have smelled.
+      author: chatgpt
 - pre_example: ''
   verb: stoßen
   post_example: jemanden
@@ -3396,15 +3396,15 @@
   duden_url: https://www.duden.de/rechtschreibung/stoszen
   duden_word_frequency: 3
   examples:
-  - de: Er <em>stößt</em> die Tür mit aller Kraft auf, um den Raum zu betreten.
-    en: He pushes the door open with all his might to enter the room.
-    author: chatgpt
-  - de: Sie <em>stieß</em> beim Tanzen versehentlich gegen den Tisch und ließ alles umfallen.
-    en: She accidentally bumped into the table while dancing and knocked everything over.
-    author: chatgpt
-  - de: Er <em>ist</em> oft gegen die Wand <em>gestoßen</em>, weil er im Dunkeln lief.
-    en: He often bumped into the wall because he was walking in the dark.
-    author: chatgpt
+    - de: Er <em>stößt</em> die Tür mit aller Kraft auf, um den Raum zu betreten.
+      en: He pushes the door open with all his might to enter the room.
+      author: chatgpt
+    - de: Sie <em>stieß</em> beim Tanzen versehentlich gegen den Tisch und ließ alles umfallen.
+      en: She accidentally bumped into the table while dancing and knocked everything over.
+      author: chatgpt
+    - de: Er <em>ist</em> oft gegen die Wand <em>gestoßen</em>, weil er im Dunkeln lief.
+      en: He often bumped into the wall because he was walking in the dark.
+      author: chatgpt
 - pre_example: ''
   verb: stoßen
   post_example: auf Widerstand
@@ -3417,9 +3417,9 @@
   duden_url: https://www.duden.de/rechtschreibung/stoszen
   duden_word_frequency: 3
   examples:
-  - de: Als sie mit ihrem Fahrrad gegen einen anderen Radfahrer <em>gestoßen ist</em>, sind sie beide umgefallen.
-    en: When she hit another cyclist with her bike, they both fell over.
-    author: chatgpt
+    - de: Als sie mit ihrem Fahrrad gegen einen anderen Radfahrer <em>gestoßen ist</em>, sind sie beide umgefallen.
+      en: When she hit another cyclist with her bike, they both fell over.
+      author: chatgpt
 - pre_example: ''
   verb: streichen
   post_example: eine Wand/Urlaubstage
@@ -3433,15 +3433,15 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-  - de: Er <em>streicht</em> mit Freude die alten Möbel neu.
-    en: He is joyfully painting the old furniture anew.
-    author: chatgpt
-  - de: Sie <em>strich</em> das Bild sorgfältig mit leuchtenden Farben.
-    en: She painted the picture carefully with bright colors.
-    author: chatgpt
-  - de: Sie <em>hat</em> das gesamte Haus <em>gestrichen</em.
-    en: She has painted the entire house.
-    author: chatgpt
+    - de: Er <em>streicht</em> mit Freude die alten Möbel neu.
+      en: He is joyfully painting the old furniture anew.
+      author: chatgpt
+    - de: Sie <em>strich</em> das Bild sorgfältig mit leuchtenden Farben.
+      en: She painted the picture carefully with bright colors.
+      author: chatgpt
+    - de: Sie <em>hat</em> das gesamte Haus <em>gestrichen</em.
+      en: She has painted the entire house.
+      author: chatgpt
 - pre_example: ''
   verb: streiten
   post_example: sich mit dem Chef
@@ -3454,15 +3454,15 @@
   duden_url: https://www.duden.de/rechtschreibung/streiten
   duden_word_frequency: 3
   examples:
-  - de: Er <em>streitet</em> oft mit seinem Bruder über die Fernbedienung des Fernsehers.
-    en: He often fights with his brother over the TV remote.
-    author: chatgpt
-  - de: Sie <em>stritt</em> heftig mit ihrer besten Freundin über die beste Art, einen Kuchen zu backen.
-    en: She had a heated argument with her best friend about the best way to bake a cake.
-    author: chatgpt
-  - de: Er <em>hat</em> gestern mit seinem Nachbarn <em>gestritten</em> wegen des Lärms im Garten.
-    en: He argued with his neighbor yesterday about the noise in the garden.
-    author: chatgpt
+    - de: Er <em>streitet</em> oft mit seinem Bruder über die Fernbedienung des Fernsehers.
+      en: He often fights with his brother over the TV remote.
+      author: chatgpt
+    - de: Sie <em>stritt</em> heftig mit ihrer besten Freundin über die beste Art, einen Kuchen zu backen.
+      en: She had a heated argument with her best friend about the best way to bake a cake.
+      author: chatgpt
+    - de: Er <em>hat</em> gestern mit seinem Nachbarn <em>gestritten</em> wegen des Lärms im Garten.
+      en: He argued with his neighbor yesterday about the noise in the garden.
+      author: chatgpt
 - pre_example: ''
   verb: tragen
   post_example: moderne Kleidung
@@ -3476,17 +3476,17 @@
   duden_word_frequency: 4
   vowel_change_from: a
   vowel_change_to: ä
-  vowel_change_note: 
+  vowel_change_note:
   examples:
-  - de: Er <em>trägt</em> immer einen großen Rucksack zur Schule, um all seine Bücher zu transportieren.
-    en: He always carries a big backpack to school to transport all his books.
-    author: chatgpt
-  - de: Sie <em>trug</em> ein wunderschönes Kleid zur Feier, das alle bewunderten.
-    en: She wore a beautiful dress to the party that everyone admired.
-    author: chatgpt
-  - de: Er <em>hat</em> die schwere Kiste allein <em>getragen</em> und sich dabei den Rücken verletzt.
-    en: He carried the heavy box by himself and hurt his back in the process.
-    author: chatgpt
+    - de: Er <em>trägt</em> immer einen großen Rucksack zur Schule, um all seine Bücher zu transportieren.
+      en: He always carries a big backpack to school to transport all his books.
+      author: chatgpt
+    - de: Sie <em>trug</em> ein wunderschönes Kleid zur Feier, das alle bewunderten.
+      en: She wore a beautiful dress to the party that everyone admired.
+      author: chatgpt
+    - de: Er <em>hat</em> die schwere Kiste allein <em>getragen</em> und sich dabei den Rücken verletzt.
+      en: He carried the heavy box by himself and hurt his back in the process.
+      author: chatgpt
 - pre_example: ''
   verb: treffen
   post_example: 'eine Entscheidung/sich, mit Freunden'
@@ -3501,7 +3501,7 @@
   duden_word_frequency: 5
   vowel_change_from: e
   vowel_change_to: i
-  vowel_change_note: 
+  vowel_change_note:
   examples:
     - de: Er <em>trifft</em> sich jeden Samstag mit seinen Freunden im Café, um zu plaudern.
       en: He meets with his friends at the café every Saturday to chat.
@@ -3528,15 +3528,15 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-  - de: Er <em>treibt</em> jeden Morgen Sport, um fit zu bleiben.
-    en: He exercises every morning to stay fit.
-    author: chatgpt
-  - de: Sie <em>trieb</em> ihre Ideen voran und überzeugte alle von ihrem Konzept.
-    en: She pushed her ideas forward and convinced everyone of her concept.
-    author: chatgpt
-  - de: Er <em>hat</em> seine Freunde zum Lachen <em>getrieben</em>, als er einen Witz erzählte.
-    en: He made his friends laugh when he told a joke.
-    author: chatgpt
+    - de: Er <em>treibt</em> jeden Morgen Sport, um fit zu bleiben.
+      en: He exercises every morning to stay fit.
+      author: chatgpt
+    - de: Sie <em>trieb</em> ihre Ideen voran und überzeugte alle von ihrem Konzept.
+      en: She pushed her ideas forward and convinced everyone of her concept.
+      author: chatgpt
+    - de: Er <em>hat</em> seine Freunde zum Lachen <em>getrieben</em>, als er einen Witz erzählte.
+      en: He made his friends laugh when he told a joke.
+      author: chatgpt
 - pre_example: der Kahn
   verb: treiben
   post_example: führerlos im Meer
@@ -3550,12 +3550,12 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-  - de: Sie <em>treibt</em> leidenschaftlich gern im Wasser und genießt jede Minute im Schwimmbad.
-    en: She loves to swim passionately and enjoys every minute at the pool.
-    author: chatgpt
-  - de: Er <em>trieb</em> sein Pferd über die Wiese, um es fit zu halten.
-    en: He exercised his horse across the meadow to keep it fit.
-    author: chatgpt
+    - de: Sie <em>treibt</em> leidenschaftlich gern im Wasser und genießt jede Minute im Schwimmbad.
+      en: She loves to swim passionately and enjoys every minute at the pool.
+      author: chatgpt
+    - de: Er <em>trieb</em> sein Pferd über die Wiese, um es fit zu halten.
+      en: He exercised his horse across the meadow to keep it fit.
+      author: chatgpt
 - pre_example: ''
   verb: treten
   post_example: auf Bananenschale
@@ -3608,15 +3608,15 @@
   # Duden is missing frequency info. We're assuming it is 5/5.
   duden_word_frequency: 5
   examples:
-  - de: Er <em>trinkt</em> jeden Morgen einen starken Kaffee, um wach zu werden.
-    en: He drinks a strong coffee every morning to wake up.
-    author: chatgpt
-  - de: Sie <em>trank</em> ein Glas Wasser, bevor sie mit dem Training begann.
-    en: She drank a glass of water before starting her workout.
-    author: chatgpt
-  - de: Er <em>hat</em> beim Picknick Limonade <em>getrunken</em>.
-    en: He drank lemonade during the picnic.
-    author: chatgpt
+    - de: Er <em>trinkt</em> jeden Morgen einen starken Kaffee, um wach zu werden.
+      en: He drinks a strong coffee every morning to wake up.
+      author: chatgpt
+    - de: Sie <em>trank</em> ein Glas Wasser, bevor sie mit dem Training begann.
+      en: She drank a glass of water before starting her workout.
+      author: chatgpt
+    - de: Er <em>hat</em> beim Picknick Limonade <em>getrunken</em>.
+      en: He drank lemonade during the picnic.
+      author: chatgpt
 - pre_example: ''
   verb: tun
   post_example: nichts
@@ -3629,15 +3629,15 @@
   duden_url: https://www.duden.de/rechtschreibung/tun_landschaftlich
   duden_word_frequency: 4
   examples:
-  - de: Er <em>tut</em> alles, um seine Familie glücklich zu machen.
-    en: He does everything to make his family happy.
-    author: chatgpt
-  - de: Sie <em>tat</em> ihr Bestes, um das Projekt rechtzeitig abzuschließen.
-    en: She did her best to complete the project on time.
-    author: chatgpt
-  - de: Er <em>hat</em> in der Vergangenheit viel für seine Gemeinde <em>getan</em>.
-    en: He has done a lot for his community in the past.
-    author: chatgpt
+    - de: Er <em>tut</em> alles, um seine Familie glücklich zu machen.
+      en: He does everything to make his family happy.
+      author: chatgpt
+    - de: Sie <em>tat</em> ihr Bestes, um das Projekt rechtzeitig abzuschließen.
+      en: She did her best to complete the project on time.
+      author: chatgpt
+    - de: Er <em>hat</em> in der Vergangenheit viel für seine Gemeinde <em>getan</em>.
+      en: He has done a lot for his community in the past.
+      author: chatgpt
 - pre_example: das Obst
   verb: verderben
   post_example: ''
@@ -3654,9 +3654,9 @@
   vowel_change_to: i
   vowel_change_note:
   examples:
-  - de: Fleisch sollte man im Kühlschrank aufheben, sonst kann es <em>verderben</em>.
-    en: Meat should be stored in the fridge, otherwise it can spoil.
-    author: linguee
+    - de: Fleisch sollte man im Kühlschrank aufheben, sonst kann es <em>verderben</em>.
+      en: Meat should be stored in the fridge, otherwise it can spoil.
+      author: linguee
 - pre_example: ''
   verb: verderben
   post_example: jemandem den Spass
@@ -3673,12 +3673,12 @@
   vowel_change_to: i
   vowel_change_note:
   examples:
-  - de: Er <em>verdirbt</em> den Kindern den Spaß mit ständigen Beschwerden.
-    en: He is ruining the children's fun with constant complaints.
-    author: chatgpt
-  - de: Sie <em>verderbte</em> ihm den Spaß, als sie ihn nicht mitspielen ließ.
-    en: She ruined his fun when she didn’t let him join the game.
-    author: chatgpt
+    - de: Er <em>verdirbt</em> den Kindern den Spaß mit ständigen Beschwerden.
+      en: He is ruining the children's fun with constant complaints.
+      author: chatgpt
+    - de: Sie <em>verderbte</em> ihm den Spaß, als sie ihn nicht mitspielen ließ.
+      en: She ruined his fun when she didn’t let him join the game.
+      author: chatgpt
 - pre_example: sein Verhalten
   verb: verdriessen
   post_example: mich
@@ -3691,15 +3691,15 @@
   duden_url: https://www.duden.de/rechtschreibung/verdrieszen
   duden_word_frequency: 1
   examples:
-  - de: Er <em>verdrießt</em> oft seine Eltern mit seinen unordentlichen Gewohnheiten.
-    en: He often annoys his parents with his messy habits.
-    author: chatgpt
-  - de: Sie <em>verdross</em> ihre Freunde, als sie ständig auf ihr Handy schaute, während sie sprach.
-    en: She irritated her friends when she kept looking at her phone while talking.
-    author: chatgpt
-  - de: Er <em>hat</em> sie mit seinen ständigen Fragen <em>verdrossen</em>, die nie enden wollten.
-    en: He annoyed her with his endless questions that never seemed to stop.
-    author: chatgpt
+    - de: Er <em>verdrießt</em> oft seine Eltern mit seinen unordentlichen Gewohnheiten.
+      en: He often annoys his parents with his messy habits.
+      author: chatgpt
+    - de: Sie <em>verdross</em> ihre Freunde, als sie ständig auf ihr Handy schaute, während sie sprach.
+      en: She irritated her friends when she kept looking at her phone while talking.
+      author: chatgpt
+    - de: Er <em>hat</em> sie mit seinen ständigen Fragen <em>verdrossen</em>, die nie enden wollten.
+      en: He annoyed her with his endless questions that never seemed to stop.
+      author: chatgpt
 - pre_example: ''
   verb: vergessen
   post_example: einen Termin/jemanden
@@ -3711,17 +3711,17 @@
   is_buried: false
   duden_url: https://www.duden.de/rechtschreibung/vergessen_Verb_nicht_erinnern
   # Duden is missing frequency info. We're assuming it is 5/5.
-  duden_word_frequency: 5 
+  duden_word_frequency: 5
   examples:
-  - de: Er <em>vergisst</em> oft, seine Schlüssel mitzunehmen, wenn er das Haus verlässt.
-    en: He often forgets to take his keys when he leaves the house.
-    author: chatgpt
-  - de: Sie <em>vergaß</em>, den Geburtstag ihres Freundes zu feiern, was ihn sehr enttäuschte.
-    en: She forgot to celebrate her friend's birthday, which disappointed him greatly.
-    author: chatgpt
-  - de: Er <em>hat</em> bei der Prüfung wichtige Fakten <em>vergessen</em>, was seine Note beeinflusste.
-    en: He forgot important facts during the exam, which affected his grade.
-    author: chatgpt
+    - de: Er <em>vergisst</em> oft, seine Schlüssel mitzunehmen, wenn er das Haus verlässt.
+      en: He often forgets to take his keys when he leaves the house.
+      author: chatgpt
+    - de: Sie <em>vergaß</em>, den Geburtstag ihres Freundes zu feiern, was ihn sehr enttäuschte.
+      en: She forgot to celebrate her friend's birthday, which disappointed him greatly.
+      author: chatgpt
+    - de: Er <em>hat</em> bei der Prüfung wichtige Fakten <em>vergessen</em>, was seine Note beeinflusste.
+      en: He forgot important facts during the exam, which affected his grade.
+      author: chatgpt
 - pre_example: ''
   verb: verlieren
   post_example: den Autoschlüssel
@@ -3734,15 +3734,15 @@
   duden_url: https://www.duden.de/rechtschreibung/verlieren
   duden_word_frequency: 4
   examples:
-  - de: Er <em>verliert</em> oft seine Geduld, wenn die Dinge nicht nach Plan laufen.
-    en: He often loses his patience when things don't go as planned.
-    author: chatgpt
-  - de: Sie <em>verlor</em> beim Spiel gegen ihre Freunde und konnte sich nicht darüber freuen.
-    en: She lost the game against her friends and couldn't enjoy it.
-    author: chatgpt
-  - de: Er <em>hat</em> seine Geldbörse <em>verloren</em>, während er in der Stadt unterwegs war.
-    en: He lost his wallet while he was out in the city.
-    author: chatgpt
+    - de: Er <em>verliert</em> oft seine Geduld, wenn die Dinge nicht nach Plan laufen.
+      en: He often loses his patience when things don't go as planned.
+      author: chatgpt
+    - de: Sie <em>verlor</em> beim Spiel gegen ihre Freunde und konnte sich nicht darüber freuen.
+      en: She lost the game against her friends and couldn't enjoy it.
+      author: chatgpt
+    - de: Er <em>hat</em> seine Geldbörse <em>verloren</em>, während er in der Stadt unterwegs war.
+      en: He lost his wallet while he was out in the city.
+      author: chatgpt
 - pre_example: ''
   verb: verschwinden
   post_example: im Dunkeln
@@ -3754,17 +3754,17 @@
   is_buried: false
   duden_url: https://www.duden.de/rechtschreibung/verschwinden
   # Duden is missing frequency info. We're assuming it is 5/5.
-  duden_word_frequency: 5 
+  duden_word_frequency: 5
   examples:
-  - de: Er <em>verschwindet</em> oft, wenn es Zeit zum Aufräumen ist.
-    en: He often disappears when it's time to clean up.
-    author: chatgpt
-  - de: Sie <em>verschwand</em> ohne ein Wort, was alle in Aufregung versetzte.
-    en: She disappeared without a word, which caused everyone to be alarmed.
-    author: chatgpt 
-  - de: Hast du meinen Hund Bello gesehn? Seit gestern <em>ist</em> er <em>verschwunden</em>.
-    en: Have you seen my dog Bello? He disappeared yesterday.
-    author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Er <em>verschwindet</em> oft, wenn es Zeit zum Aufräumen ist.
+      en: He often disappears when it's time to clean up.
+      author: chatgpt
+    - de: Sie <em>verschwand</em> ohne ein Wort, was alle in Aufregung versetzte.
+      en: She disappeared without a word, which caused everyone to be alarmed.
+      author: chatgpt
+    - de: Hast du meinen Hund Bello gesehn? Seit gestern <em>ist</em> er <em>verschwunden</em>.
+      en: Have you seen my dog Bello? He disappeared yesterday.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
   verb: verzeihen
   post_example: jemandem einen Fehler
@@ -3777,15 +3777,15 @@
   duden_url: https://www.duden.de/rechtschreibung/verzeihen
   duden_word_frequency: 2
   examples:
-  - de: Er <em>verzeiht</em> seinen Freunden oft, wenn sie Fehler machen.
-    en: He often forgives his friends when they make mistakes.
-    author: chatgpt
-  - de: Sie <em>verzieh</em> ihm, obwohl er sie enttäuschte.
-    en: She forgave him even though he disappointed her.
-    author: chatgpt
-  - de: Er <em>hat</em> ihr nicht <em>verziehen</em>, weil er immer noch verletzt ist.
-    en: He has not forgiven her because he is still hurt.
-    author: chatgpt
+    - de: Er <em>verzeiht</em> seinen Freunden oft, wenn sie Fehler machen.
+      en: He often forgives his friends when they make mistakes.
+      author: chatgpt
+    - de: Sie <em>verzieh</em> ihm, obwohl er sie enttäuschte.
+      en: She forgave him even though he disappointed her.
+      author: chatgpt
+    - de: Er <em>hat</em> ihr nicht <em>verziehen</em>, weil er immer noch verletzt ist.
+      en: He has not forgiven her because he is still hurt.
+      author: chatgpt
 - pre_example: der Baum
   verb: wachsen
   post_example: ''
@@ -3801,15 +3801,15 @@
   vowel_change_to: ä
   vowel_change_note:
   examples:
-  - de: Er <em>wächst</em> schnell und hat seine Freunde in der Höhe überholt.
-    en: He is growing quickly and has surpassed his friends in height.
-    author: chatgpt
-  - de: Sie <em>wuchs</em> in einer kleinen Stadt auf und träumte von großen Abenteuern.
-    en: She grew up in a small town and dreamed of great adventures.
-    author: chatgpt
-  - de: Heinrich ist für sein Alter sehr groß. - Ja, er <em>ist</em> sehr schnell<em>gewachsen</em>.
-    en: Heinrich is very tall for his age. - Yes, he has grown very quickly.
-    author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Er <em>wächst</em> schnell und hat seine Freunde in der Höhe überholt.
+      en: He is growing quickly and has surpassed his friends in height.
+      author: chatgpt
+    - de: Sie <em>wuchs</em> in einer kleinen Stadt auf und träumte von großen Abenteuern.
+      en: She grew up in a small town and dreamed of great adventures.
+      author: chatgpt
+    - de: Heinrich ist für sein Alter sehr groß. - Ja, er <em>ist</em> sehr schnell<em>gewachsen</em>.
+      en: Heinrich is very tall for his age. - Yes, he has grown very quickly.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
 - pre_example: ''
   verb: waschen
   post_example: sich/die Sachen
@@ -3825,15 +3825,15 @@
   vowel_change_to: ä
   vowel_change_note:
   examples:
-  - de: Er <em>wäscht</em> jeden Sonntag sein Auto, um es sauber zu halten.
-    en: He washes his car every Sunday to keep it clean.
-    author: chatgpt
-  - de: Sie <em>wusch</em> die Wäsche, bevor sie in den Urlaub fuhr.
-    en: She washed the laundry before going on vacation.
-    author: chatgpt
-  - de: Er <em>hat</em> das Geschirr <em>gewaschen</em>, nachdem sie zu Abend gegessen hatten.
-    en: He washed the dishes after they had dinner.
-    author: chatgpt
+    - de: Er <em>wäscht</em> jeden Sonntag sein Auto, um es sauber zu halten.
+      en: He washes his car every Sunday to keep it clean.
+      author: chatgpt
+    - de: Sie <em>wusch</em> die Wäsche, bevor sie in den Urlaub fuhr.
+      en: She washed the laundry before going on vacation.
+      author: chatgpt
+    - de: Er <em>hat</em> das Geschirr <em>gewaschen</em>, nachdem sie zu Abend gegessen hatten.
+      en: He washed the dishes after they had dinner.
+      author: chatgpt
 - pre_example: der Gegner
   verb: weichen
   post_example: ''
@@ -3846,12 +3846,12 @@
   duden_url: https://www.duden.de/rechtschreibung/weichen_gewichen
   duden_word_frequency: 3
   examples:
-  - de: Die Bohnen müssen erst in Wasser <em>weichen</em>.
-    en: The beans need to soak in water first.
-    author: chatgpt
-  - de: Der Winter <em>wich</em> langsam dem Frühling.
-    en: Winter slowly gave way to spring.
-    author: linguee
+    - de: Die Bohnen müssen erst in Wasser <em>weichen</em>.
+      en: The beans need to soak in water first.
+      author: chatgpt
+    - de: Der Winter <em>wich</em> langsam dem Frühling.
+      en: Winter slowly gave way to spring.
+      author: linguee
 - pre_example: ''
   verb: weisen
   post_example: jemandem den Weg
@@ -3864,9 +3864,9 @@
   duden_url: https://www.duden.de/rechtschreibung/weisen
   duden_word_frequency: 4
   examples:
-  - de: Ein Schild <em>weist</em> in Richtung der Stadt.
-    en: A sign indicates the direction to the city.
-    author: linguee
+    - de: Ein Schild <em>weist</em> in Richtung der Stadt.
+      en: A sign indicates the direction to the city.
+      author: linguee
 - pre_example: ''
   verb: wenden
   post_example: sich an jemanden
@@ -3879,12 +3879,12 @@
   duden_url: https://www.duden.de/rechtschreibung/wenden
   duden_word_frequency: 3
   examples:
-  - de: Wir wendeten uns an unseren Berater, um Rat zu bekommen.
-    en: We turned to our consultant to get advice.
-    author: linguee
-  - de: In der Hoffnung auf Informationen wandte sich die Polizei an die Öffentlichkeit. 
-    en: In the hope of information, the police appealed to the public.
-    author: linguee
+    - de: Wir wendeten uns an unseren Berater, um Rat zu bekommen.
+      en: We turned to our consultant to get advice.
+      author: linguee
+    - de: In der Hoffnung auf Informationen wandte sich die Polizei an die Öffentlichkeit.
+      en: In the hope of information, the police appealed to the public.
+      author: linguee
 - pre_example: ''
   verb: werben
   post_example: für ein Produkt
@@ -3900,15 +3900,15 @@
   vowel_change_to: i
   vowel_change_note:
   examples:
-  - de: Die Firma wirbt mit Flugblättern und Postern.
-    en: The company advertises through leaflets and posters.
-    author: linguee
-  - de: Unser Sportteam möchte neue Mitglieder werben.
-    en: Our sports team wants to recruit new members.
-    author: linguee
+    - de: Die Firma wirbt mit Flugblättern und Postern.
+      en: The company advertises through leaflets and posters.
+      author: linguee
+    - de: Unser Sportteam möchte neue Mitglieder werben.
+      en: Our sports team wants to recruit new members.
+      author: linguee
 - pre_example: ''
   verb: werden
-  post_example: 
+  post_example:
   hilfsverb: sein
   is_reflexive: false
   praesens: wird
@@ -3939,12 +3939,12 @@
   vowel_change_to: i
   vowel_change_note:
   examples:
-  - de: Der Junge <em>warf</em> den Ball über den Zaun.
-    en: The boy threw the ball over the fence.
-    author: linguee
-  - de: Der Weidenbaum <em>wirft</em> einen großen Schatten.
-    en: The willow tree casts a big shadow.
-    author: linguee
+    - de: Der Junge <em>warf</em> den Ball über den Zaun.
+      en: The boy threw the ball over the fence.
+      author: linguee
+    - de: Der Weidenbaum <em>wirft</em> einen großen Schatten.
+      en: The willow tree casts a big shadow.
+      author: linguee
 - pre_example: ''
   verb: wiegen
   post_example: 80 kg
@@ -3957,15 +3957,15 @@
   duden_url: https://www.duden.de/rechtschreibung/wiegen_gewiegt
   duden_word_frequency: 3
   examples:
-  - de: Sie <em>wiegte</em> das Baby in ihren Armen.
-    en: She rocked the baby in her arms.
-    author: lingue
-  - de: Der Verkäufer <em>wog</em> das Obst, bevor er es verpackte.
-    en: The vendor scaled the fruit before packaging it.
-    author: linguee
-  - de: Die Mutter <em>wiegte</em> das Baby, um es zu beruhigen.
-    en: The mother cradled the baby to soothe her.
-    author: linguee
+    - de: Sie <em>wiegte</em> das Baby in ihren Armen.
+      en: She rocked the baby in her arms.
+      author: lingue
+    - de: Der Verkäufer <em>wog</em> das Obst, bevor er es verpackte.
+      en: The vendor scaled the fruit before packaging it.
+      author: linguee
+    - de: Die Mutter <em>wiegte</em> das Baby, um es zu beruhigen.
+      en: The mother cradled the baby to soothe her.
+      author: linguee
 - pre_example: ''
   verb: winden
   post_example: 'sich, wie ein Aal'
@@ -3978,9 +3978,9 @@
   duden_url: https://www.duden.de/rechtschreibung/winden_gewunden
   duden_word_frequency: 2
   examples:
-  - de: Sie <em>wand</em> das Telefonkabel um ihren kleinen Finger.
-    en: She twined the telephone cord around her little finger.
-    author: linguee
+    - de: Sie <em>wand</em> das Telefonkabel um ihren kleinen Finger.
+      en: She twined the telephone cord around her little finger.
+      author: linguee
 - pre_example: ''
   verb: wissen
   post_example: alles
@@ -3992,20 +3992,20 @@
   is_buried: false
   duden_url: https://www.duden.de/rechtschreibung/wissen
   # Duden is missing frequency info. We're assuming it is 5/5.
-  duden_word_frequency: 5 
+  duden_word_frequency: 5
   vowel_change_from: i
   vowel_change_to: ei
   vowel_change_note: alle Singularformen
   examples:
-  - de: Ich <em>weiß</em>, dass ich noch viel zu lernen habe.
-    en: I know that I still have a lot to learn.
-    author: linguee
-  - de: Er sollte es besser <em>wissen</em>.
-    en: He ought to know better.
-    author: linguee
-  - de: Er scheint zu <em>wissen</em>, was Leute denken, es ist unheimlich. 
-    en: He seems to know what people think, it is uncanny. 
-    author: linguee
+    - de: Ich <em>weiß</em>, dass ich noch viel zu lernen habe.
+      en: I know that I still have a lot to learn.
+      author: linguee
+    - de: Er sollte es besser <em>wissen</em>.
+      en: He ought to know better.
+      author: linguee
+    - de: Er scheint zu <em>wissen</em>, was Leute denken, es ist unheimlich.
+      en: He seems to know what people think, it is uncanny.
+      author: linguee
 - pre_example: ''
   verb: wollen
   post_example:
@@ -4017,23 +4017,23 @@
   is_buried: false
   duden_url: https://www.duden.de/rechtschreibung/wollen_moechten_wuenschen
   # Duden is missing frequency info. We're assuming it is 5/5.
-  duden_word_frequency: 5 
+  duden_word_frequency: 5
   vowel_change_from: o
   vowel_change_to: i
   vowel_change_note: alle Singularformen
   examples:
-  - de: Ich <em>will</em> das Buch heute zu Ende lesen. 
-    en: I want to finish reading the book today.
-    author: linguee
-  - de: Das Kind <em>wollte</em> ein Eis.
-    en: The child wanted an ice cream.
-    author: linguee
-  - de: Jeder <em>will</em> glücklich sein.
-    en: Everybody wants to be happy.
-    author: linguee
-  - de: Meine Tochter <em>will</em> Ärztin werden.
-    en: My daughter wants to become a doctor.
-    author: linguee
+    - de: Ich <em>will</em> das Buch heute zu Ende lesen.
+      en: I want to finish reading the book today.
+      author: linguee
+    - de: Das Kind <em>wollte</em> ein Eis.
+      en: The child wanted an ice cream.
+      author: linguee
+    - de: Jeder <em>will</em> glücklich sein.
+      en: Everybody wants to be happy.
+      author: linguee
+    - de: Meine Tochter <em>will</em> Ärztin werden.
+      en: My daughter wants to become a doctor.
+      author: linguee
 - pre_example: ''
   verb: wringen
   post_example: das Wasser aus dem Tuch
@@ -4046,9 +4046,9 @@
   duden_url: https://www.duden.de/rechtschreibung/wringen
   duden_word_frequency: 1
   examples:
-  - de: Man sollte dieses Hemd nach dem Waschen nicht <em>wringen</em>.
-    en: You should not wring this shirt after washing.
-    author: linugee
+    - de: Man sollte dieses Hemd nach dem Waschen nicht <em>wringen</em>.
+      en: You should not wring this shirt after washing.
+      author: linugee
 - pre_example: ''
   verb: ziehen
   post_example: an einem Strick
@@ -4061,12 +4061,12 @@
   duden_url: https://www.duden.de/rechtschreibung/ziehen
   duden_word_frequency: 4
   examples:
-  - de: Nach dem Sport <em>habe</em> ich <em>mich</em> in aller Eile <em>umgezogen</em>.
-    en: After sport, I changed my clothes in a hurry.
-    author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
-  - de: Sie müssen an der Tür <em>ziehen</em>, um sie zu öffnen.
-    en: You have to pull the door in order to open it.
-    author: linugee
+    - de: Nach dem Sport <em>habe</em> ich <em>mich</em> in aller Eile <em>umgezogen</em>.
+      en: After sport, I changed my clothes in a hurry.
+      author: https://mein-deutschbuch.de/files/zusatzmaterialien/uebungen/perfekt-05.pdf
+    - de: Sie müssen an der Tür <em>ziehen</em>, um sie zu öffnen.
+      en: You have to pull the door in order to open it.
+      author: linugee
 - pre_example: ''
   verb: ziehen
   post_example: zujemandem
@@ -4100,18 +4100,18 @@
   duden_url: https://www.duden.de/rechtschreibung/zwingen
   duden_word_frequency: 3
   examples:
-  - de: Ich war <em>gezwungen</em>, mit dem Bus zu fahren, da kein Taxi frei war.
-    en: I was forced to take the bus because no taxi was available.
-    author: linguee
-  - de: Diese militärische Strategie <em>zwang</em> den Feind zum Rückzug.
-    en: This military strategy forced the enemy's retreat.
-    author: linguee
-  - de: Der Regen <em>zwang mich</em>, zuhause zu bleiben. 
-    en: The rain compelled me to stay home. 
-    author: linguee
-  - de: Der Regen <em>zwang uns</em>, unser Picknick zu verschieben.
-    en: The rain obliged us to postpone our picnic.
-    author: linguee
-  - de: Der Präsident wurde zum Rücktritt <em>gezwungen</em>.
-    en: The president was pressured to step down.
-    author: linguee
+    - de: Ich war <em>gezwungen</em>, mit dem Bus zu fahren, da kein Taxi frei war.
+      en: I was forced to take the bus because no taxi was available.
+      author: linguee
+    - de: Diese militärische Strategie <em>zwang</em> den Feind zum Rückzug.
+      en: This military strategy forced the enemy's retreat.
+      author: linguee
+    - de: Der Regen <em>zwang mich</em>, zuhause zu bleiben.
+      en: The rain compelled me to stay home.
+      author: linguee
+    - de: Der Regen <em>zwang uns</em>, unser Picknick zu verschieben.
+      en: The rain obliged us to postpone our picnic.
+      author: linguee
+    - de: Der Präsident wurde zum Rücktritt <em>gezwungen</em>.
+      en: The president was pressured to step down.
+      author: linguee
